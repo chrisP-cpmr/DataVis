@@ -1,0 +1,1794 @@
+,Unnamed: 0,m49_code,country,cpc_code,commodity,year,loss_percentage,food_supply_stage,method_data_collection,Continent
+0,4,116,Cambodia,1213.0,Cauliflowers and broccoli,2008,16.4,Whole supply chain,Survey,Asia
+1,5,116,Cambodia,1232.0,Cucumbers and gherkins,2008,19.7,Whole supply chain,Survey,Asia
+2,6,116,Cambodia,1234.0,Tomatoes,2008,24.6,Whole supply chain,Survey,Asia
+3,7,116,Cambodia,1241.9,"Other beans, green",2008,21.8,Whole supply chain,Survey,Asia
+4,8,120,Cameroon,1313.0,Plantains and cooking bananas,2013,35.0,Whole supply chain,No Data Collection Specified,Africa
+5,9,143,Central Asia,1359.9,"Other fruits, n.e.c.",2011,17.0,Farm,Modelled Estimates,Asia
+6,10,143,Central Asia,1359.9,"Other fruits, n.e.c.",2011,20.0,Processing,Modelled Estimates,Asia
+7,11,143,Central Asia,1359.9,"Other fruits, n.e.c.",2011,10.0,Farm,Modelled Estimates,Asia
+8,12,143,Central Asia,1359.9,"Other fruits, n.e.c.",2011,15.0,Wholesale,Modelled Estimates,Asia
+9,13,143,Central Asia,1359.9,"Other fruits, n.e.c.",2011,12.0,Households,Modelled Estimates,Asia
+10,14,145,Western Asia,1359.9,"Other fruits, n.e.c.",2011,12.0,Households,Modelled Estimates,Asia
+11,15,145,Western Asia,1359.9,"Other fruits, n.e.c.",2011,17.0,Farm,Modelled Estimates,Asia
+12,16,145,Western Asia,1359.9,"Other fruits, n.e.c.",2011,20.0,Processing,Modelled Estimates,Asia
+13,17,145,Western Asia,1359.9,"Other fruits, n.e.c.",2011,10.0,Farm,Modelled Estimates,Asia
+14,18,145,Western Asia,1359.9,"Other fruits, n.e.c.",2011,15.0,Wholesale,Modelled Estimates,Asia
+15,19,15,Northern Africa,1359.9,"Other fruits, n.e.c.",2011,10.0,Farm,Modelled Estimates,Africa
+16,20,15,Northern Africa,1359.9,"Other fruits, n.e.c.",2011,12.0,Households,Modelled Estimates,Africa
+17,21,15,Northern Africa,1359.9,"Other fruits, n.e.c.",2011,15.0,Wholesale,Modelled Estimates,Africa
+18,22,15,Northern Africa,1359.9,"Other fruits, n.e.c.",2011,20.0,Processing,Modelled Estimates,Africa
+19,23,15,Northern Africa,1359.9,"Other fruits, n.e.c.",2011,17.0,Farm,Modelled Estimates,Africa
+20,24,152,Chile,1342.01,Pears,2013,13.0,Farm,No Data Collection Specified,Americas
+21,25,156,China,1359.9,"Other fruits, n.e.c.",2014,10.0,Wholesale,Survey,Asia
+22,26,156,China,1359.9,"Other fruits, n.e.c.",2014,15.0,Storage,Survey,Asia
+23,27,156,China,1359.9,"Other fruits, n.e.c.",2012,12.5,Storage,Modelled Estimates,Asia
+24,28,156,China,1359.9,"Other fruits, n.e.c.",2007,12.5,Storage,Expert Opinion,Asia
+25,29,170,Colombia,1317.0,Papayas,2016,17.7,Harvest,No Data Collection Specified,Americas
+26,30,170,Colombia,1317.0,Papayas,2016,3.0,Retail,No Data Collection Specified,Americas
+27,31,170,Colombia,1317.0,Papayas,2016,3.1,Storage,No Data Collection Specified,Americas
+28,32,188,Costa Rica,1234.0,Tomatoes,2015,2.0,Wholesale,Survey,Americas
+29,33,188,Costa Rica,1234.0,Tomatoes,2015,10.0,Farm,Survey,Americas
+30,34,188,Costa Rica,1234.0,Tomatoes,2015,7.5,Retail,Survey,Americas
+31,35,192,Cuba,1212.0,Cabbages,2011,1.6,Processing,Survey,Americas
+32,36,192,Cuba,1212.0,Cabbages,2011,0.5,Processing,Survey,Americas
+33,37,192,Cuba,1215.0,Spinach,2011,1.0,Processing,Survey,Americas
+34,38,192,Cuba,1229.0,Cantaloupes and other melons,2011,0.2,Processing,Survey,Americas
+35,39,192,Cuba,1232.0,Cucumbers and gherkins,2011,1.0,Processing,Survey,Americas
+36,40,192,Cuba,1234.0,Tomatoes,2011,0.9,Processing,Survey,Americas
+37,41,192,Cuba,1234.0,Tomatoes,2011,7.7,Processing,Survey,Americas
+38,42,192,Cuba,1251.0,Carrots and turnips,2011,5.6,Processing,Survey,Americas
+39,43,192,Cuba,1290.9,"Other vegetables, fresh n.e.c.",2011,1.4,Processing,Survey,Americas
+40,44,192,Cuba,1311.0,Avocados,2011,1.9,Processing,Survey,Americas
+41,45,192,Cuba,1312.0,Bananas,2011,8.7,Processing,Survey,Americas
+42,46,192,Cuba,1316.0,"Mangoes, guavas and mangosteens",2011,2.9,Processing,Survey,Americas
+43,47,192,Cuba,1317.0,Papayas,2011,2.6,Processing,Survey,Americas
+44,48,192,Cuba,1318.0,Pineapples,2011,3.2,Processing,Survey,Americas
+45,49,202,Sub-Saharan Africa,1359.9,"Other fruits, n.e.c.",2011,25.0,Processing,Modelled Estimates,Africa
+46,50,202,Sub-Saharan Africa,1359.9,"Other fruits, n.e.c.",2011,17.0,Wholesale,Modelled Estimates,Africa
+47,51,202,Sub-Saharan Africa,1359.9,"Other fruits, n.e.c.",2011,5.0,Households,Modelled Estimates,Africa
+48,52,202,Sub-Saharan Africa,1359.9,"Other fruits, n.e.c.",2011,9.0,Farm,Modelled Estimates,Africa
+49,53,202,Sub-Saharan Africa,1359.9,"Other fruits, n.e.c.",2011,10.0,Farm,Modelled Estimates,Africa
+50,54,204,Benin,1318.0,Pineapples,2014,50.0,Export,No Data Collection Specified,Africa
+51,55,204,Benin,1234.0,Tomatoes,2010,27.2,Retail,Rapid Assessment,Africa
+52,56,204,Benin,1234.0,Tomatoes,2010,26.0,Farm,Rapid Assessment,Africa
+53,57,204,Benin,1253.01,"Onions and shallots, green",2010,43.8,Wholesale,Rapid Assessment,Africa
+54,58,204,Benin,1253.01,"Onions and shallots, green",2010,28.0,Retail,Rapid Assessment,Africa
+55,59,204,Benin,1316.0,"Mangoes, guavas and mangosteens",2010,45.4,Wholesale,Rapid Assessment,Africa
+56,60,204,Benin,1316.0,"Mangoes, guavas and mangosteens",2010,49.5,Retail,Rapid Assessment,Africa
+57,61,204,Benin,1318.0,Pineapples,2010,13.9,Wholesale,Rapid Assessment,Africa
+58,62,204,Benin,1318.0,Pineapples,2010,22.0,Retail,Rapid Assessment,Africa
+59,63,204,Benin,1323.0,Oranges,2010,31.0,Retail,Rapid Assessment,Africa
+60,66,204,Benin,1323.0,Oranges,2010,26.3,Wholesale,No Data Collection Specified,Africa
+61,67,204,Benin,1323.0,Oranges,2010,10.0,Farm,Rapid Assessment,Africa
+62,68,204,Benin,1234.0,Tomatoes,2009,16.4,Farm,Survey,Africa
+63,69,204,Benin,1323.0,Oranges,2009,36.0,Retail,Survey,Africa
+64,70,204,Benin,1323.0,Oranges,2009,19.3,Wholesale,Survey,Africa
+65,71,204,Benin,1234.0,Tomatoes,2009,24.0,Farm,Rapid Assessment,Africa
+66,72,204,Benin,1234.0,Tomatoes,2009,29.0,Farm,Rapid Assessment,Africa
+67,73,204,Benin,1234.0,Tomatoes,2009,31.2,Wholesale,Rapid Assessment,Africa
+68,74,204,Benin,1234.0,Tomatoes,2009,27.5,Wholesale,Rapid Assessment,Africa
+69,75,204,Benin,1234.0,Tomatoes,2009,26.4,Retail,Rapid Assessment,Africa
+70,76,204,Benin,1234.0,Tomatoes,2009,28.0,Retail,Rapid Assessment,Africa
+71,77,204,Benin,1234.0,Tomatoes,2009,27.5,Retail,Rapid Assessment,Africa
+72,78,204,Benin,1234.0,Tomatoes,2009,21.2,Wholesale,Rapid Assessment,Africa
+73,79,204,Benin,1234.0,Tomatoes,2009,23.0,Farm,Rapid Assessment,Africa
+74,80,204,Benin,1316.0,"Mangoes, guavas and mangosteens",2009,43.5,Whole supply chain,Field Trial/Experimental Design,Africa
+75,81,204,Benin,1323.0,Oranges,2009,5.0,Farm,Rapid Assessment,Africa
+76,82,204,Benin,1323.0,Oranges,2009,11.6,Wholesale,Rapid Assessment,Africa
+77,83,204,Benin,1323.0,Oranges,2009,51.0,Retail,Rapid Assessment,Africa
+78,84,204,Benin,1323.0,Oranges,2009,10.0,Farm,Rapid Assessment,Africa
+79,85,204,Benin,1323.0,Oranges,2009,41.0,Wholesale,Rapid Assessment,Africa
+80,86,204,Benin,1323.0,Oranges,2009,15.0,Farm,Rapid Assessment,Africa
+81,87,204,Benin,1323.0,Oranges,2009,16.4,Wholesale,Rapid Assessment,Africa
+82,88,204,Benin,1323.0,Oranges,2009,10.9,Retail,Rapid Assessment,Africa
+83,89,204,Benin,1323.0,Oranges,2009,33.0,Retail,Rapid Assessment,Africa
+84,90,208,Denmark,1242.0,"Peas, green",2017,5.0,Harvest,Survey,Europe
+85,91,208,Denmark,1242.0,"Peas, green",2017,14.0,Pre-harvest,Survey,Europe
+86,92,208,Denmark,1242.0,"Peas, green",2017,5.0,Processing,Survey,Europe
+87,93,208,Denmark,1242.0,"Peas, green",2017,17.0,Wholesale,Survey,Europe
+88,94,208,Denmark,1242.0,"Peas, green",2017,18.0,Farm,Survey,Europe
+89,95,208,Denmark,1251.0,Carrots and turnips,2017,25.0,Farm,Survey,Europe
+90,96,208,Denmark,1251.0,Carrots and turnips,2017,10.0,Harvest,Survey,Europe
+91,97,208,Denmark,1253.01,"Onions and shallots, green",2017,5.5,Harvest,Survey,Europe
+92,98,208,Denmark,1253.01,"Onions and shallots, green",2017,43.0,Pre-harvest,Survey,Europe
+93,99,208,Denmark,1253.01,"Onions and shallots, green",2017,8.5,Storage,Survey,Europe
+94,100,208,Denmark,1253.01,"Onions and shallots, green",2017,9.0,Transport,Survey,Europe
+95,101,208,Denmark,1253.01,"Onions and shallots, green",2017,21.0,Farm,Survey,Europe
+96,102,208,Denmark,1253.01,"Onions and shallots, green",2017,5.0,Retail,Survey,Europe
+97,103,208,Denmark,1253.01,"Onions and shallots, green",2013,21.0,Whole supply chain,Survey,Europe
+98,104,208,Denmark,1253.01,"Onions and shallots, green",2012,21.0,Whole supply chain,Survey,Europe
+99,105,208,Denmark,1253.01,"Onions and shallots, green",2011,21.0,Whole supply chain,Survey,Europe
+100,106,231,Ethiopia,1234.0,Tomatoes,2015,17.0,Whole supply chain,Survey,Africa
+101,107,231,Ethiopia,1312.0,Bananas,2015,24.6,Whole supply chain,Survey,Africa
+102,108,231,Ethiopia,1323.0,Oranges,2015,20.0,Whole supply chain,Survey,Africa
+103,109,231,Ethiopia,1312.0,Bananas,2012,7.1,Wholesale,No Data Collection Specified,Africa
+104,110,231,Ethiopia,1312.0,Bananas,2012,14.9,Retail,No Data Collection Specified,Africa
+105,111,231,Ethiopia,1312.0,Bananas,2012,4.5,Farm,No Data Collection Specified,Africa
+106,112,242,Fiji,1234.0,Tomatoes,2012,13.4,Households,Survey,Asia
+107,113,242,Fiji,1234.0,Tomatoes,2012,8.8,Farm,Survey,Asia
+108,114,242,Fiji,1234.0,Tomatoes,2012,6.4,Wholesale,Survey,Asia
+109,115,242,Fiji,1234.0,Tomatoes,2012,8.3,Households,Survey,Asia
+110,116,242,Fiji,1234.0,Tomatoes,2012,0.1,Transport,Survey,Asia
+111,117,242,Fiji,1234.0,Tomatoes,2012,6.2,Households,Survey,Asia
+112,118,246,Finland,1242.0,"Peas, green",2017,17.6,Farm,Survey,Europe
+113,119,246,Finland,1251.0,Carrots and turnips,2017,6.2,Harvest,Crop Cutting Field Experiment,Europe
+114,120,246,Finland,1251.0,Carrots and turnips,2017,15.0,Farm,Survey,Europe
+115,121,246,Finland,1253.01,"Onions and shallots, green",2017,11.0,Farm,Survey,Europe
+116,122,246,Finland,1354.0,Strawberries,2014,14.0,Farm,Survey,Europe
+117,123,246,Finland,1214.0,Lettuce and chicory,2013,17.0,Farm,Survey,Europe
+118,124,246,Finland,1242.0,"Peas, green",2013,17.0,Harvest,Survey,Europe
+119,125,246,Finland,1251.0,Carrots and turnips,2013,26.0,Farm,Survey,Europe
+120,126,246,Finland,1253.01,"Onions and shallots, green",2013,11.0,Farm,Survey,Europe
+121,127,246,Finland,1214.0,Lettuce and chicory,2012,17.0,Farm,Survey,Europe
+122,128,246,Finland,1242.0,"Peas, green",2012,17.0,Harvest,Survey,Europe
+123,129,246,Finland,1251.0,Carrots and turnips,2012,26.0,Farm,Survey,Europe
+124,130,246,Finland,1253.01,"Onions and shallots, green",2012,11.0,Farm,Survey,Europe
+125,131,246,Finland,1214.0,Lettuce and chicory,2011,17.0,Farm,Survey,Europe
+126,132,246,Finland,1242.0,"Peas, green",2011,17.0,Harvest,Survey,Europe
+127,133,246,Finland,1251.0,Carrots and turnips,2011,26.0,Farm,Survey,Europe
+128,134,246,Finland,1253.01,"Onions and shallots, green",2011,11.0,Farm,Survey,Europe
+129,135,246,Finland,1359.9,"Other fruits, n.e.c.",2010,13.0,Households,Survey,Europe
+130,136,266,Gabon,1313.0,Plantains and cooking bananas,2013,35.0,Whole supply chain,No Data Collection Specified,Africa
+131,137,288,Ghana,1234.0,Tomatoes,2014,28.6,Farm,Modelled Estimates,Africa
+132,138,288,Ghana,1234.0,Tomatoes,2014,32.1,Distribution,Modelled Estimates,Africa
+133,139,288,Ghana,1234.0,Tomatoes,2014,5.7,Harvest,Modelled Estimates,Africa
+134,140,288,Ghana,1239.01,Okra,2014,30.0,Farm,Modelled Estimates,Africa
+135,141,288,Ghana,1239.01,Okra,2014,16.6,Harvest,Modelled Estimates,Africa
+136,142,288,Ghana,1239.01,Okra,2014,4.7,Distribution,Modelled Estimates,Africa
+137,143,288,Ghana,1323.0,Oranges,2014,2.2,Farm,Modelled Estimates,Africa
+138,144,288,Ghana,1323.0,Oranges,2014,1.1,Harvest,Modelled Estimates,Africa
+139,145,288,Ghana,1323.0,Oranges,2014,2.8,Distribution,Modelled Estimates,Africa
+140,146,288,Ghana,1239.01,Okra,2013,25.0,Post-harvest,Laboratory Trials,Africa
+141,147,288,Ghana,1234.0,Tomatoes,2011,50.0,Farm,Survey,Africa
+142,148,288,Ghana,1234.0,Tomatoes,2011,35.0,Farm,Survey,Africa
+143,149,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2010,5.4,Wholesale,No Data Collection Specified,Africa
+144,150,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2010,9.0,Retail,No Data Collection Specified,Africa
+145,151,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2010,4.8,Farm,No Data Collection Specified,Africa
+146,152,288,Ghana,1212.0,Cabbages,2010,19.3,Wholesale,Rapid Assessment,Africa
+147,153,288,Ghana,1212.0,Cabbages,2010,25.0,Retail,Rapid Assessment,Africa
+148,154,288,Ghana,1212.0,Cabbages,2010,38.0,Farm,Rapid Assessment,Africa
+149,155,288,Ghana,1233.0,Eggplants (aubergines),2010,12.4,Farm,Rapid Assessment,Africa
+150,156,288,Ghana,1233.0,Eggplants (aubergines),2010,10.5,Wholesale,Rapid Assessment,Africa
+151,157,288,Ghana,1233.0,Eggplants (aubergines),2010,8.1,Retail,Rapid Assessment,Africa
+152,158,288,Ghana,1234.0,Tomatoes,2010,16.8,Retail,Rapid Assessment,Africa
+153,159,288,Ghana,1234.0,Tomatoes,2010,17.8,Wholesale,Rapid Assessment,Africa
+154,160,288,Ghana,1239.01,Okra,2010,2.3,Wholesale,Rapid Assessment,Africa
+155,161,288,Ghana,1239.01,Okra,2010,10.7,Retail,Rapid Assessment,Africa
+156,162,288,Ghana,1253.01,"Onions and shallots, green",2010,11.8,Retail,Rapid Assessment,Africa
+157,163,288,Ghana,1253.01,"Onions and shallots, green",2010,3.3,Wholesale,Rapid Assessment,Africa
+158,164,288,Ghana,1313.0,Plantains and cooking bananas,2010,26.0,Wholesale,Rapid Assessment,Africa
+159,165,288,Ghana,1313.0,Plantains and cooking bananas,2010,21.0,Retail,Rapid Assessment,Africa
+160,166,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2010,4.2,Farm,Rapid Assessment,Africa
+161,167,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2010,5.4,Wholesale,Rapid Assessment,Africa
+162,168,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2010,4.5,Retail,Rapid Assessment,Africa
+163,169,288,Ghana,1318.0,Pineapples,2010,20.0,Farm,Rapid Assessment,Africa
+164,170,288,Ghana,1318.0,Pineapples,2010,20.7,Retail,Rapid Assessment,Africa
+165,171,288,Ghana,1318.0,Pineapples,2010,9.6,Farm,Rapid Assessment,Africa
+166,172,288,Ghana,1318.0,Pineapples,2010,27.2,Wholesale,Rapid Assessment,Africa
+167,173,288,Ghana,1234.0,Tomatoes,2010,25.0,Farm,Rapid Assessment,Africa
+168,174,288,Ghana,1234.0,Tomatoes,2010,21.5,Wholesale,Rapid Assessment,Africa
+169,175,288,Ghana,1234.0,Tomatoes,2010,23.0,Retail,Rapid Assessment,Africa
+170,176,288,Ghana,1239.01,Okra,2010,6.3,Retail,Literature Review,Africa
+171,177,288,Ghana,1239.01,Okra,2010,16.6,Farm,Rapid Assessment,Africa
+172,178,288,Ghana,1239.01,Okra,2010,2.3,Wholesale,Rapid Assessment,Africa
+173,179,288,Ghana,1234.0,Tomatoes,2010,22.5,Retail,Rapid Assessment,Africa
+174,180,288,Ghana,1234.0,Tomatoes,2010,50.5,Farm,Rapid Assessment,Africa
+175,181,288,Ghana,1234.0,Tomatoes,2010,35.5,Wholesale,Rapid Assessment,Africa
+176,182,288,Ghana,1239.01,Okra,2010,6.3,Retail,Literature Review,Africa
+177,183,288,Ghana,1239.01,Okra,2010,4.5,Wholesale,Literature Review,Africa
+178,184,288,Ghana,1239.01,Okra,2010,17.0,Farm,Rapid Assessment,Africa
+179,185,288,Ghana,1239.01,Okra,2010,0.3,Farm,Rapid Assessment,Africa
+180,188,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2010,10.0,Wholesale,Rapid Assessment,Africa
+181,192,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2010,6.0,Farm,Literature Review,Africa
+182,193,288,Ghana,1212.0,Cabbages,2009,37.6,Farm,Survey,Africa
+183,194,288,Ghana,1212.0,Cabbages,2009,28.9,Wholesale,Survey,Africa
+184,195,288,Ghana,1212.0,Cabbages,2009,36.3,Retail,Survey,Africa
+185,196,288,Ghana,1234.0,Tomatoes,2009,13.1,Farm,Survey,Africa
+186,197,288,Ghana,1212.0,Cabbages,2009,8.0,Wholesale,Rapid Assessment,Africa
+187,198,288,Ghana,1212.0,Cabbages,2009,45.0,Retail,Rapid Assessment,Africa
+188,199,288,Ghana,1212.0,Cabbages,2009,13.0,Farm,Rapid Assessment,Africa
+189,200,288,Ghana,1212.0,Cabbages,2009,32.0,Wholesale,Rapid Assessment,Africa
+190,201,288,Ghana,1212.0,Cabbages,2009,5.0,Retail,Rapid Assessment,Africa
+191,202,288,Ghana,1212.0,Cabbages,2009,28.1,Retail,Rapid Assessment,Africa
+192,203,288,Ghana,1212.0,Cabbages,2009,54.0,Farm,Rapid Assessment,Africa
+193,204,288,Ghana,1212.0,Cabbages,2009,6.5,Wholesale,Rapid Assessment,Africa
+194,205,288,Ghana,1233.0,Eggplants (aubergines),2009,2.8,Farm,Rapid Assessment,Africa
+195,206,288,Ghana,1233.0,Eggplants (aubergines),2009,16.2,Retail,Rapid Assessment,Africa
+196,207,288,Ghana,1233.0,Eggplants (aubergines),2009,2.0,Wholesale,Rapid Assessment,Africa
+197,208,288,Ghana,1233.0,Eggplants (aubergines),2009,13.9,Farm,Rapid Assessment,Africa
+198,209,288,Ghana,1233.0,Eggplants (aubergines),2009,11.3,Wholesale,Rapid Assessment,Africa
+199,210,288,Ghana,1233.0,Eggplants (aubergines),2009,19.0,Wholesale,Rapid Assessment,Africa
+200,211,288,Ghana,1233.0,Eggplants (aubergines),2009,22.0,Farm,Rapid Assessment,Africa
+201,212,288,Ghana,1233.0,Eggplants (aubergines),2009,9.5,Retail,Rapid Assessment,Africa
+202,214,288,Ghana,1234.0,Tomatoes,2009,21.5,Wholesale,Rapid Assessment,Africa
+203,217,288,Ghana,1234.0,Tomatoes,2009,25.1,Farm,Rapid Assessment,Africa
+204,218,288,Ghana,1234.0,Tomatoes,2009,23.0,Retail,Rapid Assessment,Africa
+205,221,288,Ghana,1234.0,Tomatoes,2009,21.5,Wholesale,Rapid Assessment,Africa
+206,222,288,Ghana,1239.01,Okra,2009,8.5,Retail,Rapid Assessment,Africa
+207,223,288,Ghana,1239.01,Okra,2009,6.3,Retail,Rapid Assessment,Africa
+208,224,288,Ghana,1239.01,Okra,2009,28.0,Farm,Rapid Assessment,Africa
+209,225,288,Ghana,1239.01,Okra,2009,2.3,Wholesale,Rapid Assessment,Africa
+210,226,288,Ghana,1239.01,Okra,2009,15.0,Retail,Rapid Assessment,Africa
+211,227,288,Ghana,1239.01,Okra,2009,16.6,Farm,Rapid Assessment,Africa
+212,228,288,Ghana,1239.01,Okra,2009,4.5,Wholesale,Rapid Assessment,Africa
+213,229,288,Ghana,1239.01,Okra,2009,6.0,Farm,Rapid Assessment,Africa
+214,230,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2009,5.0,Wholesale,Rapid Assessment,Africa
+215,231,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2009,0.4,Wholesale,Rapid Assessment,Africa
+216,232,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2009,8.0,Retail,Rapid Assessment,Africa
+217,233,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2009,2.5,Farm,Rapid Assessment,Africa
+218,234,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2009,2.3,Farm,Rapid Assessment,Africa
+219,235,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2009,1.0,Retail,Rapid Assessment,Africa
+220,236,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2009,6.0,Farm,Rapid Assessment,Africa
+221,237,288,Ghana,1234.0,Tomatoes,2008,25.0,Whole supply chain,No Data Collection Specified,Africa
+222,238,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2008,48.5,Whole supply chain,No Data Collection Specified,Africa
+223,239,288,Ghana,1318.0,Pineapples,2008,28.5,Whole supply chain,No Data Collection Specified,Africa
+224,240,288,Ghana,1234.0,Tomatoes,2008,2.1,Transport,Survey,Africa
+225,241,288,Ghana,1234.0,Tomatoes,2008,3.6,Storage,Survey,Africa
+226,242,288,Ghana,1234.0,Tomatoes,2008,2.3,Wholesale,Survey,Africa
+227,243,288,Ghana,1234.0,Tomatoes,2008,2.2,Storage,Survey,Africa
+228,244,288,Ghana,1234.0,Tomatoes,2008,4.2,Transport,Survey,Africa
+229,245,288,Ghana,1234.0,Tomatoes,2008,3.4,Transport,Survey,Africa
+230,246,288,Ghana,1234.0,Tomatoes,2008,20.0,Transport,Case Study,Africa
+231,247,288,Ghana,1234.0,Tomatoes,2008,1.7,Farm,Survey,Africa
+232,248,288,Ghana,1234.0,Tomatoes,2008,4.1,Processing,Survey,Africa
+233,249,288,Ghana,1234.0,Tomatoes,2008,3.9,Harvest,Survey,Africa
+234,250,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2008,11.8,Transport,Survey,Africa
+235,251,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2008,1.5,Farm,Survey,Africa
+236,252,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2008,3.0,Harvest,Survey,Africa
+237,253,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2008,0.3,Transport,Survey,Africa
+238,254,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2008,0.5,Transport,Survey,Africa
+239,255,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2008,3.5,Processing,Survey,Africa
+240,256,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2008,0.8,Transport,Survey,Africa
+241,257,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2008,19.1,Market,Survey,Africa
+242,258,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2008,2.7,Storage,Survey,Africa
+243,259,288,Ghana,1316.0,"Mangoes, guavas and mangosteens",2008,5.1,Processing,Survey,Africa
+244,260,288,Ghana,1323.0,Oranges,2008,0.5,Wholesale,Survey,Africa
+245,261,288,Ghana,1323.0,Oranges,2008,0.3,Transport,Survey,Africa
+246,262,288,Ghana,1323.0,Oranges,2008,1.1,Harvest,Survey,Africa
+247,263,288,Ghana,1323.0,Oranges,2008,1.0,Transport,Survey,Africa
+248,264,288,Ghana,1323.0,Oranges,2008,2.1,Processing,Survey,Africa
+249,265,324,Guinea,1313.0,Plantains and cooking bananas,2013,35.0,Whole supply chain,No Data Collection Specified,Africa
+250,266,328,Guyana,1234.0,Tomatoes,2015,5.0,Retail,Survey,Africa
+251,267,328,Guyana,1234.0,Tomatoes,2015,8.0,Processing,Survey,Africa
+252,268,328,Guyana,1234.0,Tomatoes,2015,7.0,Harvest,Survey,Africa
+253,269,328,Guyana,1316.0,"Mangoes, guavas and mangosteens",2015,15.0,Harvest,Survey,Africa
+254,270,328,Guyana,1316.0,"Mangoes, guavas and mangosteens",2015,17.0,Processing,Survey,Africa
+255,271,332,Haiti,1316.0,"Mangoes, guavas and mangosteens",2011,20.0,Processing,Case Study,Americas
+256,272,332,Haiti,1316.0,"Mangoes, guavas and mangosteens",2011,50.0,Export,Case Study,Americas
+257,274,332,Haiti,1316.0,"Mangoes, guavas and mangosteens",2010,50.0,Farm,Survey,Americas
+258,275,34,Southern Asia,1359.9,"Other fruits, n.e.c.",2011,25.0,Processing,Modelled Estimates,Asia
+259,276,34,Southern Asia,1359.9,"Other fruits, n.e.c.",2011,9.0,Farm,Modelled Estimates,Asia
+260,277,34,Southern Asia,1359.9,"Other fruits, n.e.c.",2011,10.0,Wholesale,Modelled Estimates,Asia
+261,278,34,Southern Asia,1359.9,"Other fruits, n.e.c.",2011,7.0,Households,Modelled Estimates,Asia
+262,279,34,Southern Asia,1359.9,"Other fruits, n.e.c.",2011,15.0,Farm,Modelled Estimates,Asia
+263,280,35,South-Eastern Asia,1359.9,"Other fruits, n.e.c.",2011,15.0,Farm,Modelled Estimates,Asia
+264,281,35,South-Eastern Asia,1359.9,"Other fruits, n.e.c.",2011,25.0,Processing,Modelled Estimates,Asia
+265,282,35,South-Eastern Asia,1359.9,"Other fruits, n.e.c.",2011,10.0,Wholesale,Modelled Estimates,Asia
+266,283,35,South-Eastern Asia,1359.9,"Other fruits, n.e.c.",2011,7.0,Households,Modelled Estimates,Asia
+267,284,35,South-Eastern Asia,1359.9,"Other fruits, n.e.c.",2011,9.0,Farm,Modelled Estimates,Asia
+268,285,356,India,1212.0,Cabbages,2016,1.7,Harvest,Literature Review,Asia
+269,286,356,India,1212.0,Cabbages,2016,12.8,Whole supply chain,Literature Review,Asia
+270,287,356,India,1212.0,Cabbages,2016,6.8,Farm,Literature Review,Asia
+271,288,356,India,1212.0,Cabbages,2016,2.6,Storage,Literature Review,Asia
+272,289,356,India,1212.0,Cabbages,2016,9.4,Whole supply chain,Literature Review,Asia
+273,290,356,India,1212.0,Cabbages,2016,4.4,Whole supply chain,Literature Review,Asia
+274,291,356,India,1212.0,Cabbages,2016,4.4,Whole supply chain,Literature Review,Asia
+275,292,356,India,1212.0,Cabbages,2016,12.8,Whole supply chain,Literature Review,Asia
+276,293,356,India,1213.0,Cauliflowers and broccoli,2016,2.0,Storage,Literature Review,Asia
+277,294,356,India,1213.0,Cauliflowers and broccoli,2016,2.2,Harvest,Literature Review,Asia
+278,295,356,India,1213.0,Cauliflowers and broccoli,2016,2.0,Storage,Literature Review,Asia
+279,296,356,India,1213.0,Cauliflowers and broccoli,2016,9.6,Whole supply chain,Literature Review,Asia
+280,297,356,India,1213.0,Cauliflowers and broccoli,2016,7.6,Farm,Literature Review,Asia
+281,298,356,India,1213.0,Cauliflowers and broccoli,2016,2.2,Harvest,Literature Review,Asia
+282,299,356,India,1234.0,Tomatoes,2016,9.4,Farm,Literature Review,Asia
+283,300,356,India,1234.0,Tomatoes,2016,12.4,Whole supply chain,Literature Review,Asia
+284,301,356,India,1234.0,Tomatoes,2016,3.0,Storage,Literature Review,Asia
+285,302,356,India,1234.0,Tomatoes,2016,3.2,Harvest,Literature Review,Asia
+286,303,356,India,1242.0,"Peas, green",2016,5.7,Farm,Literature Review,Asia
+287,304,356,India,1242.0,"Peas, green",2016,1.7,Storage,Literature Review,Asia
+288,305,356,India,1242.0,"Peas, green",2016,2.3,Harvest,Literature Review,Asia
+289,306,356,India,1242.0,"Peas, green",2016,7.5,Whole supply chain,Literature Review,Asia
+290,307,356,India,1253.01,"Onions and shallots, green",2016,2.2,Storage,Literature Review,Asia
+291,308,356,India,1253.01,"Onions and shallots, green",2016,8.2,Whole supply chain,Literature Review,Asia
+292,309,356,India,1253.01,"Onions and shallots, green",2016,2.6,Harvest,Literature Review,Asia
+293,310,356,India,1253.01,"Onions and shallots, green",2016,12.7,Whole supply chain,Literature Review,Asia
+294,311,356,India,1253.01,"Onions and shallots, green",2016,6.1,Farm,Literature Review,Asia
+295,312,356,India,1253.01,"Onions and shallots, green",2016,5.5,Whole supply chain,Literature Review,Asia
+296,313,356,India,1270.0,Mushrooms and truffles,2016,2.2,Storage,Literature Review,Asia
+297,314,356,India,1270.0,Mushrooms and truffles,2016,7.3,Farm,Literature Review,Asia
+298,315,356,India,1270.0,Mushrooms and truffles,2016,9.5,Whole supply chain,Literature Review,Asia
+299,316,356,India,1270.0,Mushrooms and truffles,2016,1.0,Harvest,Literature Review,Asia
+300,317,356,India,1312.0,Bananas,2016,6.0,Farm,Literature Review,Asia
+301,318,356,India,1312.0,Bananas,2016,4.4,Whole supply chain,Literature Review,Asia
+302,319,356,India,1312.0,Bananas,2016,1.6,Harvest,Literature Review,Asia
+303,320,356,India,1312.0,Bananas,2016,4.4,Whole supply chain,Literature Review,Asia
+304,321,356,India,1312.0,Bananas,2016,10.6,Whole supply chain,Literature Review,Asia
+305,322,356,India,1312.0,Bananas,2016,4.4,Whole supply chain,Literature Review,Asia
+306,323,356,India,1312.0,Bananas,2016,1.7,Storage,Literature Review,Asia
+307,324,356,India,1312.0,Bananas,2016,7.8,Whole supply chain,Literature Review,Asia
+308,325,356,India,1316.0,"Mangoes, guavas and mangosteens",2016,10.0,Whole supply chain,Literature Review,Asia
+309,326,356,India,1316.0,"Mangoes, guavas and mangosteens",2016,4.0,Storage,Literature Review,Asia
+310,327,356,India,1316.0,"Mangoes, guavas and mangosteens",2016,11.9,Farm,Literature Review,Asia
+311,328,356,India,1316.0,"Mangoes, guavas and mangosteens",2016,15.5,Whole supply chain,Literature Review,Asia
+312,329,356,India,1316.0,"Mangoes, guavas and mangosteens",2016,6.9,Farm,Literature Review,Asia
+313,330,356,India,1316.0,"Mangoes, guavas and mangosteens",2016,4.9,Whole supply chain,Literature Review,Asia
+314,331,356,India,1316.0,"Mangoes, guavas and mangosteens",2016,5.3,Harvest,Literature Review,Asia
+315,332,356,India,1316.0,"Mangoes, guavas and mangosteens",2016,10.0,Whole supply chain,Literature Review,Asia
+316,333,356,India,1316.0,"Mangoes, guavas and mangosteens",2016,19.5,Whole supply chain,Literature Review,Asia
+317,334,356,India,1316.0,"Mangoes, guavas and mangosteens",2016,9.2,Whole supply chain,Literature Review,Asia
+318,335,356,India,1316.0,"Mangoes, guavas and mangosteens",2016,6.6,Whole supply chain,Literature Review,Asia
+319,336,356,India,1316.0,"Mangoes, guavas and mangosteens",2016,15.9,Whole supply chain,Literature Review,Asia
+320,337,356,India,1316.0,"Mangoes, guavas and mangosteens",2016,15.5,Whole supply chain,Literature Review,Asia
+321,338,356,India,1316.0,"Mangoes, guavas and mangosteens",2016,2.1,Harvest,Literature Review,Asia
+322,339,356,India,1317.0,Papayas,2016,2.6,Storage,Literature Review,Asia
+323,340,356,India,1317.0,Papayas,2016,4.1,Farm,Literature Review,Asia
+324,341,356,India,1317.0,Papayas,2016,12.3,Whole supply chain,Literature Review,Asia
+325,342,356,India,1317.0,Papayas,2016,1.0,Harvest,Literature Review,Asia
+326,343,356,India,1317.0,Papayas,2016,6.7,Whole supply chain,Literature Review,Asia
+327,344,356,India,1317.0,Papayas,2016,3.2,Whole supply chain,Literature Review,Asia
+328,345,356,India,1319.0,"Other tropical and subtropical fruits, n.e.c.",2016,2.5,Harvest,Literature Review,Asia
+329,346,356,India,1319.0,"Other tropical and subtropical fruits, n.e.c.",2016,12.0,Whole supply chain,Literature Review,Asia
+330,347,356,India,1329.0,"Other citrus fruit, n.e.c.",2016,9.7,Whole supply chain,Literature Review,Asia
+331,348,356,India,1329.0,"Other citrus fruit, n.e.c.",2016,2.4,Storage,Literature Review,Asia
+332,349,356,India,1329.0,"Other citrus fruit, n.e.c.",2016,6.1,Whole supply chain,Literature Review,Asia
+333,350,356,India,1329.0,"Other citrus fruit, n.e.c.",2016,13.0,Whole supply chain,Literature Review,Asia
+334,351,356,India,1329.0,"Other citrus fruit, n.e.c.",2016,7.6,Farm,Literature Review,Asia
+335,352,356,India,1329.0,"Other citrus fruit, n.e.c.",2016,1.7,Harvest,Literature Review,Asia
+336,353,356,India,1330.0,Grapes,2016,1.8,Harvest,Literature Review,Asia
+337,354,356,India,1330.0,Grapes,2016,8.6,Whole supply chain,Literature Review,Asia
+338,355,356,India,1330.0,Grapes,2016,6.5,Farm,Literature Review,Asia
+339,356,356,India,1330.0,Grapes,2016,2.1,Storage,Literature Review,Asia
+340,357,356,India,1341.0,Apples,2016,1.3,Storage,Literature Review,Asia
+341,358,356,India,1341.0,Apples,2016,10.4,Whole supply chain,Literature Review,Asia
+342,359,356,India,1341.0,Apples,2016,4.3,Harvest,Literature Review,Asia
+343,360,356,India,1341.0,Apples,2016,9.1,Whole supply chain,Literature Review,Asia
+344,361,356,India,1359.9,"Other fruits, n.e.c.",2016,7.4,Farm,Literature Review,Asia
+345,362,356,India,1359.9,"Other fruits, n.e.c.",2016,2.3,Storage,Literature Review,Asia
+346,363,356,India,1359.9,"Other fruits, n.e.c.",2016,9.7,Whole supply chain,Literature Review,Asia
+347,364,356,India,1212.0,Cabbages,2014,0.2,Storage,Survey,Asia
+348,365,356,India,1212.0,Cabbages,2014,9.4,Whole supply chain,Survey,Asia
+349,366,356,India,1212.0,Cabbages,2014,0.0,Storage,Survey,Asia
+350,367,356,India,1212.0,Cabbages,2014,1.7,Harvest,Survey,Asia
+351,368,356,India,1212.0,Cabbages,2014,3.3,Farm,Survey,Asia
+352,369,356,India,1212.0,Cabbages,2014,0.4,Farm,Survey,Asia
+353,370,356,India,1212.0,Cabbages,2014,0.9,Storage,Survey,Asia
+354,371,356,India,1212.0,Cabbages,2014,0.1,Storage,Survey,Asia
+355,372,356,India,1212.0,Cabbages,2014,0.4,Farm,Survey,Asia
+356,373,356,India,1212.0,Cabbages,2014,1.0,Transport,Survey,Asia
+357,374,356,India,1212.0,Cabbages,2014,1.4,Storage,Survey,Asia
+358,375,356,India,1213.0,Cauliflowers and broccoli,2014,0.9,Transport,Survey,Asia
+359,376,356,India,1213.0,Cauliflowers and broccoli,2014,9.6,Whole supply chain,Survey,Asia
+360,377,356,India,1213.0,Cauliflowers and broccoli,2014,0.3,Farm,Survey,Asia
+361,378,356,India,1213.0,Cauliflowers and broccoli,2014,2.2,Harvest,Survey,Asia
+362,379,356,India,1213.0,Cauliflowers and broccoli,2014,0.4,Farm,Survey,Asia
+363,380,356,India,1213.0,Cauliflowers and broccoli,2014,0.1,Storage,Survey,Asia
+364,381,356,India,1213.0,Cauliflowers and broccoli,2014,0.8,Storage,Survey,Asia
+365,382,356,India,1213.0,Cauliflowers and broccoli,2014,1.0,Storage,Survey,Asia
+366,383,356,India,1213.0,Cauliflowers and broccoli,2014,3.8,Farm,Survey,Asia
+367,384,356,India,1213.0,Cauliflowers and broccoli,2014,0.1,Storage,Survey,Asia
+368,395,356,India,1242.0,"Peas, green",2014,0.6,Transport,Survey,Asia
+369,396,356,India,1242.0,"Peas, green",2014,0.1,Farm,Survey,Asia
+370,397,356,India,1242.0,"Peas, green",2014,0.3,Farm,Survey,Asia
+371,398,356,India,1242.0,"Peas, green",2014,0.1,Storage,Survey,Asia
+372,399,356,India,1242.0,"Peas, green",2014,1.1,Storage,Survey,Asia
+373,400,356,India,1242.0,"Peas, green",2014,7.5,Whole supply chain,Survey,Asia
+374,401,356,India,1242.0,"Peas, green",2014,0.6,Storage,Survey,Asia
+375,402,356,India,1242.0,"Peas, green",2014,2.4,Farm,Survey,Asia
+376,403,356,India,1242.0,"Peas, green",2014,0.0,Storage,Survey,Asia
+377,404,356,India,1242.0,"Peas, green",2014,2.3,Harvest,Survey,Asia
+378,405,356,India,1253.01,"Onions and shallots, green",2014,0.3,Storage,Survey,Asia
+379,406,356,India,1253.01,"Onions and shallots, green",2014,0.4,Farm,Survey,Asia
+380,407,356,India,1253.01,"Onions and shallots, green",2014,0.7,Storage,Survey,Asia
+381,408,356,India,1253.01,"Onions and shallots, green",2014,2.4,Farm,Survey,Asia
+382,409,356,India,1253.01,"Onions and shallots, green",2014,0.1,Farm,Survey,Asia
+383,410,356,India,1253.01,"Onions and shallots, green",2014,2.6,Harvest,Survey,Asia
+384,411,356,India,1253.01,"Onions and shallots, green",2014,0.5,Transport,Survey,Asia
+385,412,356,India,1253.01,"Onions and shallots, green",2014,0.0,Storage,Survey,Asia
+386,413,356,India,1253.01,"Onions and shallots, green",2014,8.2,Whole supply chain,Survey,Asia
+387,414,356,India,1253.01,"Onions and shallots, green",2014,0.8,Storage,Survey,Asia
+388,415,356,India,1253.01,"Onions and shallots, green",2014,0.4,Storage,Survey,Asia
+389,416,356,India,1270.0,Mushrooms and truffles,2014,1.0,Harvest,Survey,Asia
+390,417,356,India,1270.0,Mushrooms and truffles,2014,5.3,Farm,Survey,Asia
+391,418,356,India,1270.0,Mushrooms and truffles,2014,9.5,Whole supply chain,Survey,Asia
+392,419,356,India,1270.0,Mushrooms and truffles,2014,0.0,Farm,Survey,Asia
+393,420,356,India,1270.0,Mushrooms and truffles,2014,0.8,Transport,Survey,Asia
+394,421,356,India,1270.0,Mushrooms and truffles,2014,1.5,Storage,Survey,Asia
+395,422,356,India,1270.0,Mushrooms and truffles,2014,0.2,Farm,Survey,Asia
+396,423,356,India,1270.0,Mushrooms and truffles,2014,0.7,Storage,Survey,Asia
+397,424,356,India,1312.0,Bananas,2014,0.3,Farm,Survey,Asia
+398,425,356,India,1312.0,Bananas,2014,1.2,Storage,Survey,Asia
+399,426,356,India,1312.0,Bananas,2014,7.8,Whole supply chain,Survey,Asia
+400,427,356,India,1312.0,Bananas,2014,1.6,Harvest,Survey,Asia
+401,428,356,India,1312.0,Bananas,2014,1.9,Transport,Survey,Asia
+402,429,356,India,1312.0,Bananas,2014,0.2,Farm,Survey,Asia
+403,430,356,India,1312.0,Bananas,2014,0.5,Storage,Survey,Asia
+404,431,356,India,1312.0,Bananas,2014,2.1,Farm,Survey,Asia
+405,432,356,India,1312.0,Bananas,2014,0.1,Storage,Survey,Asia
+406,433,356,India,1312.0,Bananas,2014,0.0,Storage,Survey,Asia
+407,434,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,3.3,Farm,Survey,Asia
+408,435,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,2.1,Storage,Survey,Asia
+409,436,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,5.0,Farm,Survey,Asia
+410,437,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,0.0,Storage,Survey,Asia
+411,438,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,0.2,Farm,Survey,Asia
+412,439,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,0.3,Farm,Survey,Asia
+413,440,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,0.2,Storage,Survey,Asia
+414,441,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,1.6,Storage,Survey,Asia
+415,442,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,1.2,Transport,Survey,Asia
+416,443,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,0.0,Storage,Survey,Asia
+417,444,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,0.1,Farm,Survey,Asia
+418,445,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,0.1,Storage,Survey,Asia
+419,446,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,2.1,Harvest,Survey,Asia
+420,447,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,9.2,Whole supply chain,Survey,Asia
+421,448,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,1.0,Transport,Survey,Asia
+422,449,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,0.7,Storage,Survey,Asia
+423,450,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,1.2,Storage,Survey,Asia
+424,451,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,15.9,Whole supply chain,Survey,Asia
+425,452,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,0.3,Farm,Survey,Asia
+426,453,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,5.3,Harvest,Survey,Asia
+427,454,356,India,1316.0,"Mangoes, guavas and mangosteens",2014,0.3,Storage,Survey,Asia
+428,455,356,India,1317.0,Papayas,2014,0.3,Farm,Survey,Asia
+429,456,356,India,1317.0,Papayas,2014,0.8,Storage,Survey,Asia
+430,457,356,India,1317.0,Papayas,2014,0.0,Storage,Survey,Asia
+431,458,356,India,1317.0,Papayas,2014,0.9,Transport,Survey,Asia
+432,459,356,India,1317.0,Papayas,2014,0.4,Farm,Survey,Asia
+433,460,356,India,1317.0,Papayas,2014,1.0,Harvest,Survey,Asia
+434,461,356,India,1317.0,Papayas,2014,6.7,Whole supply chain,Survey,Asia
+435,462,356,India,1317.0,Papayas,2014,1.5,Farm,Survey,Asia
+436,463,356,India,1317.0,Papayas,2014,1.7,Storage,Survey,Asia
+437,464,356,India,1317.0,Papayas,2014,0.1,Storage,Survey,Asia
+438,465,356,India,1317.0,Papayas,2014,0.0,Storage,Survey,Asia
+439,477,356,India,1329.0,"Other citrus fruit, n.e.c.",2014,0.9,Storage,Survey,Asia
+440,478,356,India,1329.0,"Other citrus fruit, n.e.c.",2014,1.7,Transport,Survey,Asia
+441,479,356,India,1329.0,"Other citrus fruit, n.e.c.",2014,1.7,Harvest,Survey,Asia
+442,480,356,India,1329.0,"Other citrus fruit, n.e.c.",2014,0.1,Storage,Survey,Asia
+443,481,356,India,1329.0,"Other citrus fruit, n.e.c.",2014,0.3,Farm,Survey,Asia
+444,482,356,India,1329.0,"Other citrus fruit, n.e.c.",2014,1.1,Storage,Survey,Asia
+445,483,356,India,1329.0,"Other citrus fruit, n.e.c.",2014,0.0,Storage,Survey,Asia
+446,484,356,India,1329.0,"Other citrus fruit, n.e.c.",2014,0.2,Farm,Survey,Asia
+447,485,356,India,1329.0,"Other citrus fruit, n.e.c.",2014,3.7,Farm,Survey,Asia
+448,486,356,India,1329.0,"Other citrus fruit, n.e.c.",2014,9.7,Whole supply chain,Survey,Asia
+449,487,356,India,1329.0,"Other citrus fruit, n.e.c.",2014,0.0,Storage,Survey,Asia
+450,488,356,India,1330.0,Grapes,2014,3.4,Farm,Survey,Asia
+451,489,356,India,1330.0,Grapes,2014,0.1,Storage,Survey,Asia
+452,490,356,India,1330.0,Grapes,2014,1.8,Harvest,Survey,Asia
+453,491,356,India,1330.0,Grapes,2014,0.8,Storage,Survey,Asia
+454,492,356,India,1330.0,Grapes,2014,1.0,Transport,Survey,Asia
+455,493,356,India,1330.0,Grapes,2014,8.6,Whole supply chain,Survey,Asia
+456,494,356,India,1330.0,Grapes,2014,0.0,Storage,Survey,Asia
+457,495,356,India,1330.0,Grapes,2014,1.2,Storage,Survey,Asia
+458,496,356,India,1330.0,Grapes,2014,0.1,Farm,Survey,Asia
+459,497,356,India,1330.0,Grapes,2014,0.3,Farm,Survey,Asia
+460,498,356,India,1341.0,Apples,2014,0.1,Farm,Survey,Asia
+461,499,356,India,1341.0,Apples,2014,0.3,Storage,Survey,Asia
+462,500,356,India,1341.0,Apples,2014,0.1,Storage,Survey,Asia
+463,501,356,India,1341.0,Apples,2014,10.4,Whole supply chain,Survey,Asia
+464,502,356,India,1341.0,Apples,2014,0.3,Storage,Survey,Asia
+465,503,356,India,1341.0,Apples,2014,0.6,Storage,Survey,Asia
+466,504,356,India,1341.0,Apples,2014,4.3,Harvest,Survey,Asia
+467,505,356,India,1341.0,Apples,2014,3.9,Farm,Survey,Asia
+468,506,356,India,1341.0,Apples,2014,0.0,Storage,Survey,Asia
+469,507,356,India,1341.0,Apples,2014,0.4,Transport,Survey,Asia
+470,508,356,India,1341.0,Apples,2014,0.3,Farm,Survey,Asia
+471,509,356,India,1212.0,Cabbages,2013,9.4,Whole supply chain,Literature Review,Asia
+472,510,356,India,1213.0,Cauliflowers and broccoli,2013,9.6,Whole supply chain,Literature Review,Asia
+473,511,356,India,1234.0,Tomatoes,2013,12.4,Whole supply chain,Literature Review,Asia
+474,512,356,India,1312.0,Bananas,2013,7.8,Whole supply chain,Literature Review,Asia
+475,513,356,India,1317.0,Papayas,2013,6.7,Whole supply chain,Literature Review,Asia
+476,514,356,India,1341.0,Apples,2013,10.4,Whole supply chain,Literature Review,Asia
+477,515,356,India,1213.0,Cauliflowers and broccoli,2010,35.5,Harvest,Rapid Assessment,Asia
+478,516,356,India,1232.0,Cucumbers and gherkins,2010,15.0,Harvest,Rapid Assessment,Asia
+479,517,356,India,1232.0,Cucumbers and gherkins,2010,5.4,Wholesale,Case Study,Asia
+480,518,356,India,1232.0,Cucumbers and gherkins,2010,8.6,Farm,Case Study,Asia
+481,519,356,India,1232.0,Cucumbers and gherkins,2010,7.1,Retail,Case Study,Asia
+482,520,356,India,1233.0,Eggplants (aubergines),2010,10.8,Farm,Case Study,Asia
+483,521,356,India,1233.0,Eggplants (aubergines),2010,62.5,Harvest,Rapid Assessment,Asia
+484,522,356,India,1233.0,Eggplants (aubergines),2010,12.8,Wholesale,Case Study,Asia
+485,523,356,India,1233.0,Eggplants (aubergines),2010,7.1,Retail,Case Study,Asia
+486,524,356,India,1234.0,Tomatoes,2010,12.5,Retail,Case Study,Asia
+487,525,356,India,1234.0,Tomatoes,2010,11.9,Transport,Rapid Assessment,Asia
+488,526,356,India,1234.0,Tomatoes,2010,9.4,Storage,Rapid Assessment,Asia
+489,527,356,India,1234.0,Tomatoes,2010,17.5,Farm,Rapid Assessment,Asia
+490,528,356,India,1234.0,Tomatoes,2010,7.5,Farm,Case Study,Asia
+491,529,356,India,1234.0,Tomatoes,2010,4.2,Harvest,Rapid Assessment,Asia
+492,530,356,India,1234.0,Tomatoes,2010,11.1,Wholesale,Case Study,Asia
+493,531,356,India,1234.0,Tomatoes,2010,4.7,Farm,Rapid Assessment,Asia
+494,532,356,India,1239.01,Okra,2010,10.6,Farm,Case Study,Asia
+495,533,356,India,1239.01,Okra,2010,4.5,Farm,Rapid Assessment,Asia
+496,534,356,India,1239.01,Okra,2010,3.5,Retail,Rapid Assessment,Asia
+497,535,356,India,1239.01,Okra,2010,19.8,Harvest,Rapid Assessment,Asia
+498,536,356,India,1239.01,Okra,2010,4.0,Storage,Rapid Assessment,Asia
+499,537,356,India,1239.01,Okra,2010,8.3,Retail,Case Study,Asia
+500,538,356,India,1239.01,Okra,2010,4.3,Transport,Rapid Assessment,Asia
+501,539,356,India,1239.01,Okra,2010,5.0,Wholesale,Case Study,Asia
+502,540,356,India,1239.01,Okra,2010,3.5,Harvest,Rapid Assessment,Asia
+503,541,356,India,1253.01,"Onions and shallots, green",2010,27.5,Harvest,Rapid Assessment,Asia
+504,542,356,India,1312.0,Bananas,2010,28.5,Harvest,Rapid Assessment,Asia
+505,543,356,India,1316.0,"Mangoes, guavas and mangosteens",2010,24.8,Harvest,Rapid Assessment,Asia
+506,544,356,India,1316.0,"Mangoes, guavas and mangosteens",2010,27.5,Harvest,Rapid Assessment,Asia
+507,545,356,India,1316.0,"Mangoes, guavas and mangosteens",2010,5.8,Farm,Case Study,Asia
+508,546,356,India,1316.0,"Mangoes, guavas and mangosteens",2010,8.3,Retail,Case Study,Asia
+509,547,356,India,1316.0,"Mangoes, guavas and mangosteens",2010,7.0,Wholesale,Case Study,Asia
+510,548,356,India,1316.0,"Mangoes, guavas and mangosteens",2010,7.5,Transport,Rapid Assessment,Asia
+511,549,356,India,1319.0,"Other tropical and subtropical fruits, n.e.c.",2010,9.4,Retail,Case Study,Asia
+512,550,356,India,1319.0,"Other tropical and subtropical fruits, n.e.c.",2010,11.3,Farm,Case Study,Asia
+513,551,356,India,1319.0,"Other tropical and subtropical fruits, n.e.c.",2010,8.2,Wholesale,Case Study,Asia
+514,552,356,India,1319.0,"Other tropical and subtropical fruits, n.e.c.",2010,40.0,Harvest,Rapid Assessment,Asia
+515,553,356,India,1239.01,Okra,2009,13.0,Farm,Survey,Asia
+516,554,356,India,1234.0,Tomatoes,2009,9.4,Storage,Survey,Asia
+517,555,356,India,1234.0,Tomatoes,2009,11.9,Transport,Survey,Asia
+518,556,356,India,1234.0,Tomatoes,2009,8.4,Storage,Field Trial/Experimental Design,Asia
+519,557,356,India,1234.0,Tomatoes,2009,1.8,Storage,Field Trial/Experimental Design,Asia
+520,558,356,India,1234.0,Tomatoes,2009,4.2,Harvest,Survey,Asia
+521,559,356,India,1239.01,Okra,2009,3.5,Retail,Survey,Asia
+522,560,356,India,1239.01,Okra,2009,4.0,Storage,Survey,Asia
+523,561,356,India,1239.01,Okra,2009,3.5,Harvest,Survey,Asia
+524,562,356,India,1239.01,Okra,2009,4.5,Farm,Survey,Asia
+525,563,356,India,1239.01,Okra,2009,4.3,Transport,Survey,Asia
+526,564,356,India,1316.0,"Mangoes, guavas and mangosteens",2009,4.5,Farm,Rapid Assessment,Asia
+527,565,356,India,1316.0,"Mangoes, guavas and mangosteens",2009,5.8,Storage,Rapid Assessment,Asia
+528,566,356,India,1316.0,"Mangoes, guavas and mangosteens",2009,4.0,Retail,Rapid Assessment,Asia
+529,567,356,India,1316.0,"Mangoes, guavas and mangosteens",2009,3.0,Harvest,Rapid Assessment,Asia
+530,568,356,India,1316.0,"Mangoes, guavas and mangosteens",2009,7.5,Transport,Survey,Asia
+531,569,356,India,1212.0,Cabbages,2008,17.5,Farm,Literature Review,Asia
+532,570,356,India,1213.0,Cauliflowers and broccoli,2008,17.5,Farm,Literature Review,Asia
+533,571,356,India,1234.0,Tomatoes,2008,35.0,Post-harvest,Literature Review,Asia
+534,572,36,Australia,1234.0,Tomatoes,2017,2.4,Retail,Case Study,Asia
+535,573,36,Australia,1234.0,Tomatoes,2017,10.8,Farm,Case Study,Asia
+536,574,36,Australia,1234.0,Tomatoes,2017,28.7,Farm,Case Study,Asia
+537,575,36,Australia,1234.0,Tomatoes,2017,47.0,Farm,Case Study,Asia
+538,576,36,Australia,1234.0,Tomatoes,2017,5.4,Retail,Case Study,Asia
+539,577,36,Australia,1212.0,Cabbages,2015,12.0,Households,Survey,Asia
+540,578,36,Australia,1212.0,Cabbages,2015,27.0,Households,Survey,Asia
+541,579,36,Australia,1213.0,Cauliflowers and broccoli,2015,37.0,Households,Survey,Asia
+542,580,36,Australia,1213.0,Cauliflowers and broccoli,2015,31.0,Households,Survey,Asia
+543,581,36,Australia,1214.0,Lettuce and chicory,2015,14.0,Households,Survey,Asia
+544,582,36,Australia,1231.0,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2015,26.0,Households,Survey,Asia
+545,583,36,Australia,1251.0,Carrots and turnips,2015,31.0,Households,Survey,Asia
+546,584,36,Australia,21319.01,"Sweet corn, frozen",2015,27.0,Households,Survey,Asia
+547,585,36,Australia,1212.0,Cabbages,2013,20.0,Processing,Survey,Asia
+548,586,36,Australia,1212.0,Cabbages,2013,32.5,Market,Survey,Asia
+549,587,36,Australia,1213.0,Cauliflowers and broccoli,2013,3.0,Processing,Literature Review,Asia
+550,588,36,Australia,1213.0,Cauliflowers and broccoli,2013,10.0,Farm,Literature Review,Asia
+551,589,36,Australia,1213.0,Cauliflowers and broccoli,2013,28.0,Market,Survey,Asia
+552,590,36,Australia,1213.0,Cauliflowers and broccoli,2013,65.0,Processing,Survey,Asia
+553,591,36,Australia,1213.0,Cauliflowers and broccoli,2013,11.0,Farm,Literature Review,Asia
+554,592,36,Australia,1213.0,Cauliflowers and broccoli,2013,24.0,Whole supply chain,Survey,Asia
+555,593,36,Australia,1213.0,Cauliflowers and broccoli,2013,3.0,Processing,Literature Review,Asia
+556,594,36,Australia,1214.0,Lettuce and chicory,2013,6.0,Farm,Literature Review,Asia
+557,595,36,Australia,1214.0,Lettuce and chicory,2013,4.0,Farm,Literature Review,Asia
+558,596,36,Australia,1214.0,Lettuce and chicory,2013,16.0,Processing,Literature Review,Asia
+559,597,36,Australia,1214.0,Lettuce and chicory,2013,17.0,Whole supply chain,Survey,Asia
+560,598,36,Australia,1214.0,Lettuce and chicory,2013,50.0,Whole supply chain,Survey,Asia
+561,599,36,Australia,1214.0,Lettuce and chicory,2013,15.0,Whole supply chain,Survey,Asia
+562,600,36,Australia,1214.0,Lettuce and chicory,2013,9.0,Processing,Literature Review,Asia
+563,601,36,Australia,1214.0,Lettuce and chicory,2013,10.0,Processing,Survey,Asia
+564,602,36,Australia,1231.0,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2013,8.0,Farm,Survey,Asia
+565,603,36,Australia,1251.0,Carrots and turnips,2013,1.0,Processing,Literature Review,Asia
+566,604,36,Australia,1251.0,Carrots and turnips,2013,1.0,Farm,Literature Review,Asia
+567,605,36,Australia,1251.0,Carrots and turnips,2013,5.0,Processing,Survey,Asia
+568,606,36,Australia,1290.9,"Other vegetables, fresh n.e.c.",2013,15.0,Whole supply chain,Survey,Asia
+569,607,36,Australia,1290.9,"Other vegetables, fresh n.e.c.",2013,10.0,Whole supply chain,Survey,Asia
+570,608,36,Australia,1290.9,"Other vegetables, fresh n.e.c.",2013,1.0,Processing,Literature Review,Asia
+571,609,36,Australia,1290.9,"Other vegetables, fresh n.e.c.",2013,10.0,Farm,Literature Review,Asia
+572,610,36,Australia,21319.01,"Sweet corn, frozen",2013,20.0,Whole supply chain,Survey,Asia
+573,611,36,Australia,21319.01,"Sweet corn, frozen",2013,38.5,Processing,Survey,Asia
+574,612,360,Indonesia,1354.0,Strawberries,2010,30.0,Post-harvest,Rapid Assessment,Asia
+575,613,384,Côte d'Ivoire,1313.0,Plantains and cooking bananas,2013,35.0,Whole supply chain,No Data Collection Specified,Africa
+576,614,404,Kenya,1316.0,"Mangoes, guavas and mangosteens",2015,13.0,Whole supply chain,Survey,Africa
+577,615,404,Kenya,1316.0,"Mangoes, guavas and mangosteens",2013,1.5,Export,Expert Opinion,Africa
+578,616,404,Kenya,1316.0,"Mangoes, guavas and mangosteens",2013,20.5,Processing,Field Trial/Experimental Design,Africa
+579,617,404,Kenya,1316.0,"Mangoes, guavas and mangosteens",2013,12.0,Processing,Expert Opinion,Africa
+580,618,404,Kenya,1316.0,"Mangoes, guavas and mangosteens",2013,40.0,Farm,Expert Opinion,Africa
+581,619,404,Kenya,1312.0,Bananas,2012,9.0,Retail,Expert Opinion,Africa
+582,620,404,Kenya,1312.0,Bananas,2012,20.0,Processing,Expert Opinion,Africa
+583,621,404,Kenya,1312.0,Bananas,2012,0.0,Wholesale,Rapid Assessment,Africa
+584,622,404,Kenya,1312.0,Bananas,2012,50.0,Farm,Expert Opinion,Africa
+585,623,404,Kenya,1312.0,Bananas,2012,2.5,Trader,Expert Opinion,Africa
+586,624,404,Kenya,1312.0,Bananas,2012,10.0,Transport,Expert Opinion,Africa
+587,625,404,Kenya,1312.0,Bananas,2012,25.0,Farm,No Data Collection Specified,Africa
+588,626,404,Kenya,1312.0,Bananas,2012,31.5,Farm,Expert Opinion,Africa
+589,627,404,Kenya,1312.0,Bananas,2012,1.3,Retail,Rapid Assessment,Africa
+590,628,404,Kenya,1312.0,Bananas,2012,3.0,Wholesale,Rapid Assessment,Africa
+591,629,404,Kenya,1312.0,Bananas,2012,1.8,Retail,Rapid Assessment,Africa
+592,630,404,Kenya,1234.0,Tomatoes,2012,5.5,Farm,Literature Review,Africa
+593,631,404,Kenya,1312.0,Bananas,2012,32.0,Transport,Literature Review,Africa
+594,632,404,Kenya,1312.0,Bananas,2012,4.0,Processing,Literature Review,Africa
+595,633,404,Kenya,1316.0,"Mangoes, guavas and mangosteens",2012,25.0,Whole supply chain,Survey,Africa
+596,634,404,Kenya,1316.0,"Mangoes, guavas and mangosteens",2010,35.0,Farm,No Data Collection Specified,Africa
+597,635,404,Kenya,1312.0,Bananas,2010,40.0,Post-harvest,Rapid Assessment,Africa
+598,636,404,Kenya,1316.0,"Mangoes, guavas and mangosteens",2010,25.0,Whole supply chain,Census,Africa
+599,637,418,Lao People's Democratic Republic,1232.0,Cucumbers and gherkins,2008,8.7,Whole supply chain,Modelled Estimates,Asia
+600,638,418,Lao People's Democratic Republic,1234.0,Tomatoes,2008,16.9,Whole supply chain,Modelled Estimates,Asia
+601,639,418,Lao People's Democratic Republic,1241.9,"Other beans, green",2008,12.2,Whole supply chain,Modelled Estimates,Asia
+602,640,419,Latin America and the Caribbean,1359.9,"Other fruits, n.e.c.",2011,10.0,Households,Modelled Estimates,Americas
+603,641,419,Latin America and the Caribbean,1359.9,"Other fruits, n.e.c.",2011,12.0,Wholesale,Modelled Estimates,Americas
+604,642,419,Latin America and the Caribbean,1359.9,"Other fruits, n.e.c.",2011,20.0,Farm,Modelled Estimates,Americas
+605,643,419,Latin America and the Caribbean,1359.9,"Other fruits, n.e.c.",2011,10.0,Farm,Modelled Estimates,Americas
+606,644,419,Latin America and the Caribbean,1359.9,"Other fruits, n.e.c.",2011,20.0,Processing,Modelled Estimates,Americas
+607,645,484,Mexico,1234.0,Tomatoes,2016,7.6,Wholesale,Expert Opinion,Americas
+608,646,484,Mexico,1234.0,Tomatoes,2016,10.3,Harvest,Expert Opinion,Americas
+609,648,484,Mexico,1232.0,Cucumbers and gherkins,2015,45.5,Whole supply chain,Survey,Americas
+610,649,484,Mexico,1229.0,Cantaloupes and other melons,2013,41.2,Whole supply chain,Rapid Assessment,Americas
+611,650,484,Mexico,1233.0,Eggplants (aubergines),2013,49.1,Whole supply chain,Rapid Assessment,Americas
+612,651,484,Mexico,1234.0,Tomatoes,2013,17.8,Whole supply chain,Rapid Assessment,Americas
+613,652,484,Mexico,1234.0,Tomatoes,2013,28.9,Whole supply chain,Rapid Assessment,Americas
+614,653,484,Mexico,1235.0,"Pumpkins, squash and gourds",2013,14.7,Whole supply chain,Rapid Assessment,Americas
+615,654,484,Mexico,1251.0,Carrots and turnips,2013,19.0,Whole supply chain,Rapid Assessment,Americas
+616,655,484,Mexico,1252.0,Green garlic,2013,21.4,Whole supply chain,Rapid Assessment,Americas
+617,656,484,Mexico,1253.01,"Onions and shallots, green",2013,32.1,Whole supply chain,Rapid Assessment,Americas
+618,657,484,Mexico,1317.0,Papayas,2013,22.8,Whole supply chain,Rapid Assessment,Americas
+619,658,484,Mexico,1318.0,Pineapples,2013,32.8,Whole supply chain,Rapid Assessment,Americas
+620,659,484,Mexico,1322.0,Lemons and limes,2013,33.4,Whole supply chain,Rapid Assessment,Americas
+621,660,484,Mexico,1323.0,Oranges,2013,23.2,Whole supply chain,Rapid Assessment,Americas
+622,661,484,Mexico,1330.0,Grapes,2013,45.5,Whole supply chain,Rapid Assessment,Americas
+623,681,50,Bangladesh,1213.0,Cauliflowers and broccoli,2010,10.3,Wholesale,Survey,Asia
+624,682,50,Bangladesh,1213.0,Cauliflowers and broccoli,2010,4.2,Farm,Survey,Asia
+625,683,50,Bangladesh,1213.0,Cauliflowers and broccoli,2010,9.2,Trader,Survey,Asia
+626,684,50,Bangladesh,1213.0,Cauliflowers and broccoli,2010,10.7,Retail,Survey,Asia
+627,685,50,Bangladesh,1213.0,Cauliflowers and broccoli,2010,34.4,Whole supply chain,Survey,Asia
+628,686,50,Bangladesh,1213.0,Cauliflowers and broccoli,2010,9.2,Trader,Survey,Asia
+629,687,50,Bangladesh,1213.0,Cauliflowers and broccoli,2010,10.3,Wholesale,Survey,Asia
+630,688,50,Bangladesh,1213.0,Cauliflowers and broccoli,2010,10.7,Retail,Survey,Asia
+631,689,50,Bangladesh,1213.0,Cauliflowers and broccoli,2010,4.2,Farm,Survey,Asia
+632,690,50,Bangladesh,1232.0,Cucumbers and gherkins,2010,4.7,Retail,Survey,Asia
+633,691,50,Bangladesh,1232.0,Cucumbers and gherkins,2010,10.7,Wholesale,Survey,Asia
+634,692,50,Bangladesh,1232.0,Cucumbers and gherkins,2010,4.5,Trader,Survey,Asia
+635,693,50,Bangladesh,1232.0,Cucumbers and gherkins,2010,7.2,Farm,Survey,Asia
+636,694,50,Bangladesh,1232.0,Cucumbers and gherkins,2010,27.1,Whole supply chain,Survey,Asia
+637,695,50,Bangladesh,1232.0,Cucumbers and gherkins,2010,4.5,Trader,Survey,Asia
+638,696,50,Bangladesh,1232.0,Cucumbers and gherkins,2010,10.7,Wholesale,Survey,Asia
+639,697,50,Bangladesh,1232.0,Cucumbers and gherkins,2010,7.2,Farm,Survey,Asia
+640,698,50,Bangladesh,1233.0,Eggplants (aubergines),2010,7.4,Trader,Survey,Asia
+641,699,50,Bangladesh,1233.0,Eggplants (aubergines),2010,7.4,Trader,Survey,Asia
+642,700,50,Bangladesh,1233.0,Eggplants (aubergines),2010,6.6,Retail,Survey,Asia
+643,701,50,Bangladesh,1233.0,Eggplants (aubergines),2010,6.9,Farm,Survey,Asia
+644,702,50,Bangladesh,1233.0,Eggplants (aubergines),2010,6.9,Farm,Survey,Asia
+645,703,50,Bangladesh,1233.0,Eggplants (aubergines),2010,6.4,Retail,Survey,Asia
+646,704,50,Bangladesh,1233.0,Eggplants (aubergines),2010,29.4,Whole supply chain,Survey,Asia
+647,705,50,Bangladesh,1233.0,Eggplants (aubergines),2010,8.4,Wholesale,Survey,Asia
+648,706,50,Bangladesh,1233.0,Eggplants (aubergines),2010,8.4,Wholesale,Survey,Asia
+649,709,50,Bangladesh,1234.0,Tomatoes,2010,8.0,Wholesale,Survey,Asia
+650,711,50,Bangladesh,1234.0,Tomatoes,2010,9.1,Trader,Survey,Asia
+651,713,50,Bangladesh,1234.0,Tomatoes,2010,6.9,Farm,Survey,Asia
+652,714,50,Bangladesh,1234.0,Tomatoes,2010,8.9,Retail,Survey,Asia
+653,715,50,Bangladesh,1234.0,Tomatoes,2010,32.9,Whole supply chain,Survey,Asia
+654,717,50,Bangladesh,1239.01,Okra,2010,10.7,Retail,Survey,Asia
+655,718,50,Bangladesh,1239.01,Okra,2010,4.2,Farm,Survey,Asia
+656,719,50,Bangladesh,1239.01,Okra,2010,4.9,Wholesale,Survey,Asia
+657,720,50,Bangladesh,1239.01,Okra,2010,10.3,Wholesale,Survey,Asia
+658,722,50,Bangladesh,1239.01,Okra,2010,9.8,Trader,Survey,Asia
+659,723,50,Bangladesh,1239.01,Okra,2010,32.3,Whole supply chain,Survey,Asia
+660,726,50,Bangladesh,1239.01,Okra,2010,9.4,Farm,Survey,Asia
+661,727,50,Bangladesh,1239.01,Okra,2010,8.3,Retail,Survey,Asia
+662,728,50,Bangladesh,1239.01,Okra,2010,9.2,Trader,Survey,Asia
+663,731,50,Bangladesh,1312.0,Bananas,2010,7.7,Farm,Survey,Asia
+664,732,50,Bangladesh,1312.0,Bananas,2010,3.2,Retail,Survey,Asia
+665,733,50,Bangladesh,1312.0,Bananas,2010,5.1,Trader,Survey,Asia
+666,734,50,Bangladesh,1312.0,Bananas,2010,3.2,Retail,Survey,Asia
+667,735,50,Bangladesh,1312.0,Bananas,2010,7.7,Farm,Survey,Asia
+668,736,50,Bangladesh,1312.0,Bananas,2010,5.1,Trader,Survey,Asia
+669,737,50,Bangladesh,1312.0,Bananas,2010,8.6,Wholesale,Survey,Asia
+670,738,50,Bangladesh,1312.0,Bananas,2010,4.7,Retail,Survey,Asia
+671,739,50,Bangladesh,1312.0,Bananas,2010,24.6,Whole supply chain,Survey,Asia
+672,740,50,Bangladesh,1312.0,Bananas,2010,8.6,Wholesale,Survey,Asia
+673,744,50,Bangladesh,1316.0,"Mangoes, guavas and mangosteens",2010,27.4,Whole supply chain,Survey,Asia
+674,745,50,Bangladesh,1316.0,"Mangoes, guavas and mangosteens",2010,8.0,Trader,Survey,Asia
+675,748,50,Bangladesh,1316.0,"Mangoes, guavas and mangosteens",2010,7.0,Retail,Survey,Asia
+676,749,50,Bangladesh,1316.0,"Mangoes, guavas and mangosteens",2010,4.0,Farm,Survey,Asia
+677,750,50,Bangladesh,1316.0,"Mangoes, guavas and mangosteens",2010,7.0,Retail,Survey,Asia
+678,751,50,Bangladesh,1316.0,"Mangoes, guavas and mangosteens",2010,8.0,Wholesale,Survey,Asia
+679,752,50,Bangladesh,1316.0,"Mangoes, guavas and mangosteens",2010,8.0,Trader,Survey,Asia
+680,753,50,Bangladesh,1316.0,"Mangoes, guavas and mangosteens",2010,8.0,Wholesale,Survey,Asia
+681,755,50,Bangladesh,1316.0,"Mangoes, guavas and mangosteens",2010,4.0,Farm,Survey,Asia
+682,756,50,Bangladesh,1317.0,Papayas,2010,12.2,Wholesale,Survey,Asia
+683,757,50,Bangladesh,1317.0,Papayas,2010,12.2,Wholesale,Survey,Asia
+684,758,50,Bangladesh,1317.0,Papayas,2010,6.1,Farm,Survey,Asia
+685,759,50,Bangladesh,1317.0,Papayas,2010,7.9,Retail,Survey,Asia
+686,760,50,Bangladesh,1317.0,Papayas,2010,7.9,Retail,Survey,Asia
+687,761,50,Bangladesh,1317.0,Papayas,2010,6.1,Farm,Survey,Asia
+688,762,50,Bangladesh,1317.0,Papayas,2010,13.7,Trader,Survey,Asia
+689,763,50,Bangladesh,1317.0,Papayas,2010,39.9,Whole supply chain,Survey,Asia
+690,764,50,Bangladesh,1317.0,Papayas,2010,13.7,Trader,Survey,Asia
+691,765,50,Bangladesh,1318.0,Pineapples,2010,14.1,Wholesale,Survey,Asia
+692,766,50,Bangladesh,1318.0,Pineapples,2010,10.4,Farm,Survey,Asia
+693,767,50,Bangladesh,1318.0,Pineapples,2010,10.4,Farm,Survey,Asia
+694,768,50,Bangladesh,1318.0,Pineapples,2010,11.6,Trader,Survey,Asia
+695,769,50,Bangladesh,1318.0,Pineapples,2010,11.6,Trader,Survey,Asia
+696,770,50,Bangladesh,1318.0,Pineapples,2010,7.0,Retail,Survey,Asia
+697,771,50,Bangladesh,1318.0,Pineapples,2010,43.0,Whole supply chain,Survey,Asia
+698,772,50,Bangladesh,1318.0,Pineapples,2010,14.1,Wholesale,Survey,Asia
+699,773,50,Bangladesh,1318.0,Pineapples,2010,7.0,Retail,Survey,Asia
+700,774,50,Bangladesh,1319.0,"Other tropical and subtropical fruits, n.e.c.",2010,5.1,Retail,Survey,Asia
+701,777,50,Bangladesh,1319.0,"Other tropical and subtropical fruits, n.e.c.",2010,6.1,Wholesale,Survey,Asia
+702,779,50,Bangladesh,1319.0,"Other tropical and subtropical fruits, n.e.c.",2010,5.1,Trader,Survey,Asia
+703,780,50,Bangladesh,1319.0,"Other tropical and subtropical fruits, n.e.c.",2010,6.1,Wholesale,Survey,Asia
+704,781,50,Bangladesh,1319.0,"Other tropical and subtropical fruits, n.e.c.",2010,24.9,Whole supply chain,Survey,Asia
+705,782,50,Bangladesh,1319.0,"Other tropical and subtropical fruits, n.e.c.",2010,8.5,Farm,Survey,Asia
+706,784,50,Bangladesh,1319.0,"Other tropical and subtropical fruits, n.e.c.",2010,5.1,Trader,Survey,Asia
+707,785,50,Bangladesh,1319.0,"Other tropical and subtropical fruits, n.e.c.",2010,5.1,Retail,Survey,Asia
+708,786,50,Bangladesh,1319.0,"Other tropical and subtropical fruits, n.e.c.",2010,8.5,Farm,Survey,Asia
+709,789,50,Bangladesh,1323.0,Oranges,2010,5.2,Farm,Survey,Asia
+710,790,50,Bangladesh,1323.0,Oranges,2010,23.6,Whole supply chain,Survey,Asia
+711,791,50,Bangladesh,1323.0,Oranges,2010,4.0,Wholesale,Survey,Asia
+712,792,50,Bangladesh,1323.0,Oranges,2010,8.7,Retail,Survey,Asia
+713,793,50,Bangladesh,1323.0,Oranges,2010,5.7,Trader,Survey,Asia
+714,795,50,Bangladesh,1323.0,Oranges,2010,4.0,Wholesale,Survey,Asia
+715,796,50,Bangladesh,1323.0,Oranges,2010,5.2,Farm,Survey,Asia
+716,797,50,Bangladesh,1323.0,Oranges,2010,8.7,Retail,Survey,Asia
+717,799,50,Bangladesh,1323.0,Oranges,2010,5.7,Trader,Survey,Asia
+718,800,50,Bangladesh,1317.0,Papayas,2008,39.9,Whole supply chain,Survey,Asia
+719,801,50,Bangladesh,1318.0,Pineapples,2008,43.0,Whole supply chain,Survey,Asia
+720,802,51,Armenia,1234.0,Tomatoes,2013,3.0,Farm,Survey,Asia
+721,803,51,Armenia,1234.0,Tomatoes,2013,1.0,Households,Survey,Asia
+722,804,51,Armenia,1234.0,Tomatoes,2013,2.0,Farm,Survey,Asia
+723,805,51,Armenia,1234.0,Tomatoes,2013,3.0,Processing,Survey,Asia
+724,806,51,Armenia,1234.0,Tomatoes,2013,2.0,Wholesale,Survey,Asia
+725,807,51,Armenia,1341.0,Apples,2013,6.0,Processing,Survey,Asia
+726,808,51,Armenia,1341.0,Apples,2013,2.0,Wholesale,Survey,Asia
+727,809,51,Armenia,1341.0,Apples,2013,5.0,Farm,Survey,Asia
+728,810,51,Armenia,1341.0,Apples,2013,4.0,Farm,Survey,Asia
+729,811,51,Armenia,1341.0,Apples,2013,1.0,Households,Survey,Asia
+730,812,51,Armenia,1234.0,Tomatoes,2009,26.0,Processing,Survey,Asia
+731,813,51,Armenia,1234.0,Tomatoes,2009,11.0,Households,Survey,Asia
+732,814,51,Armenia,1234.0,Tomatoes,2009,18.0,Wholesale,Survey,Asia
+733,815,51,Armenia,1234.0,Tomatoes,2009,18.0,Storage,Survey,Asia
+734,816,51,Armenia,1234.0,Tomatoes,2009,27.0,Farm,Survey,Asia
+735,817,51,Armenia,1341.0,Apples,2009,4.0,Households,Survey,Asia
+736,818,51,Armenia,1341.0,Apples,2009,47.0,Farm,Survey,Asia
+737,819,51,Armenia,1341.0,Apples,2009,24.0,Processing,Survey,Asia
+738,820,51,Armenia,1341.0,Apples,2009,17.0,Storage,Survey,Asia
+739,821,51,Armenia,1341.0,Apples,2009,8.0,Wholesale,Survey,Asia
+740,822,512,Oman,1232.0,Cucumbers and gherkins,2011,35.0,Harvest,No Data Collection Specified,Asia
+741,823,524,Nepal,1323.0,Oranges,2013,5.0,Storage,Survey,Asia
+742,824,524,Nepal,1324.0,"Tangerines, mandarins, clementines",2013,5.0,Storage,Case Study,Asia
+743,825,524,Nepal,1324.0,"Tangerines, mandarins, clementines",2011,1.5,Harvest,Case Study,Asia
+744,826,524,Nepal,1324.0,"Tangerines, mandarins, clementines",2011,1.0,Retail,Case Study,Asia
+745,827,524,Nepal,1324.0,"Tangerines, mandarins, clementines",2011,7.0,Harvest,Case Study,Asia
+746,828,524,Nepal,1324.0,"Tangerines, mandarins, clementines",2011,1.8,Wholesale,Case Study,Asia
+747,829,524,Nepal,1324.0,"Tangerines, mandarins, clementines",2011,0.6,Processing,Case Study,Asia
+748,830,524,Nepal,1324.0,"Tangerines, mandarins, clementines",2011,5.0,Wholesale,Case Study,Asia
+749,831,524,Nepal,1324.0,"Tangerines, mandarins, clementines",2011,2.5,Harvest,Case Study,Asia
+750,832,524,Nepal,1324.0,"Tangerines, mandarins, clementines",2011,4.5,Harvest,Case Study,Asia
+751,833,524,Nepal,1324.0,"Tangerines, mandarins, clementines",2011,5.5,Harvest,Case Study,Asia
+752,834,524,Nepal,1324.0,"Tangerines, mandarins, clementines",2011,2.5,Harvest,Case Study,Asia
+753,835,524,Nepal,1324.0,"Tangerines, mandarins, clementines",2011,25.0,Transport,Case Study,Asia
+754,836,524,Nepal,1324.0,"Tangerines, mandarins, clementines",2011,5.5,Harvest,Case Study,Asia
+755,837,524,Nepal,1324.0,"Tangerines, mandarins, clementines",2011,40.1,Storage,Case Study,Asia
+756,838,566,Nigeria,1231.0,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2010,12.0,Harvest,Survey,Africa
+757,839,566,Nigeria,1231.0,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2010,15.0,Transport,Survey,Africa
+758,840,566,Nigeria,1231.0,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2010,10.0,Transport,Survey,Africa
+759,843,566,Nigeria,1234.0,Tomatoes,2010,20.0,Harvest,Survey,Africa
+760,844,566,Nigeria,1234.0,Tomatoes,2010,28.0,Transport,Survey,Africa
+761,845,566,Nigeria,1313.0,Plantains and cooking bananas,2010,26.0,Farm,Survey,Africa
+762,846,578,Norway,1242.0,"Peas, green",2017,2.0,Harvest,Survey,Europe
+763,847,578,Norway,1242.0,"Peas, green",2017,1.0,Pre-harvest,Survey,Europe
+764,848,578,Norway,1242.0,"Peas, green",2017,5.5,Processing,Survey,Europe
+765,849,578,Norway,1251.0,Carrots and turnips,2017,6.8,Farm,Survey,Europe
+766,850,578,Norway,1251.0,Carrots and turnips,2017,17.7,Harvest,Survey,Europe
+767,851,578,Norway,1251.0,Carrots and turnips,2017,1.6,Storage,Survey,Europe
+768,852,578,Norway,1251.0,Carrots and turnips,2017,4.6,Harvest,Crop Cutting Field Experiment,Europe
+769,853,578,Norway,1253.01,"Onions and shallots, green",2017,8.4,Farm,Survey,Europe
+770,854,578,Norway,1253.01,"Onions and shallots, green",2017,7.5,Processing,Survey,Europe
+771,855,578,Norway,1253.01,"Onions and shallots, green",2017,0.9,Harvest,Survey,Europe
+772,856,578,Norway,1251.0,Carrots and turnips,2013,1.6,Farm,Case Study,Europe
+773,857,578,Norway,1251.0,Carrots and turnips,2013,18.0,Whole supply chain,Survey,Europe
+774,858,578,Norway,1253.01,"Onions and shallots, green",2013,13.3,Storage,Case Study,Europe
+775,859,578,Norway,1253.01,"Onions and shallots, green",2013,8.0,Whole supply chain,Survey,Europe
+776,860,578,Norway,1251.0,Carrots and turnips,2012,1.6,Farm,Case Study,Europe
+777,861,578,Norway,1251.0,Carrots and turnips,2012,18.0,Whole supply chain,Survey,Europe
+778,862,578,Norway,1253.01,"Onions and shallots, green",2012,8.0,Whole supply chain,Survey,Europe
+779,863,578,Norway,1253.01,"Onions and shallots, green",2012,13.3,Storage,Case Study,Europe
+780,864,578,Norway,1251.0,Carrots and turnips,2011,18.0,Whole supply chain,Survey,Europe
+781,865,578,Norway,1251.0,Carrots and turnips,2011,1.6,Farm,Case Study,Europe
+782,866,578,Norway,1253.01,"Onions and shallots, green",2011,8.0,Whole supply chain,Survey,Europe
+783,867,578,Norway,1253.01,"Onions and shallots, green",2011,13.3,Storage,Case Study,Europe
+784,868,586,Pakistan,1324.0,"Tangerines, mandarins, clementines",2015,11.2,Wholesale,No Data Collection Specified,Asia
+785,869,586,Pakistan,1324.0,"Tangerines, mandarins, clementines",2015,32.4,Harvest,No Data Collection Specified,Asia
+786,870,586,Pakistan,1324.0,"Tangerines, mandarins, clementines",2015,1.4,Retail,No Data Collection Specified,Asia
+787,871,586,Pakistan,1346.0,Plums and sloes,2013,21.5,Retail,Survey,Asia
+788,872,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2012,35.0,Whole supply chain,Expert Opinion,Asia
+789,873,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2012,5.0,Farm,Field Trial/Experimental Design,Asia
+790,874,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2012,5.0,Farm,Field Trial/Experimental Design,Asia
+791,875,586,Pakistan,1330.0,Grapes,2011,2.0,Farm,No Data Collection Specified,Asia
+792,876,586,Pakistan,1330.0,Grapes,2011,6.5,Retail,No Data Collection Specified,Asia
+793,877,586,Pakistan,1330.0,Grapes,2011,4.8,Harvest,No Data Collection Specified,Asia
+794,878,586,Pakistan,1330.0,Grapes,2011,5.2,Transport,No Data Collection Specified,Asia
+795,879,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,1.8,Storage,Field Trial/Experimental Design,Asia
+796,880,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,4.5,Storage,Field Trial/Experimental Design,Asia
+797,881,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,4.0,Storage,Field Trial/Experimental Design,Asia
+798,882,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,3.3,Storage,Field Trial/Experimental Design,Asia
+799,883,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,3.0,Storage,Field Trial/Experimental Design,Asia
+800,884,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,5.0,Storage,Field Trial/Experimental Design,Asia
+801,885,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,3.0,Storage,Field Trial/Experimental Design,Asia
+802,886,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,4.0,Storage,Field Trial/Experimental Design,Asia
+803,887,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,3.5,Storage,Field Trial/Experimental Design,Asia
+804,888,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,4.0,Storage,Field Trial/Experimental Design,Asia
+805,889,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,5.5,Storage,Field Trial/Experimental Design,Asia
+806,890,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,2.7,Storage,Field Trial/Experimental Design,Asia
+807,891,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,1.5,Storage,Field Trial/Experimental Design,Asia
+808,892,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,3.0,Storage,Field Trial/Experimental Design,Asia
+809,893,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,4.0,Storage,Field Trial/Experimental Design,Asia
+810,894,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,4.5,Storage,Field Trial/Experimental Design,Asia
+811,895,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,3.0,Storage,Field Trial/Experimental Design,Asia
+812,896,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2010,2.5,Storage,Field Trial/Experimental Design,Asia
+813,897,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,5.0,Storage,Field Trial/Experimental Design,Asia
+814,898,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,4.5,Storage,Field Trial/Experimental Design,Asia
+815,899,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,1.5,Storage,Field Trial/Experimental Design,Asia
+816,900,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,4.0,Storage,Field Trial/Experimental Design,Asia
+817,901,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,3.0,Storage,Field Trial/Experimental Design,Asia
+818,902,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,2.7,Storage,Field Trial/Experimental Design,Asia
+819,903,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,3.3,Storage,Field Trial/Experimental Design,Asia
+820,904,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,3.0,Storage,Field Trial/Experimental Design,Asia
+821,905,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,2.5,Storage,Field Trial/Experimental Design,Asia
+822,906,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,4.0,Storage,Field Trial/Experimental Design,Asia
+823,907,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,4.0,Storage,Field Trial/Experimental Design,Asia
+824,908,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,5.5,Storage,Field Trial/Experimental Design,Asia
+825,909,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,3.0,Storage,Field Trial/Experimental Design,Asia
+826,910,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,3.0,Storage,Field Trial/Experimental Design,Asia
+827,911,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,1.8,Storage,Field Trial/Experimental Design,Asia
+828,912,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,4.5,Storage,Field Trial/Experimental Design,Asia
+829,913,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,3.5,Storage,Field Trial/Experimental Design,Asia
+830,914,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2009,4.0,Storage,Field Trial/Experimental Design,Asia
+831,915,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,4.0,Storage,Field Trial/Experimental Design,Asia
+832,916,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,1.8,Storage,Field Trial/Experimental Design,Asia
+833,917,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,4.0,Storage,Field Trial/Experimental Design,Asia
+834,918,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,1.5,Storage,Field Trial/Experimental Design,Asia
+835,919,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,4.0,Storage,Field Trial/Experimental Design,Asia
+836,920,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,3.0,Storage,Field Trial/Experimental Design,Asia
+837,921,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,3.0,Storage,Field Trial/Experimental Design,Asia
+838,922,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,3.0,Storage,Field Trial/Experimental Design,Asia
+839,923,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,5.5,Storage,Field Trial/Experimental Design,Asia
+840,924,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,2.7,Storage,Field Trial/Experimental Design,Asia
+841,925,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,2.5,Storage,Field Trial/Experimental Design,Asia
+842,926,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,3.3,Storage,Field Trial/Experimental Design,Asia
+843,927,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,4.5,Storage,Field Trial/Experimental Design,Asia
+844,928,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,3.5,Storage,Field Trial/Experimental Design,Asia
+845,929,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,3.0,Storage,Field Trial/Experimental Design,Asia
+846,930,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,4.5,Storage,Field Trial/Experimental Design,Asia
+847,931,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,4.0,Storage,Field Trial/Experimental Design,Asia
+848,932,586,Pakistan,1316.0,"Mangoes, guavas and mangosteens",2008,5.0,Storage,Field Trial/Experimental Design,Asia
+849,938,600,Paraguay,1354.0,Strawberries,2013,11.5,Storage,No Data Collection Specified,Americas
+850,939,600,Paraguay,1354.0,Strawberries,2013,12.0,Storage,No Data Collection Specified,Americas
+851,940,608,Philippines,1317.0,Papayas,2012,9.2,Wholesale,No Data Collection Specified,Asia
+852,941,608,Philippines,1214.0,Lettuce and chicory,2011,11.5,Wholesale,Survey,Asia
+853,942,608,Philippines,1234.0,Tomatoes,2011,10.8,Wholesale,Survey,Asia
+854,943,608,Philippines,1317.0,Papayas,2011,15.3,Wholesale,Survey,Asia
+855,944,608,Philippines,1317.0,Papayas,2011,13.0,Transport,Survey,Asia
+856,945,608,Philippines,1317.0,Papayas,2011,8.9,Transport,Survey,Asia
+857,946,608,Philippines,1317.0,Papayas,2011,2.5,Transport,Survey,Asia
+858,947,608,Philippines,1317.0,Papayas,2011,15.7,Transport,Survey,Asia
+859,948,624,Guinea-Bissau,1313.0,Plantains and cooking bananas,2013,35.0,Whole supply chain,No Data Collection Specified,Africa
+860,949,646,Rwanda,1234.0,Tomatoes,2010,4.9,Farm,Case Study,Africa
+861,950,646,Rwanda,1234.0,Tomatoes,2010,10.6,Wholesale,Case Study,Africa
+862,951,646,Rwanda,1234.0,Tomatoes,2010,10.6,Retail,Case Study,Africa
+863,952,646,Rwanda,1312.0,Bananas,2010,7.4,Farm,Case Study,Africa
+864,953,646,Rwanda,1312.0,Bananas,2010,15.1,Retail,Case Study,Africa
+865,954,646,Rwanda,1312.0,Bananas,2010,15.1,Wholesale,Case Study,Africa
+866,955,646,Rwanda,1318.0,Pineapples,2010,11.5,Wholesale,Case Study,Africa
+867,956,646,Rwanda,1318.0,Pineapples,2010,5.9,Farm,Case Study,Africa
+868,957,646,Rwanda,1318.0,Pineapples,2010,11.5,Retail,Case Study,Africa
+869,958,646,Rwanda,1312.0,Bananas,2009,7.4,Retail,Survey,Africa
+870,959,646,Rwanda,1312.0,Bananas,2009,34.1,Wholesale,Survey,Africa
+871,960,646,Rwanda,1312.0,Bananas,2009,17.9,Farm,Survey,Africa
+872,961,646,Rwanda,1312.0,Bananas,2009,27.3,Retail,Survey,Africa
+873,962,646,Rwanda,1318.0,Pineapples,2009,2.9,Retail,Survey,Africa
+874,964,646,Rwanda,1234.0,Tomatoes,2009,2.0,Farm,Rapid Assessment,Africa
+875,966,646,Rwanda,1234.0,Tomatoes,2009,11.0,Wholesale,Rapid Assessment,Africa
+876,967,646,Rwanda,1234.0,Tomatoes,2009,6.5,Retail,Rapid Assessment,Africa
+877,968,646,Rwanda,1234.0,Tomatoes,2009,6.0,Farm,Rapid Assessment,Africa
+878,969,646,Rwanda,1234.0,Tomatoes,2009,12.5,Retail,Rapid Assessment,Africa
+879,970,646,Rwanda,1234.0,Tomatoes,2009,7.0,Wholesale,Rapid Assessment,Africa
+880,972,646,Rwanda,1312.0,Bananas,2009,9.5,Wholesale,Rapid Assessment,Africa
+881,973,646,Rwanda,1312.0,Bananas,2009,7.5,Farm,Rapid Assessment,Africa
+882,974,646,Rwanda,1312.0,Bananas,2009,14.8,Farm,Rapid Assessment,Africa
+883,975,646,Rwanda,1312.0,Bananas,2009,35.1,Wholesale,Rapid Assessment,Africa
+884,978,646,Rwanda,1312.0,Bananas,2009,19.0,Wholesale,Rapid Assessment,Africa
+885,980,646,Rwanda,1312.0,Bananas,2009,25.0,Retail,Rapid Assessment,Africa
+886,981,646,Rwanda,1312.0,Bananas,2009,30.1,Retail,Rapid Assessment,Africa
+887,982,646,Rwanda,1318.0,Pineapples,2009,15.9,Retail,Rapid Assessment,Africa
+888,985,646,Rwanda,1318.0,Pineapples,2009,17.0,Wholesale,Rapid Assessment,Africa
+889,986,646,Rwanda,1318.0,Pineapples,2009,20.0,Wholesale,Rapid Assessment,Africa
+890,987,646,Rwanda,1318.0,Pineapples,2009,11.8,Farm,Rapid Assessment,Africa
+891,988,646,Rwanda,1318.0,Pineapples,2009,2.0,Retail,Rapid Assessment,Africa
+892,989,646,Rwanda,1318.0,Pineapples,2009,2.9,Wholesale,Rapid Assessment,Africa
+893,990,646,Rwanda,1318.0,Pineapples,2009,10.4,Farm,Rapid Assessment,Africa
+894,991,646,Rwanda,1318.0,Pineapples,2009,21.0,Retail,Rapid Assessment,Africa
+895,993,659,Saint Kitts and Nevis,1243.0,"Broad beans and horse beans, green",2016,30.0,Post-harvest,Survey,Americas
+896,994,662,Saint Lucia,1234.0,Tomatoes,2015,5.0,Retail,Survey,Americas
+897,995,662,Saint Lucia,1234.0,Tomatoes,2015,7.0,Harvest,Survey,Americas
+898,996,662,Saint Lucia,1234.0,Tomatoes,2015,8.0,Processing,Survey,Americas
+899,997,662,Saint Lucia,1316.0,"Mangoes, guavas and mangosteens",2015,13.0,Processing,Survey,Americas
+900,998,662,Saint Lucia,1316.0,"Mangoes, guavas and mangosteens",2015,8.0,Harvest,Survey,Americas
+901,999,662,Saint Lucia,1316.0,"Mangoes, guavas and mangosteens",2015,2.0,Retail,Survey,Americas
+902,1002,704,Viet Nam,1234.0,Tomatoes,2008,19.1,Whole supply chain,Survey,Asia
+903,1003,752,Sweden,1242.0,"Peas, green",2017,21.4,Farm,Survey,Europe
+904,1004,752,Sweden,1242.0,"Peas, green",2017,8.2,Processing,Survey,Europe
+905,1005,752,Sweden,1242.0,"Peas, green",2017,3.3,Pre-harvest,Survey,Europe
+906,1006,752,Sweden,1242.0,"Peas, green",2017,1.0,Harvest,Survey,Europe
+907,1007,752,Sweden,1251.0,Carrots and turnips,2017,20.0,Harvest,Survey,Europe
+908,1008,752,Sweden,1251.0,Carrots and turnips,2017,12.0,Storage,Survey,Europe
+909,1009,752,Sweden,1251.0,Carrots and turnips,2017,33.5,Farm,Survey,Europe
+910,1010,752,Sweden,1251.0,Carrots and turnips,2017,16.5,Processing,Survey,Europe
+911,1011,752,Sweden,1251.0,Carrots and turnips,2017,0.2,Wholesale,Survey,Europe
+912,1012,752,Sweden,1253.01,"Onions and shallots, green",2017,2.4,Farm,Crop Cutting Field Experiment,Europe
+913,1013,752,Sweden,1253.01,"Onions and shallots, green",2017,18.0,Farm,Survey,Europe
+914,1014,752,Sweden,1253.01,"Onions and shallots, green",2017,17.0,Storage,Survey,Europe
+915,1015,752,Sweden,1253.01,"Onions and shallots, green",2017,33.0,Processing,Survey,Europe
+916,1016,752,Sweden,1242.0,"Peas, green",2013,17.0,Farm,Survey,Europe
+917,1017,752,Sweden,1242.0,"Peas, green",2013,4.0,Harvest,Survey,Europe
+918,1018,752,Sweden,1251.0,Carrots and turnips,2013,22.0,Whole supply chain,Survey,Europe
+919,1019,752,Sweden,1253.01,"Onions and shallots, green",2013,25.0,Whole supply chain,Survey,Europe
+920,1020,752,Sweden,1354.0,Strawberries,2013,17.5,Harvest,Survey,Europe
+921,1021,752,Sweden,1242.0,"Peas, green",2012,4.0,Harvest,Survey,Europe
+922,1022,752,Sweden,1242.0,"Peas, green",2012,17.0,Farm,Survey,Europe
+923,1023,752,Sweden,1251.0,Carrots and turnips,2012,22.0,Whole supply chain,Survey,Europe
+924,1024,752,Sweden,1253.01,"Onions and shallots, green",2012,25.0,Whole supply chain,Survey,Europe
+925,1025,752,Sweden,1354.0,Strawberries,2012,17.5,Harvest,Survey,Europe
+926,1026,752,Sweden,1242.0,"Peas, green",2011,17.0,Farm,Survey,Europe
+927,1027,752,Sweden,1242.0,"Peas, green",2011,4.0,Harvest,Survey,Europe
+928,1028,752,Sweden,1251.0,Carrots and turnips,2011,22.0,Whole supply chain,Survey,Europe
+929,1029,752,Sweden,1253.01,"Onions and shallots, green",2011,25.0,Whole supply chain,Survey,Europe
+930,1030,752,Sweden,1354.0,Strawberries,2011,17.5,Harvest,Survey,Europe
+931,1031,780,Trinidad and Tobago,1234.0,Tomatoes,2015,7.0,Harvest,Survey,Africa
+932,1032,780,Trinidad and Tobago,1234.0,Tomatoes,2015,8.0,Processing,Survey,Africa
+933,1033,780,Trinidad and Tobago,1234.0,Tomatoes,2015,12.0,Retail,Survey,Africa
+934,1034,780,Trinidad and Tobago,1316.0,"Mangoes, guavas and mangosteens",2015,5.0,Harvest,Survey,Africa
+935,1035,780,Trinidad and Tobago,1316.0,"Mangoes, guavas and mangosteens",2015,17.0,Processing,Survey,Africa
+936,1037,780,Trinidad and Tobago,1235.0,"Pumpkins, squash and gourds",2013,55.0,Transport,Expert Opinion,Africa
+937,1038,792,Turkey,1359.9,"Other fruits, n.e.c.",2013,5.0,Households,Survey,Europe
+938,1039,792,Turkey,1359.9,"Other fruits, n.e.c.",2013,20.0,Farm,Survey,Europe
+939,1040,792,Turkey,1359.9,"Other fruits, n.e.c.",2013,10.0,Wholesale,Survey,Europe
+940,1041,792,Turkey,1359.9,"Other fruits, n.e.c.",2013,10.0,Processing,Survey,Europe
+941,1042,792,Turkey,1359.9,"Other fruits, n.e.c.",2013,8.0,Farm,Survey,Europe
+942,1043,800,Uganda,1313.0,Plantains and cooking bananas,2013,6.5,Farm,No Data Collection Specified,Africa
+943,1044,804,Ukraine,1341.0,Apples,2013,15.0,Wholesale,Survey,Europe
+944,1045,804,Ukraine,1341.0,Apples,2013,12.5,Wholesale,Survey,Europe
+945,1046,804,Ukraine,1341.0,Apples,2013,10.0,Farm,Survey,Europe
+946,1047,804,Ukraine,1341.0,Apples,2013,35.0,Post-harvest,Survey,Europe
+947,1048,804,Ukraine,1341.0,Apples,2013,3.0,Wholesale,Survey,Europe
+948,1049,804,Ukraine,1341.0,Apples,2013,7.5,Households,Survey,Europe
+949,1050,804,Ukraine,1341.0,Apples,2013,10.0,Farm,Survey,Europe
+950,1051,804,Ukraine,1341.0,Apples,2013,15.0,Farm,Survey,Europe
+951,1052,804,Ukraine,1341.0,Apples,2013,5.0,Processing,Survey,Europe
+952,1053,804,Ukraine,1341.0,Apples,2013,5.0,Processing,Survey,Europe
+953,1054,804,Ukraine,1341.0,Apples,2013,7.5,Farm,Survey,Europe
+954,1055,804,Ukraine,1341.0,Apples,2013,18.5,Processing,Survey,Europe
+955,1056,804,Ukraine,1341.0,Apples,2013,5.0,Households,Survey,Europe
+956,1057,804,Ukraine,1341.0,Apples,2013,5.0,Wholesale,Survey,Europe
+957,1058,804,Ukraine,1341.0,Apples,2013,7.5,Households,Survey,Europe
+958,1059,804,Ukraine,1341.0,Apples,2013,5.0,Processing,Survey,Europe
+959,1060,804,Ukraine,1341.0,Apples,2013,7.5,Households,Survey,Europe
+960,1061,804,Ukraine,1341.0,Apples,2013,35.0,Post-harvest,Survey,Europe
+961,1062,818,Egypt,1234.0,Tomatoes,2013,43.0,Post-harvest,Literature Review,Africa
+962,1063,818,Egypt,1330.0,Grapes,2013,28.0,Post-harvest,Literature Review,Africa
+963,1064,826,United Kingdom of Great Britain and Northern Ireland,1212.0,Cabbages,2016,25.0,Harvest,Survey,Europe
+964,1065,826,United Kingdom of Great Britain and Northern Ireland,1213.0,Cauliflowers and broccoli,2016,20.0,Harvest,Survey,Europe
+965,1066,826,United Kingdom of Great Britain and Northern Ireland,1214.0,Lettuce and chicory,2016,45.0,Harvest,Survey,Europe
+966,1067,826,United Kingdom of Great Britain and Northern Ireland,1251.0,Carrots and turnips,2016,40.0,Harvest,Survey,Europe
+967,1068,826,United Kingdom of Great Britain and Northern Ireland,1353.01,Raspberries,2016,5.0,Harvest,Survey,Europe
+968,1069,826,United Kingdom of Great Britain and Northern Ireland,1354.0,Strawberries,2016,1.0,Harvest,Survey,Europe
+969,1070,826,United Kingdom of Great Britain and Northern Ireland,1354.0,Strawberries,2016,5.0,Harvest,Survey,Europe
+970,1071,826,United Kingdom of Great Britain and Northern Ireland,1354.0,Strawberries,2016,10.0,Harvest,Survey,Europe
+971,1072,826,United Kingdom of Great Britain and Northern Ireland,1355.01,Blueberries,2016,5.0,Harvest,Survey,Europe
+972,1073,826,United Kingdom of Great Britain and Northern Ireland,1213.0,Cauliflowers and broccoli,2014,2.3,Retail,Survey,Europe
+973,1074,826,United Kingdom of Great Britain and Northern Ireland,1213.0,Cauliflowers and broccoli,2014,3.0,Grading,Survey,Europe
+974,1075,826,United Kingdom of Great Britain and Northern Ireland,1214.0,Lettuce and chicory,2014,1.0,Packing,Survey,Europe
+975,1076,826,United Kingdom of Great Britain and Northern Ireland,1214.0,Lettuce and chicory,2014,2.0,Retail,Survey,Europe
+976,1077,826,United Kingdom of Great Britain and Northern Ireland,1214.0,Lettuce and chicory,2014,1.3,Storage,Survey,Europe
+977,1078,826,United Kingdom of Great Britain and Northern Ireland,1234.0,Tomatoes,2014,2.8,Retail,Survey,Europe
+978,1079,826,United Kingdom of Great Britain and Northern Ireland,1234.0,Tomatoes,2014,7.0,Grading,Survey,Europe
+979,1080,826,United Kingdom of Great Britain and Northern Ireland,1234.0,Tomatoes,2014,4.0,Packing,Survey,Europe
+980,1081,826,United Kingdom of Great Britain and Northern Ireland,1253.01,"Onions and shallots, green",2014,0.8,Retail,Survey,Europe
+981,1082,826,United Kingdom of Great Britain and Northern Ireland,1253.01,"Onions and shallots, green",2014,2.5,Packing,Survey,Europe
+982,1083,826,United Kingdom of Great Britain and Northern Ireland,1253.01,"Onions and shallots, green",2014,6.5,Storage,Survey,Europe
+983,1084,826,United Kingdom of Great Britain and Northern Ireland,1253.01,"Onions and shallots, green",2014,14.5,Grading,Survey,Europe
+984,1085,826,United Kingdom of Great Britain and Northern Ireland,1311.0,Avocados,2014,3.8,Retail,Survey,Europe
+985,1086,826,United Kingdom of Great Britain and Northern Ireland,1311.0,Avocados,2014,3.0,Packing,Survey,Europe
+986,1087,826,United Kingdom of Great Britain and Northern Ireland,1311.0,Avocados,2014,30.0,Grading,Survey,Europe
+987,1088,826,United Kingdom of Great Britain and Northern Ireland,1311.0,Avocados,2014,5.0,Storage,Survey,Europe
+988,1089,826,United Kingdom of Great Britain and Northern Ireland,1312.0,Bananas,2014,3.0,Grading,Survey,Europe
+989,1090,826,United Kingdom of Great Britain and Northern Ireland,1312.0,Bananas,2014,2.0,Retail,Survey,Europe
+990,1091,826,United Kingdom of Great Britain and Northern Ireland,1312.0,Bananas,2014,1.5,Packing,Survey,Europe
+991,1092,826,United Kingdom of Great Britain and Northern Ireland,1341.0,Apples,2014,15.0,Grading,Survey,Europe
+992,1093,826,United Kingdom of Great Britain and Northern Ireland,1341.0,Apples,2014,2.5,Retail,Survey,Europe
+993,1094,826,United Kingdom of Great Britain and Northern Ireland,1341.0,Apples,2014,5.5,Packing,Survey,Europe
+994,1095,826,United Kingdom of Great Britain and Northern Ireland,1341.0,Apples,2014,3.5,Storage,Survey,Europe
+995,1096,826,United Kingdom of Great Britain and Northern Ireland,1353.01,Raspberries,2014,2.5,Retail,Survey,Europe
+996,1097,826,United Kingdom of Great Britain and Northern Ireland,1353.01,Raspberries,2014,1.0,Grading,Survey,Europe
+997,1098,826,United Kingdom of Great Britain and Northern Ireland,1353.01,Raspberries,2014,2.5,Packing,Survey,Europe
+998,1099,826,United Kingdom of Great Britain and Northern Ireland,1354.0,Strawberries,2014,3.0,Retail,Survey,Europe
+999,1100,826,United Kingdom of Great Britain and Northern Ireland,1354.0,Strawberries,2014,0.5,Storage,Survey,Europe
+1000,1101,826,United Kingdom of Great Britain and Northern Ireland,1354.0,Strawberries,2014,1.0,Grading,Survey,Europe
+1001,1102,826,United Kingdom of Great Britain and Northern Ireland,1354.0,Strawberries,2014,2.5,Packing,Survey,Europe
+1002,1107,826,United Kingdom of Great Britain and Northern Ireland,1213.0,Cauliflowers and broccoli,2011,2.3,Retail,WRI Protocol,Europe
+1003,1108,826,United Kingdom of Great Britain and Northern Ireland,1213.0,Cauliflowers and broccoli,2011,10.0,Farm,WRI Protocol,Europe
+1004,1109,826,United Kingdom of Great Britain and Northern Ireland,1213.0,Cauliflowers and broccoli,2011,3.0,Farm,WRI Protocol,Europe
+1005,1110,826,United Kingdom of Great Britain and Northern Ireland,1214.0,Lettuce and chicory,2011,1.3,Storage,WRI Protocol,Europe
+1006,1111,826,United Kingdom of Great Britain and Northern Ireland,1214.0,Lettuce and chicory,2011,7.5,Farm,WRI Protocol,Europe
+1007,1112,826,United Kingdom of Great Britain and Northern Ireland,1214.0,Lettuce and chicory,2011,2.0,Retail,WRI Protocol,Europe
+1008,1113,826,United Kingdom of Great Britain and Northern Ireland,1214.0,Lettuce and chicory,2011,1.0,Packing,WRI Protocol,Europe
+1009,1114,826,United Kingdom of Great Britain and Northern Ireland,1234.0,Tomatoes,2011,4.0,Packing,WRI Protocol,Europe
+1010,1115,826,United Kingdom of Great Britain and Northern Ireland,1234.0,Tomatoes,2011,2.8,Retail,WRI Protocol,Europe
+1011,1116,826,United Kingdom of Great Britain and Northern Ireland,1234.0,Tomatoes,2011,7.0,Grading,WRI Protocol,Europe
+1012,1117,826,United Kingdom of Great Britain and Northern Ireland,1234.0,Tomatoes,2011,5.0,Farm,WRI Protocol,Europe
+1013,1118,826,United Kingdom of Great Britain and Northern Ireland,1253.01,"Onions and shallots, green",2011,4.0,Farm,WRI Protocol,Europe
+1014,1119,826,United Kingdom of Great Britain and Northern Ireland,1253.01,"Onions and shallots, green",2011,14.5,Farm,WRI Protocol,Europe
+1015,1120,826,United Kingdom of Great Britain and Northern Ireland,1253.01,"Onions and shallots, green",2011,0.8,Retail,WRI Protocol,Europe
+1016,1121,826,United Kingdom of Great Britain and Northern Ireland,1253.01,"Onions and shallots, green",2011,6.5,Storage,WRI Protocol,Europe
+1017,1122,826,United Kingdom of Great Britain and Northern Ireland,1253.01,"Onions and shallots, green",2011,2.5,Packing,WRI Protocol,Europe
+1018,1123,826,United Kingdom of Great Britain and Northern Ireland,1311.0,Avocados,2011,3.8,Retail,WRI Protocol,Europe
+1019,1124,826,United Kingdom of Great Britain and Northern Ireland,1311.0,Avocados,2011,30.0,Farm,WRI Protocol,Europe
+1020,1125,826,United Kingdom of Great Britain and Northern Ireland,1311.0,Avocados,2011,5.0,Storage,WRI Protocol,Europe
+1021,1126,826,United Kingdom of Great Britain and Northern Ireland,1311.0,Avocados,2011,3.0,Packing,WRI Protocol,Europe
+1022,1127,826,United Kingdom of Great Britain and Northern Ireland,1312.0,Bananas,2011,1.5,Packing,WRI Protocol,Europe
+1023,1128,826,United Kingdom of Great Britain and Northern Ireland,1312.0,Bananas,2011,2.0,Retail,WRI Protocol,Europe
+1024,1129,826,United Kingdom of Great Britain and Northern Ireland,1312.0,Bananas,2011,3.0,Farm,WRI Protocol,Europe
+1025,1130,826,United Kingdom of Great Britain and Northern Ireland,1329.0,"Other citrus fruit, n.e.c.",2011,3.0,Farm,WRI Protocol,Europe
+1026,1131,826,United Kingdom of Great Britain and Northern Ireland,1329.0,"Other citrus fruit, n.e.c.",2011,0.3,Packing,WRI Protocol,Europe
+1027,1132,826,United Kingdom of Great Britain and Northern Ireland,1329.0,"Other citrus fruit, n.e.c.",2011,3.8,Retail,WRI Protocol,Europe
+1028,1133,826,United Kingdom of Great Britain and Northern Ireland,1341.0,Apples,2011,15.0,Farm,WRI Protocol,Europe
+1029,1134,826,United Kingdom of Great Britain and Northern Ireland,1341.0,Apples,2011,3.5,Storage,WRI Protocol,Europe
+1030,1135,826,United Kingdom of Great Britain and Northern Ireland,1341.0,Apples,2011,5.5,Packing,WRI Protocol,Europe
+1031,1136,826,United Kingdom of Great Britain and Northern Ireland,1341.0,Apples,2011,2.5,Retail,WRI Protocol,Europe
+1032,1137,826,United Kingdom of Great Britain and Northern Ireland,1353.01,Raspberries,2011,2.0,Farm,WRI Protocol,Europe
+1033,1138,826,United Kingdom of Great Britain and Northern Ireland,1353.01,Raspberries,2011,2.5,Retail,WRI Protocol,Europe
+1034,1139,826,United Kingdom of Great Britain and Northern Ireland,1354.0,Strawberries,2011,2.5,Farm,WRI Protocol,Europe
+1035,1140,826,United Kingdom of Great Britain and Northern Ireland,1354.0,Strawberries,2011,0.5,Storage,WRI Protocol,Europe
+1036,1141,826,United Kingdom of Great Britain and Northern Ireland,1354.0,Strawberries,2011,3.0,Retail,WRI Protocol,Europe
+1037,1142,826,United Kingdom of Great Britain and Northern Ireland,1354.0,Strawberries,2011,1.0,Grading,WRI Protocol,Europe
+1038,1143,826,United Kingdom of Great Britain and Northern Ireland,1341.0,Apples,2011,39.0,Whole supply chain,Survey,Europe
+1039,1144,834,United Republic of Tanzania,1316.0,"Mangoes, guavas and mangosteens",2015,15.1,Wholesale,Field Trial/Experimental Design,Africa
+1040,1145,834,United Republic of Tanzania,1316.0,"Mangoes, guavas and mangosteens",2015,2.6,Harvest,Field Trial/Experimental Design,Africa
+1041,1146,834,United Republic of Tanzania,1316.0,"Mangoes, guavas and mangosteens",2015,30.6,Wholesale,Field Trial/Experimental Design,Africa
+1042,1147,834,United Republic of Tanzania,1316.0,"Mangoes, guavas and mangosteens",2015,10.6,Transport,Field Trial/Experimental Design,Africa
+1043,1148,834,United Republic of Tanzania,1316.0,"Mangoes, guavas and mangosteens",2013,20.0,Trader,Survey,Africa
+1044,1149,834,United Republic of Tanzania,1316.0,"Mangoes, guavas and mangosteens",2013,63.0,Trader,Survey,Africa
+1045,1150,834,United Republic of Tanzania,1316.0,"Mangoes, guavas and mangosteens",2013,17.0,Trader,Survey,Africa
+1046,1151,834,United Republic of Tanzania,1316.0,"Mangoes, guavas and mangosteens",2013,40.0,Farm,Survey,Africa
+1047,1152,834,United Republic of Tanzania,1316.0,"Mangoes, guavas and mangosteens",2011,7.1,Wholesale,Field Trial/Experimental Design,Africa
+1048,1153,834,United Republic of Tanzania,1316.0,"Mangoes, guavas and mangosteens",2011,9.3,Wholesale,Field Trial/Experimental Design,Africa
+1049,1154,840,United States of America,1211.0,Asparagus,2017,9.0,Wholesale,National Stats Yearbook,Americas
+1050,1155,840,United States of America,1212.0,Cabbages,2017,12.0,Wholesale,National Stats Yearbook,Americas
+1051,1156,840,United States of America,1212.0,Cabbages,2017,12.0,Wholesale,National Stats Yearbook,Americas
+1052,1157,840,United States of America,1212.0,Cabbages,2017,7.0,Wholesale,National Stats Yearbook,Americas
+1053,1158,840,United States of America,1212.0,Cabbages,2017,8.0,Wholesale,National Stats Yearbook,Americas
+1054,1159,840,United States of America,1212.0,Cabbages,2017,12.0,Wholesale,National Stats Yearbook,Americas
+1055,1160,840,United States of America,1213.0,Cauliflowers and broccoli,2017,8.0,Wholesale,National Stats Yearbook,Americas
+1056,1161,840,United States of America,1213.0,Cauliflowers and broccoli,2017,8.0,Wholesale,National Stats Yearbook,Americas
+1057,1162,840,United States of America,1214.0,Lettuce and chicory,2017,7.0,Wholesale,National Stats Yearbook,Americas
+1058,1163,840,United States of America,1214.0,Lettuce and chicory,2017,10.0,Wholesale,National Stats Yearbook,Americas
+1059,1164,840,United States of America,1214.0,Lettuce and chicory,2017,7.0,Wholesale,National Stats Yearbook,Americas
+1060,1165,840,United States of America,1215.0,Spinach,2017,12.0,Wholesale,National Stats Yearbook,Americas
+1061,1166,840,United States of America,1216.0,Artichokes,2017,7.0,Wholesale,National Stats Yearbook,Americas
+1062,1167,840,United States of America,1221.0,Watermelons,2017,10.0,Wholesale,National Stats Yearbook,Americas
+1063,1168,840,United States of America,1229.0,Cantaloupes and other melons,2017,8.0,Wholesale,National Stats Yearbook,Americas
+1064,1169,840,United States of America,1229.0,Cantaloupes and other melons,2017,8.0,Wholesale,National Stats Yearbook,Americas
+1065,1170,840,United States of America,1231.0,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2017,8.0,Wholesale,National Stats Yearbook,Americas
+1066,1171,840,United States of America,1232.0,Cucumbers and gherkins,2017,8.0,Wholesale,National Stats Yearbook,Americas
+1067,1172,840,United States of America,1233.0,Eggplants (aubergines),2017,10.0,Wholesale,National Stats Yearbook,Americas
+1068,1173,840,United States of America,1234.0,Tomatoes,2017,15.0,Wholesale,National Stats Yearbook,Americas
+1069,1174,840,United States of America,1235.0,"Pumpkins, squash and gourds",2017,10.0,Wholesale,National Stats Yearbook,Americas
+1070,1175,840,United States of America,1235.0,"Pumpkins, squash and gourds",2017,10.0,Wholesale,National Stats Yearbook,Americas
+1071,1176,840,United States of America,1239.01,Okra,2017,12.0,Wholesale,National Stats Yearbook,Americas
+1072,1177,840,United States of America,1241.9,"Other beans, green",2017,6.0,Wholesale,National Stats Yearbook,Americas
+1073,1178,840,United States of America,1241.9,"Other beans, green",2017,8.0,Wholesale,National Stats Yearbook,Americas
+1074,1179,840,United States of America,1251.0,Carrots and turnips,2017,12.0,Wholesale,National Stats Yearbook,Americas
+1075,1180,840,United States of America,1251.0,Carrots and turnips,2017,3.0,Wholesale,National Stats Yearbook,Americas
+1076,1181,840,United States of America,1252.0,Green garlic,2017,19.0,Wholesale,National Stats Yearbook,Americas
+1077,1182,840,United States of America,1253.01,"Onions and shallots, green",2017,6.0,Wholesale,National Stats Yearbook,Americas
+1078,1183,840,United States of America,1270.0,Mushrooms and truffles,2017,6.0,Wholesale,National Stats Yearbook,Americas
+1079,1184,840,United States of America,1290.01,Green corn (maize),2017,8.0,Wholesale,National Stats Yearbook,Americas
+1080,1185,840,United States of America,1290.9,"Other vegetables, fresh n.e.c.",2017,7.0,Wholesale,National Stats Yearbook,Americas
+1081,1186,840,United States of America,1311.0,Avocados,2017,6.0,Wholesale,National Stats Yearbook,Americas
+1082,1187,840,United States of America,1316.0,"Mangoes, guavas and mangosteens",2017,5.0,Wholesale,National Stats Yearbook,Americas
+1083,1188,840,United States of America,1317.0,Papayas,2017,5.0,Wholesale,National Stats Yearbook,Americas
+1084,1189,840,United States of America,1318.0,Pineapples,2017,5.0,Wholesale,National Stats Yearbook,Americas
+1085,1190,840,United States of America,1321.0,Pomelos and grapefruits,2017,3.0,Wholesale,National Stats Yearbook,Americas
+1086,1191,840,United States of America,1321.0,Pomelos and grapefruits,2017,3.0,Wholesale,National Stats Yearbook,Americas
+1087,1192,840,United States of America,1322.0,Lemons and limes,2017,5.0,Wholesale,National Stats Yearbook,Americas
+1088,1193,840,United States of America,1322.0,Lemons and limes,2017,4.0,Wholesale,National Stats Yearbook,Americas
+1089,1194,840,United States of America,1324.0,"Tangerines, mandarins, clementines",2017,5.0,Wholesale,National Stats Yearbook,Americas
+1090,1195,840,United States of America,1330.0,Grapes,2017,9.0,Wholesale,National Stats Yearbook,Americas
+1091,1196,840,United States of America,1341.0,Apples,2017,4.0,Wholesale,National Stats Yearbook,Americas
+1092,1197,840,United States of America,1342.01,Pears,2017,5.0,Wholesale,National Stats Yearbook,Americas
+1093,1198,840,United States of America,1343.0,Apricots,2017,9.0,Wholesale,National Stats Yearbook,Americas
+1094,1199,840,United States of America,1345.0,Peaches and nectarines,2017,5.0,Wholesale,National Stats Yearbook,Americas
+1095,1200,840,United States of America,1346.0,Plums and sloes,2017,5.0,Wholesale,National Stats Yearbook,Americas
+1096,1201,840,United States of America,1352.0,Kiwi fruit,2017,9.0,Wholesale,National Stats Yearbook,Americas
+1097,1202,840,United States of America,1353.01,Raspberries,2017,8.0,Wholesale,National Stats Yearbook,Americas
+1098,1203,840,United States of America,1354.0,Strawberries,2017,8.0,Wholesale,National Stats Yearbook,Americas
+1099,1204,840,United States of America,1355.01,Blueberries,2017,8.0,Wholesale,National Stats Yearbook,Americas
+1100,1205,840,United States of America,1355.02,Cranberries,2017,4.0,Wholesale,National Stats Yearbook,Americas
+1101,1206,840,United States of America,21397.01,Canned mushrooms,2017,35.0,Wholesale,National Stats Yearbook,Americas
+1102,1207,840,United States of America,21431.01,Orange juice,2017,47.8,Wholesale,National Stats Yearbook,Americas
+1103,1208,840,United States of America,21432.0,Grapefruit juice,2017,47.6,Wholesale,National Stats Yearbook,Americas
+1104,1209,840,United States of America,21433.0,Pineapple juice,2017,41.3,Wholesale,National Stats Yearbook,Americas
+1105,1210,840,United States of America,21434.0,Grape juice,2017,19.1,Wholesale,National Stats Yearbook,Americas
+1106,1211,840,United States of America,21435.01,Apple juice,2017,26.7,Wholesale,National Stats Yearbook,Americas
+1107,1212,840,United States of America,1211.0,Asparagus,2016,9.0,Wholesale,National Stats Yearbook,Americas
+1108,1213,840,United States of America,1212.0,Cabbages,2016,7.0,Wholesale,National Stats Yearbook,Americas
+1109,1214,840,United States of America,1212.0,Cabbages,2016,12.0,Wholesale,National Stats Yearbook,Americas
+1110,1215,840,United States of America,1212.0,Cabbages,2016,12.0,Wholesale,National Stats Yearbook,Americas
+1111,1216,840,United States of America,1212.0,Cabbages,2016,8.0,Wholesale,National Stats Yearbook,Americas
+1112,1217,840,United States of America,1212.0,Cabbages,2016,12.0,Wholesale,National Stats Yearbook,Americas
+1113,1218,840,United States of America,1213.0,Cauliflowers and broccoli,2016,8.0,Wholesale,National Stats Yearbook,Americas
+1114,1219,840,United States of America,1213.0,Cauliflowers and broccoli,2016,8.0,Wholesale,National Stats Yearbook,Americas
+1115,1220,840,United States of America,1214.0,Lettuce and chicory,2016,7.0,Wholesale,National Stats Yearbook,Americas
+1116,1221,840,United States of America,1214.0,Lettuce and chicory,2016,7.0,Wholesale,National Stats Yearbook,Americas
+1117,1222,840,United States of America,1214.0,Lettuce and chicory,2016,10.0,Wholesale,National Stats Yearbook,Americas
+1118,1223,840,United States of America,1215.0,Spinach,2016,12.0,Wholesale,National Stats Yearbook,Americas
+1119,1224,840,United States of America,1216.0,Artichokes,2016,7.0,Wholesale,National Stats Yearbook,Americas
+1120,1225,840,United States of America,1221.0,Watermelons,2016,10.0,Wholesale,National Stats Yearbook,Americas
+1121,1226,840,United States of America,1229.0,Cantaloupes and other melons,2016,8.0,Wholesale,National Stats Yearbook,Americas
+1122,1227,840,United States of America,1229.0,Cantaloupes and other melons,2016,8.0,Wholesale,National Stats Yearbook,Americas
+1123,1228,840,United States of America,1231.0,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2016,8.0,Wholesale,National Stats Yearbook,Americas
+1124,1229,840,United States of America,1232.0,Cucumbers and gherkins,2016,8.0,Wholesale,National Stats Yearbook,Americas
+1125,1230,840,United States of America,1233.0,Eggplants (aubergines),2016,10.0,Wholesale,National Stats Yearbook,Americas
+1126,1231,840,United States of America,1234.0,Tomatoes,2016,15.0,Wholesale,National Stats Yearbook,Americas
+1127,1232,840,United States of America,1235.0,"Pumpkins, squash and gourds",2016,10.0,Wholesale,National Stats Yearbook,Americas
+1128,1233,840,United States of America,1235.0,"Pumpkins, squash and gourds",2016,10.0,Wholesale,National Stats Yearbook,Americas
+1129,1234,840,United States of America,1239.01,Okra,2016,12.0,Wholesale,National Stats Yearbook,Americas
+1130,1235,840,United States of America,1241.9,"Other beans, green",2016,8.0,Wholesale,National Stats Yearbook,Americas
+1131,1236,840,United States of America,1241.9,"Other beans, green",2016,6.0,Wholesale,National Stats Yearbook,Americas
+1132,1237,840,United States of America,1251.0,Carrots and turnips,2016,3.0,Wholesale,National Stats Yearbook,Americas
+1133,1238,840,United States of America,1251.0,Carrots and turnips,2016,12.0,Wholesale,National Stats Yearbook,Americas
+1134,1239,840,United States of America,1252.0,Green garlic,2016,19.0,Wholesale,National Stats Yearbook,Americas
+1135,1240,840,United States of America,1253.01,"Onions and shallots, green",2016,6.0,Wholesale,National Stats Yearbook,Americas
+1136,1241,840,United States of America,1270.0,Mushrooms and truffles,2016,6.0,Wholesale,National Stats Yearbook,Americas
+1137,1242,840,United States of America,1290.01,Green corn (maize),2016,8.0,Wholesale,National Stats Yearbook,Americas
+1138,1243,840,United States of America,1290.9,"Other vegetables, fresh n.e.c.",2016,7.0,Wholesale,National Stats Yearbook,Americas
+1139,1244,840,United States of America,1311.0,Avocados,2016,6.0,Wholesale,National Stats Yearbook,Americas
+1140,1245,840,United States of America,1316.0,"Mangoes, guavas and mangosteens",2016,5.0,Wholesale,National Stats Yearbook,Americas
+1141,1246,840,United States of America,1317.0,Papayas,2016,5.0,Wholesale,National Stats Yearbook,Americas
+1142,1247,840,United States of America,1318.0,Pineapples,2016,5.0,Wholesale,National Stats Yearbook,Americas
+1143,1248,840,United States of America,1321.0,Pomelos and grapefruits,2016,3.0,Wholesale,National Stats Yearbook,Americas
+1144,1249,840,United States of America,1321.0,Pomelos and grapefruits,2016,3.0,Wholesale,National Stats Yearbook,Americas
+1145,1250,840,United States of America,1322.0,Lemons and limes,2016,4.0,Wholesale,National Stats Yearbook,Americas
+1146,1251,840,United States of America,1322.0,Lemons and limes,2016,5.0,Wholesale,National Stats Yearbook,Americas
+1147,1252,840,United States of America,1324.0,"Tangerines, mandarins, clementines",2016,5.0,Wholesale,National Stats Yearbook,Americas
+1148,1253,840,United States of America,1330.0,Grapes,2016,9.0,Wholesale,National Stats Yearbook,Americas
+1149,1254,840,United States of America,1341.0,Apples,2016,4.0,Wholesale,National Stats Yearbook,Americas
+1150,1255,840,United States of America,1342.01,Pears,2016,5.0,Wholesale,National Stats Yearbook,Americas
+1151,1256,840,United States of America,1343.0,Apricots,2016,9.0,Wholesale,National Stats Yearbook,Americas
+1152,1257,840,United States of America,1345.0,Peaches and nectarines,2016,5.0,Wholesale,National Stats Yearbook,Americas
+1153,1258,840,United States of America,1346.0,Plums and sloes,2016,5.0,Wholesale,National Stats Yearbook,Americas
+1154,1259,840,United States of America,1352.0,Kiwi fruit,2016,9.0,Wholesale,National Stats Yearbook,Americas
+1155,1260,840,United States of America,1353.01,Raspberries,2016,8.0,Wholesale,National Stats Yearbook,Americas
+1156,1261,840,United States of America,1354.0,Strawberries,2016,8.0,Wholesale,National Stats Yearbook,Americas
+1157,1262,840,United States of America,1355.01,Blueberries,2016,8.0,Wholesale,National Stats Yearbook,Americas
+1158,1263,840,United States of America,1355.02,Cranberries,2016,4.0,Wholesale,National Stats Yearbook,Americas
+1159,1264,840,United States of America,21397.01,Canned mushrooms,2016,35.0,Wholesale,National Stats Yearbook,Americas
+1160,1265,840,United States of America,21431.01,Orange juice,2016,46.4,Wholesale,National Stats Yearbook,Americas
+1161,1266,840,United States of America,21432.0,Grapefruit juice,2016,46.6,Wholesale,National Stats Yearbook,Americas
+1162,1267,840,United States of America,21433.0,Pineapple juice,2016,41.3,Wholesale,National Stats Yearbook,Americas
+1163,1268,840,United States of America,21434.0,Grape juice,2016,19.1,Wholesale,National Stats Yearbook,Americas
+1164,1269,840,United States of America,21435.01,Apple juice,2016,26.7,Wholesale,National Stats Yearbook,Americas
+1165,1270,840,United States of America,1211.0,Asparagus,2015,9.0,Wholesale,National Stats Yearbook,Americas
+1166,1271,840,United States of America,1212.0,Cabbages,2015,12.0,Wholesale,National Stats Yearbook,Americas
+1167,1272,840,United States of America,1212.0,Cabbages,2015,7.0,Wholesale,National Stats Yearbook,Americas
+1168,1273,840,United States of America,1212.0,Cabbages,2015,12.0,Wholesale,National Stats Yearbook,Americas
+1169,1274,840,United States of America,1212.0,Cabbages,2015,8.0,Wholesale,National Stats Yearbook,Americas
+1170,1275,840,United States of America,1212.0,Cabbages,2015,12.0,Wholesale,National Stats Yearbook,Americas
+1171,1276,840,United States of America,1213.0,Cauliflowers and broccoli,2015,8.0,Wholesale,National Stats Yearbook,Americas
+1172,1277,840,United States of America,1213.0,Cauliflowers and broccoli,2015,8.0,Wholesale,National Stats Yearbook,Americas
+1173,1278,840,United States of America,1214.0,Lettuce and chicory,2015,7.0,Wholesale,National Stats Yearbook,Americas
+1174,1279,840,United States of America,1214.0,Lettuce and chicory,2015,10.0,Wholesale,National Stats Yearbook,Americas
+1175,1280,840,United States of America,1214.0,Lettuce and chicory,2015,7.0,Wholesale,National Stats Yearbook,Americas
+1176,1281,840,United States of America,1215.0,Spinach,2015,12.0,Wholesale,National Stats Yearbook,Americas
+1177,1282,840,United States of America,1216.0,Artichokes,2015,7.0,Wholesale,National Stats Yearbook,Americas
+1178,1283,840,United States of America,1221.0,Watermelons,2015,10.0,Wholesale,National Stats Yearbook,Americas
+1179,1284,840,United States of America,1229.0,Cantaloupes and other melons,2015,8.0,Wholesale,National Stats Yearbook,Americas
+1180,1285,840,United States of America,1229.0,Cantaloupes and other melons,2015,8.0,Wholesale,National Stats Yearbook,Americas
+1181,1286,840,United States of America,1231.0,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2015,8.0,Wholesale,National Stats Yearbook,Americas
+1182,1287,840,United States of America,1232.0,Cucumbers and gherkins,2015,8.0,Wholesale,National Stats Yearbook,Americas
+1183,1288,840,United States of America,1233.0,Eggplants (aubergines),2015,10.0,Wholesale,National Stats Yearbook,Americas
+1184,1289,840,United States of America,1234.0,Tomatoes,2015,15.0,Wholesale,National Stats Yearbook,Americas
+1185,1290,840,United States of America,1235.0,"Pumpkins, squash and gourds",2015,10.0,Wholesale,National Stats Yearbook,Americas
+1186,1291,840,United States of America,1235.0,"Pumpkins, squash and gourds",2015,10.0,Wholesale,National Stats Yearbook,Americas
+1187,1292,840,United States of America,1239.01,Okra,2015,12.0,Wholesale,National Stats Yearbook,Americas
+1188,1293,840,United States of America,1241.9,"Other beans, green",2015,8.0,Wholesale,National Stats Yearbook,Americas
+1189,1294,840,United States of America,1241.9,"Other beans, green",2015,6.0,Wholesale,National Stats Yearbook,Americas
+1190,1295,840,United States of America,1251.0,Carrots and turnips,2015,3.0,Wholesale,National Stats Yearbook,Americas
+1191,1296,840,United States of America,1251.0,Carrots and turnips,2015,12.0,Wholesale,National Stats Yearbook,Americas
+1192,1297,840,United States of America,1252.0,Green garlic,2015,19.0,Wholesale,National Stats Yearbook,Americas
+1193,1298,840,United States of America,1253.01,"Onions and shallots, green",2015,6.0,Wholesale,National Stats Yearbook,Americas
+1194,1299,840,United States of America,1270.0,Mushrooms and truffles,2015,6.0,Wholesale,National Stats Yearbook,Americas
+1195,1300,840,United States of America,1290.01,Green corn (maize),2015,8.0,Wholesale,National Stats Yearbook,Americas
+1196,1301,840,United States of America,1290.9,"Other vegetables, fresh n.e.c.",2015,7.0,Wholesale,National Stats Yearbook,Americas
+1197,1302,840,United States of America,1311.0,Avocados,2015,6.0,Wholesale,National Stats Yearbook,Americas
+1198,1303,840,United States of America,1316.0,"Mangoes, guavas and mangosteens",2015,5.0,Wholesale,National Stats Yearbook,Americas
+1199,1304,840,United States of America,1317.0,Papayas,2015,5.0,Wholesale,National Stats Yearbook,Americas
+1200,1305,840,United States of America,1318.0,Pineapples,2015,5.0,Wholesale,National Stats Yearbook,Americas
+1201,1306,840,United States of America,1321.0,Pomelos and grapefruits,2015,3.0,Wholesale,National Stats Yearbook,Americas
+1202,1307,840,United States of America,1321.0,Pomelos and grapefruits,2015,3.0,Wholesale,National Stats Yearbook,Americas
+1203,1308,840,United States of America,1322.0,Lemons and limes,2015,4.0,Wholesale,National Stats Yearbook,Americas
+1204,1309,840,United States of America,1322.0,Lemons and limes,2015,5.0,Wholesale,National Stats Yearbook,Americas
+1205,1310,840,United States of America,1324.0,"Tangerines, mandarins, clementines",2015,5.0,Wholesale,National Stats Yearbook,Americas
+1206,1311,840,United States of America,1330.0,Grapes,2015,9.0,Wholesale,National Stats Yearbook,Americas
+1207,1312,840,United States of America,1341.0,Apples,2015,4.0,Wholesale,National Stats Yearbook,Americas
+1208,1313,840,United States of America,1342.01,Pears,2015,5.0,Wholesale,National Stats Yearbook,Americas
+1209,1314,840,United States of America,1343.0,Apricots,2015,9.0,Wholesale,National Stats Yearbook,Americas
+1210,1315,840,United States of America,1345.0,Peaches and nectarines,2015,5.0,Wholesale,National Stats Yearbook,Americas
+1211,1316,840,United States of America,1346.0,Plums and sloes,2015,5.0,Wholesale,National Stats Yearbook,Americas
+1212,1317,840,United States of America,1352.0,Kiwi fruit,2015,9.0,Wholesale,National Stats Yearbook,Americas
+1213,1318,840,United States of America,1353.01,Raspberries,2015,8.0,Wholesale,National Stats Yearbook,Americas
+1214,1319,840,United States of America,1354.0,Strawberries,2015,8.0,Wholesale,National Stats Yearbook,Americas
+1215,1320,840,United States of America,1355.01,Blueberries,2015,8.0,Wholesale,National Stats Yearbook,Americas
+1216,1321,840,United States of America,1355.02,Cranberries,2015,4.0,Wholesale,National Stats Yearbook,Americas
+1217,1322,840,United States of America,21397.01,Canned mushrooms,2015,35.0,Wholesale,National Stats Yearbook,Americas
+1218,1323,840,United States of America,21431.01,Orange juice,2015,43.7,Wholesale,National Stats Yearbook,Americas
+1219,1324,840,United States of America,21432.0,Grapefruit juice,2015,46.8,Wholesale,National Stats Yearbook,Americas
+1220,1325,840,United States of America,21433.0,Pineapple juice,2015,41.3,Wholesale,National Stats Yearbook,Americas
+1221,1326,840,United States of America,21434.0,Grape juice,2015,19.1,Wholesale,National Stats Yearbook,Americas
+1222,1327,840,United States of America,21435.01,Apple juice,2015,26.7,Wholesale,National Stats Yearbook,Americas
+1223,1328,840,United States of America,1211.0,Asparagus,2014,9.0,Wholesale,National Stats Yearbook,Americas
+1224,1329,840,United States of America,1212.0,Cabbages,2014,12.0,Wholesale,National Stats Yearbook,Americas
+1225,1330,840,United States of America,1212.0,Cabbages,2014,12.0,Wholesale,National Stats Yearbook,Americas
+1226,1331,840,United States of America,1212.0,Cabbages,2014,12.0,Wholesale,National Stats Yearbook,Americas
+1227,1332,840,United States of America,1212.0,Cabbages,2014,8.0,Wholesale,National Stats Yearbook,Americas
+1228,1333,840,United States of America,1212.0,Cabbages,2014,7.0,Wholesale,National Stats Yearbook,Americas
+1229,1334,840,United States of America,1213.0,Cauliflowers and broccoli,2014,8.0,Wholesale,National Stats Yearbook,Americas
+1230,1335,840,United States of America,1213.0,Cauliflowers and broccoli,2014,8.0,Wholesale,National Stats Yearbook,Americas
+1231,1336,840,United States of America,1214.0,Lettuce and chicory,2014,7.0,Wholesale,National Stats Yearbook,Americas
+1232,1337,840,United States of America,1214.0,Lettuce and chicory,2014,10.0,Wholesale,National Stats Yearbook,Americas
+1233,1338,840,United States of America,1214.0,Lettuce and chicory,2014,7.0,Wholesale,National Stats Yearbook,Americas
+1234,1339,840,United States of America,1215.0,Spinach,2014,12.0,Wholesale,National Stats Yearbook,Americas
+1235,1340,840,United States of America,1216.0,Artichokes,2014,7.0,Wholesale,National Stats Yearbook,Americas
+1236,1341,840,United States of America,1221.0,Watermelons,2014,10.0,Wholesale,National Stats Yearbook,Americas
+1237,1342,840,United States of America,1229.0,Cantaloupes and other melons,2014,8.0,Wholesale,National Stats Yearbook,Americas
+1238,1343,840,United States of America,1229.0,Cantaloupes and other melons,2014,8.0,Wholesale,National Stats Yearbook,Americas
+1239,1344,840,United States of America,1231.0,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2014,8.0,Wholesale,National Stats Yearbook,Americas
+1240,1345,840,United States of America,1232.0,Cucumbers and gherkins,2014,8.0,Wholesale,National Stats Yearbook,Americas
+1241,1346,840,United States of America,1233.0,Eggplants (aubergines),2014,10.0,Wholesale,National Stats Yearbook,Americas
+1242,1347,840,United States of America,1234.0,Tomatoes,2014,15.0,Wholesale,National Stats Yearbook,Americas
+1243,1348,840,United States of America,1235.0,"Pumpkins, squash and gourds",2014,10.0,Wholesale,National Stats Yearbook,Americas
+1244,1349,840,United States of America,1235.0,"Pumpkins, squash and gourds",2014,10.0,Wholesale,National Stats Yearbook,Americas
+1245,1350,840,United States of America,1239.01,Okra,2014,12.0,Wholesale,National Stats Yearbook,Americas
+1246,1351,840,United States of America,1241.9,"Other beans, green",2014,8.0,Wholesale,National Stats Yearbook,Americas
+1247,1352,840,United States of America,1241.9,"Other beans, green",2014,6.0,Wholesale,National Stats Yearbook,Americas
+1248,1353,840,United States of America,1251.0,Carrots and turnips,2014,3.0,Wholesale,National Stats Yearbook,Americas
+1249,1354,840,United States of America,1251.0,Carrots and turnips,2014,12.0,Wholesale,National Stats Yearbook,Americas
+1250,1355,840,United States of America,1252.0,Green garlic,2014,19.0,Wholesale,National Stats Yearbook,Americas
+1251,1356,840,United States of America,1253.01,"Onions and shallots, green",2014,6.0,Wholesale,National Stats Yearbook,Americas
+1252,1357,840,United States of America,1270.0,Mushrooms and truffles,2014,6.0,Wholesale,National Stats Yearbook,Americas
+1253,1358,840,United States of America,1290.01,Green corn (maize),2014,8.0,Wholesale,National Stats Yearbook,Americas
+1254,1359,840,United States of America,1290.9,"Other vegetables, fresh n.e.c.",2014,7.0,Wholesale,National Stats Yearbook,Americas
+1255,1360,840,United States of America,1311.0,Avocados,2014,6.0,Wholesale,National Stats Yearbook,Americas
+1256,1361,840,United States of America,1316.0,"Mangoes, guavas and mangosteens",2014,5.0,Wholesale,National Stats Yearbook,Americas
+1257,1362,840,United States of America,1317.0,Papayas,2014,5.0,Wholesale,National Stats Yearbook,Americas
+1258,1363,840,United States of America,1318.0,Pineapples,2014,5.0,Wholesale,National Stats Yearbook,Americas
+1259,1364,840,United States of America,1321.0,Pomelos and grapefruits,2014,3.0,Wholesale,National Stats Yearbook,Americas
+1260,1365,840,United States of America,1321.0,Pomelos and grapefruits,2014,3.0,Wholesale,National Stats Yearbook,Americas
+1261,1366,840,United States of America,1322.0,Lemons and limes,2014,5.0,Wholesale,National Stats Yearbook,Americas
+1262,1367,840,United States of America,1322.0,Lemons and limes,2014,4.0,Wholesale,National Stats Yearbook,Americas
+1263,1368,840,United States of America,1324.0,"Tangerines, mandarins, clementines",2014,5.0,Wholesale,National Stats Yearbook,Americas
+1264,1369,840,United States of America,1330.0,Grapes,2014,9.0,Wholesale,National Stats Yearbook,Americas
+1265,1370,840,United States of America,1341.0,Apples,2014,4.0,Wholesale,National Stats Yearbook,Americas
+1266,1371,840,United States of America,1342.01,Pears,2014,5.0,Wholesale,National Stats Yearbook,Americas
+1267,1372,840,United States of America,1343.0,Apricots,2014,9.0,Wholesale,National Stats Yearbook,Americas
+1268,1373,840,United States of America,1345.0,Peaches and nectarines,2014,5.0,Wholesale,National Stats Yearbook,Americas
+1269,1374,840,United States of America,1346.0,Plums and sloes,2014,5.0,Wholesale,National Stats Yearbook,Americas
+1270,1375,840,United States of America,1352.0,Kiwi fruit,2014,9.0,Wholesale,National Stats Yearbook,Americas
+1271,1376,840,United States of America,1353.01,Raspberries,2014,8.0,Wholesale,National Stats Yearbook,Americas
+1272,1377,840,United States of America,1354.0,Strawberries,2014,8.0,Wholesale,National Stats Yearbook,Americas
+1273,1378,840,United States of America,1355.01,Blueberries,2014,8.0,Wholesale,National Stats Yearbook,Americas
+1274,1379,840,United States of America,1355.02,Cranberries,2014,4.0,Wholesale,National Stats Yearbook,Americas
+1275,1380,840,United States of America,21397.01,Canned mushrooms,2014,35.0,Wholesale,National Stats Yearbook,Americas
+1276,1381,840,United States of America,21431.01,Orange juice,2014,41.3,Wholesale,National Stats Yearbook,Americas
+1277,1382,840,United States of America,21432.0,Grapefruit juice,2014,44.4,Wholesale,National Stats Yearbook,Americas
+1278,1383,840,United States of America,21433.0,Pineapple juice,2014,41.3,Wholesale,National Stats Yearbook,Americas
+1279,1384,840,United States of America,21434.0,Grape juice,2014,19.1,Wholesale,National Stats Yearbook,Americas
+1280,1385,840,United States of America,21435.01,Apple juice,2014,26.7,Wholesale,National Stats Yearbook,Americas
+1281,1386,840,United States of America,1251.0,Carrots and turnips,2014,63.0,Retail,Literature Review,Americas
+1282,1387,840,United States of America,1290.01,Green corn (maize),2014,2.0,Retail,Literature Review,Americas
+1283,1388,840,United States of America,1312.0,Bananas,2014,4.0,Retail,Literature Review,Americas
+1284,1389,840,United States of America,1317.0,Papayas,2014,43.0,Retail,Literature Review,Americas
+1285,1390,840,United States of America,1359.9,"Other fruits, n.e.c.",2014,9.0,Whole supply chain,Literature Review,Americas
+1286,1391,840,United States of America,1359.9,"Other fruits, n.e.c.",2014,12.3,Retail,Literature Review,Americas
+1287,1392,840,United States of America,1211.0,Asparagus,2013,9.0,Wholesale,National Stats Yearbook,Americas
+1288,1393,840,United States of America,1212.0,Cabbages,2013,7.0,Wholesale,National Stats Yearbook,Americas
+1289,1394,840,United States of America,1212.0,Cabbages,2013,8.0,Wholesale,National Stats Yearbook,Americas
+1290,1395,840,United States of America,1212.0,Cabbages,2013,12.0,Wholesale,National Stats Yearbook,Americas
+1291,1396,840,United States of America,1212.0,Cabbages,2013,12.0,Wholesale,National Stats Yearbook,Americas
+1292,1397,840,United States of America,1212.0,Cabbages,2013,12.0,Wholesale,National Stats Yearbook,Americas
+1293,1398,840,United States of America,1213.0,Cauliflowers and broccoli,2013,8.0,Wholesale,National Stats Yearbook,Americas
+1294,1399,840,United States of America,1213.0,Cauliflowers and broccoli,2013,8.0,Wholesale,National Stats Yearbook,Americas
+1295,1400,840,United States of America,1214.0,Lettuce and chicory,2013,7.0,Wholesale,National Stats Yearbook,Americas
+1296,1401,840,United States of America,1214.0,Lettuce and chicory,2013,10.0,Wholesale,National Stats Yearbook,Americas
+1297,1402,840,United States of America,1214.0,Lettuce and chicory,2013,7.0,Wholesale,National Stats Yearbook,Americas
+1298,1403,840,United States of America,1215.0,Spinach,2013,12.0,Wholesale,National Stats Yearbook,Americas
+1299,1404,840,United States of America,1216.0,Artichokes,2013,7.0,Wholesale,National Stats Yearbook,Americas
+1300,1405,840,United States of America,1221.0,Watermelons,2013,10.0,Wholesale,National Stats Yearbook,Americas
+1301,1406,840,United States of America,1229.0,Cantaloupes and other melons,2013,8.0,Wholesale,National Stats Yearbook,Americas
+1302,1407,840,United States of America,1229.0,Cantaloupes and other melons,2013,8.0,Wholesale,National Stats Yearbook,Americas
+1303,1408,840,United States of America,1231.0,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2013,8.0,Wholesale,National Stats Yearbook,Americas
+1304,1409,840,United States of America,1232.0,Cucumbers and gherkins,2013,8.0,Wholesale,National Stats Yearbook,Americas
+1305,1410,840,United States of America,1233.0,Eggplants (aubergines),2013,10.0,Wholesale,National Stats Yearbook,Americas
+1306,1411,840,United States of America,1234.0,Tomatoes,2013,15.0,Wholesale,National Stats Yearbook,Americas
+1307,1412,840,United States of America,1235.0,"Pumpkins, squash and gourds",2013,10.0,Wholesale,National Stats Yearbook,Americas
+1308,1413,840,United States of America,1235.0,"Pumpkins, squash and gourds",2013,10.0,Wholesale,National Stats Yearbook,Americas
+1309,1414,840,United States of America,1239.01,Okra,2013,12.0,Wholesale,National Stats Yearbook,Americas
+1310,1415,840,United States of America,1241.9,"Other beans, green",2013,8.0,Wholesale,National Stats Yearbook,Americas
+1311,1416,840,United States of America,1241.9,"Other beans, green",2013,6.0,Wholesale,National Stats Yearbook,Americas
+1312,1417,840,United States of America,1251.0,Carrots and turnips,2013,12.0,Wholesale,National Stats Yearbook,Americas
+1313,1418,840,United States of America,1251.0,Carrots and turnips,2013,3.0,Wholesale,National Stats Yearbook,Americas
+1314,1419,840,United States of America,1252.0,Green garlic,2013,19.0,Wholesale,National Stats Yearbook,Americas
+1315,1420,840,United States of America,1253.01,"Onions and shallots, green",2013,6.0,Wholesale,National Stats Yearbook,Americas
+1316,1421,840,United States of America,1270.0,Mushrooms and truffles,2013,6.0,Wholesale,National Stats Yearbook,Americas
+1317,1422,840,United States of America,1290.01,Green corn (maize),2013,8.0,Wholesale,National Stats Yearbook,Americas
+1318,1423,840,United States of America,1290.9,"Other vegetables, fresh n.e.c.",2013,7.0,Wholesale,National Stats Yearbook,Americas
+1319,1424,840,United States of America,1311.0,Avocados,2013,6.0,Wholesale,National Stats Yearbook,Americas
+1320,1425,840,United States of America,1316.0,"Mangoes, guavas and mangosteens",2013,5.0,Wholesale,National Stats Yearbook,Americas
+1321,1426,840,United States of America,1317.0,Papayas,2013,5.0,Wholesale,National Stats Yearbook,Americas
+1322,1427,840,United States of America,1318.0,Pineapples,2013,5.0,Wholesale,National Stats Yearbook,Americas
+1323,1428,840,United States of America,1321.0,Pomelos and grapefruits,2013,3.0,Wholesale,National Stats Yearbook,Americas
+1324,1429,840,United States of America,1321.0,Pomelos and grapefruits,2013,3.0,Wholesale,National Stats Yearbook,Americas
+1325,1430,840,United States of America,1322.0,Lemons and limes,2013,5.0,Wholesale,National Stats Yearbook,Americas
+1326,1431,840,United States of America,1322.0,Lemons and limes,2013,4.0,Wholesale,National Stats Yearbook,Americas
+1327,1432,840,United States of America,1324.0,"Tangerines, mandarins, clementines",2013,5.0,Wholesale,National Stats Yearbook,Americas
+1328,1433,840,United States of America,1330.0,Grapes,2013,9.0,Wholesale,National Stats Yearbook,Americas
+1329,1434,840,United States of America,1341.0,Apples,2013,4.0,Wholesale,National Stats Yearbook,Americas
+1330,1435,840,United States of America,1342.01,Pears,2013,5.0,Wholesale,National Stats Yearbook,Americas
+1331,1436,840,United States of America,1343.0,Apricots,2013,9.0,Wholesale,National Stats Yearbook,Americas
+1332,1437,840,United States of America,1345.0,Peaches and nectarines,2013,5.0,Wholesale,National Stats Yearbook,Americas
+1333,1438,840,United States of America,1346.0,Plums and sloes,2013,5.0,Wholesale,National Stats Yearbook,Americas
+1334,1439,840,United States of America,1352.0,Kiwi fruit,2013,9.0,Wholesale,National Stats Yearbook,Americas
+1335,1440,840,United States of America,1353.01,Raspberries,2013,8.0,Wholesale,National Stats Yearbook,Americas
+1336,1441,840,United States of America,1354.0,Strawberries,2013,8.0,Wholesale,National Stats Yearbook,Americas
+1337,1442,840,United States of America,1355.01,Blueberries,2013,8.0,Wholesale,National Stats Yearbook,Americas
+1338,1443,840,United States of America,1355.02,Cranberries,2013,4.0,Wholesale,National Stats Yearbook,Americas
+1339,1444,840,United States of America,21397.01,Canned mushrooms,2013,35.0,Wholesale,National Stats Yearbook,Americas
+1340,1445,840,United States of America,21431.01,Orange juice,2013,39.5,Wholesale,National Stats Yearbook,Americas
+1341,1446,840,United States of America,21432.0,Grapefruit juice,2013,41.6,Wholesale,National Stats Yearbook,Americas
+1342,1447,840,United States of America,21433.0,Pineapple juice,2013,41.3,Wholesale,National Stats Yearbook,Americas
+1343,1448,840,United States of America,21434.0,Grape juice,2013,19.1,Wholesale,National Stats Yearbook,Americas
+1344,1449,840,United States of America,21435.01,Apple juice,2013,26.7,Wholesale,National Stats Yearbook,Americas
+1345,1450,840,United States of America,1211.0,Asparagus,2012,9.0,Wholesale,National Stats Yearbook,Americas
+1346,1451,840,United States of America,1212.0,Cabbages,2012,12.0,Wholesale,National Stats Yearbook,Americas
+1347,1452,840,United States of America,1212.0,Cabbages,2012,8.0,Wholesale,National Stats Yearbook,Americas
+1348,1453,840,United States of America,1212.0,Cabbages,2012,12.0,Wholesale,National Stats Yearbook,Americas
+1349,1454,840,United States of America,1212.0,Cabbages,2012,7.0,Wholesale,National Stats Yearbook,Americas
+1350,1455,840,United States of America,1212.0,Cabbages,2012,12.0,Wholesale,National Stats Yearbook,Americas
+1351,1456,840,United States of America,1213.0,Cauliflowers and broccoli,2012,8.0,Wholesale,National Stats Yearbook,Americas
+1352,1457,840,United States of America,1213.0,Cauliflowers and broccoli,2012,8.0,Wholesale,National Stats Yearbook,Americas
+1353,1458,840,United States of America,1214.0,Lettuce and chicory,2012,7.0,Wholesale,National Stats Yearbook,Americas
+1354,1459,840,United States of America,1214.0,Lettuce and chicory,2012,7.0,Wholesale,National Stats Yearbook,Americas
+1355,1460,840,United States of America,1214.0,Lettuce and chicory,2012,10.0,Wholesale,National Stats Yearbook,Americas
+1356,1461,840,United States of America,1215.0,Spinach,2012,12.0,Wholesale,National Stats Yearbook,Americas
+1357,1462,840,United States of America,1216.0,Artichokes,2012,7.0,Wholesale,National Stats Yearbook,Americas
+1358,1463,840,United States of America,1221.0,Watermelons,2012,10.0,Wholesale,National Stats Yearbook,Americas
+1359,1464,840,United States of America,1229.0,Cantaloupes and other melons,2012,8.0,Wholesale,National Stats Yearbook,Americas
+1360,1465,840,United States of America,1229.0,Cantaloupes and other melons,2012,8.0,Wholesale,National Stats Yearbook,Americas
+1361,1466,840,United States of America,1231.0,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2012,8.0,Wholesale,National Stats Yearbook,Americas
+1362,1467,840,United States of America,1232.0,Cucumbers and gherkins,2012,8.0,Wholesale,National Stats Yearbook,Americas
+1363,1468,840,United States of America,1233.0,Eggplants (aubergines),2012,10.0,Wholesale,National Stats Yearbook,Americas
+1364,1469,840,United States of America,1234.0,Tomatoes,2012,15.0,Wholesale,National Stats Yearbook,Americas
+1365,1470,840,United States of America,1235.0,"Pumpkins, squash and gourds",2012,10.0,Wholesale,National Stats Yearbook,Americas
+1366,1471,840,United States of America,1235.0,"Pumpkins, squash and gourds",2012,10.0,Wholesale,National Stats Yearbook,Americas
+1367,1472,840,United States of America,1239.01,Okra,2012,12.0,Wholesale,National Stats Yearbook,Americas
+1368,1473,840,United States of America,1241.9,"Other beans, green",2012,6.0,Wholesale,National Stats Yearbook,Americas
+1369,1474,840,United States of America,1241.9,"Other beans, green",2012,8.0,Wholesale,National Stats Yearbook,Americas
+1370,1475,840,United States of America,1251.0,Carrots and turnips,2012,3.0,Wholesale,National Stats Yearbook,Americas
+1371,1476,840,United States of America,1251.0,Carrots and turnips,2012,12.0,Wholesale,National Stats Yearbook,Americas
+1372,1477,840,United States of America,1252.0,Green garlic,2012,19.0,Wholesale,National Stats Yearbook,Americas
+1373,1478,840,United States of America,1253.01,"Onions and shallots, green",2012,6.0,Wholesale,National Stats Yearbook,Americas
+1374,1479,840,United States of America,1270.0,Mushrooms and truffles,2012,6.0,Wholesale,National Stats Yearbook,Americas
+1375,1480,840,United States of America,1290.01,Green corn (maize),2012,8.0,Wholesale,National Stats Yearbook,Americas
+1376,1481,840,United States of America,1290.9,"Other vegetables, fresh n.e.c.",2012,7.0,Wholesale,National Stats Yearbook,Americas
+1377,1482,840,United States of America,1311.0,Avocados,2012,6.0,Wholesale,National Stats Yearbook,Americas
+1378,1483,840,United States of America,1316.0,"Mangoes, guavas and mangosteens",2012,5.0,Wholesale,National Stats Yearbook,Americas
+1379,1484,840,United States of America,1317.0,Papayas,2012,5.0,Wholesale,National Stats Yearbook,Americas
+1380,1485,840,United States of America,1318.0,Pineapples,2012,5.0,Wholesale,National Stats Yearbook,Americas
+1381,1486,840,United States of America,1321.0,Pomelos and grapefruits,2012,3.0,Wholesale,National Stats Yearbook,Americas
+1382,1487,840,United States of America,1321.0,Pomelos and grapefruits,2012,3.0,Wholesale,National Stats Yearbook,Americas
+1383,1488,840,United States of America,1322.0,Lemons and limes,2012,5.0,Wholesale,National Stats Yearbook,Americas
+1384,1489,840,United States of America,1322.0,Lemons and limes,2012,4.0,Wholesale,National Stats Yearbook,Americas
+1385,1490,840,United States of America,1324.0,"Tangerines, mandarins, clementines",2012,5.0,Wholesale,National Stats Yearbook,Americas
+1386,1491,840,United States of America,1330.0,Grapes,2012,9.0,Wholesale,National Stats Yearbook,Americas
+1387,1492,840,United States of America,1341.0,Apples,2012,4.0,Wholesale,National Stats Yearbook,Americas
+1388,1493,840,United States of America,1342.01,Pears,2012,5.0,Wholesale,National Stats Yearbook,Americas
+1389,1494,840,United States of America,1343.0,Apricots,2012,9.0,Wholesale,National Stats Yearbook,Americas
+1390,1495,840,United States of America,1345.0,Peaches and nectarines,2012,5.0,Wholesale,National Stats Yearbook,Americas
+1391,1496,840,United States of America,1346.0,Plums and sloes,2012,5.0,Wholesale,National Stats Yearbook,Americas
+1392,1497,840,United States of America,1352.0,Kiwi fruit,2012,9.0,Wholesale,National Stats Yearbook,Americas
+1393,1498,840,United States of America,1353.01,Raspberries,2012,8.0,Wholesale,National Stats Yearbook,Americas
+1394,1499,840,United States of America,1354.0,Strawberries,2012,8.0,Wholesale,National Stats Yearbook,Americas
+1395,1500,840,United States of America,1355.01,Blueberries,2012,8.0,Wholesale,National Stats Yearbook,Americas
+1396,1501,840,United States of America,1355.02,Cranberries,2012,4.0,Wholesale,National Stats Yearbook,Americas
+1397,1502,840,United States of America,21397.01,Canned mushrooms,2012,35.0,Wholesale,National Stats Yearbook,Americas
+1398,1503,840,United States of America,21431.01,Orange juice,2012,40.1,Wholesale,National Stats Yearbook,Americas
+1399,1504,840,United States of America,21432.0,Grapefruit juice,2012,39.2,Wholesale,National Stats Yearbook,Americas
+1400,1505,840,United States of America,21433.0,Pineapple juice,2012,41.3,Wholesale,National Stats Yearbook,Americas
+1401,1506,840,United States of America,21434.0,Grape juice,2012,19.1,Wholesale,National Stats Yearbook,Americas
+1402,1507,840,United States of America,21435.01,Apple juice,2012,26.7,Wholesale,National Stats Yearbook,Americas
+1403,1508,840,United States of America,1211.0,Asparagus,2011,9.0,Wholesale,National Stats Yearbook,Americas
+1404,1509,840,United States of America,1212.0,Cabbages,2011,12.0,Wholesale,National Stats Yearbook,Americas
+1405,1510,840,United States of America,1212.0,Cabbages,2011,8.0,Wholesale,National Stats Yearbook,Americas
+1406,1511,840,United States of America,1212.0,Cabbages,2011,7.0,Wholesale,National Stats Yearbook,Americas
+1407,1512,840,United States of America,1212.0,Cabbages,2011,12.0,Wholesale,National Stats Yearbook,Americas
+1408,1513,840,United States of America,1212.0,Cabbages,2011,12.0,Wholesale,National Stats Yearbook,Americas
+1409,1514,840,United States of America,1213.0,Cauliflowers and broccoli,2011,8.0,Wholesale,National Stats Yearbook,Americas
+1410,1515,840,United States of America,1213.0,Cauliflowers and broccoli,2011,8.0,Wholesale,National Stats Yearbook,Americas
+1411,1516,840,United States of America,1214.0,Lettuce and chicory,2011,7.0,Wholesale,National Stats Yearbook,Americas
+1412,1517,840,United States of America,1214.0,Lettuce and chicory,2011,10.0,Wholesale,National Stats Yearbook,Americas
+1413,1518,840,United States of America,1214.0,Lettuce and chicory,2011,7.0,Wholesale,National Stats Yearbook,Americas
+1414,1519,840,United States of America,1215.0,Spinach,2011,12.0,Wholesale,National Stats Yearbook,Americas
+1415,1520,840,United States of America,1216.0,Artichokes,2011,7.0,Wholesale,National Stats Yearbook,Americas
+1416,1521,840,United States of America,1221.0,Watermelons,2011,10.0,Wholesale,National Stats Yearbook,Americas
+1417,1522,840,United States of America,1229.0,Cantaloupes and other melons,2011,8.0,Wholesale,National Stats Yearbook,Americas
+1418,1523,840,United States of America,1229.0,Cantaloupes and other melons,2011,8.0,Wholesale,National Stats Yearbook,Americas
+1419,1524,840,United States of America,1231.0,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2011,8.0,Wholesale,National Stats Yearbook,Americas
+1420,1525,840,United States of America,1232.0,Cucumbers and gherkins,2011,8.0,Wholesale,National Stats Yearbook,Americas
+1421,1526,840,United States of America,1233.0,Eggplants (aubergines),2011,10.0,Wholesale,National Stats Yearbook,Americas
+1422,1527,840,United States of America,1234.0,Tomatoes,2011,15.0,Wholesale,National Stats Yearbook,Americas
+1423,1528,840,United States of America,1235.0,"Pumpkins, squash and gourds",2011,10.0,Wholesale,National Stats Yearbook,Americas
+1424,1529,840,United States of America,1235.0,"Pumpkins, squash and gourds",2011,10.0,Wholesale,National Stats Yearbook,Americas
+1425,1530,840,United States of America,1239.01,Okra,2011,12.0,Wholesale,National Stats Yearbook,Americas
+1426,1531,840,United States of America,1241.9,"Other beans, green",2011,8.0,Wholesale,National Stats Yearbook,Americas
+1427,1532,840,United States of America,1241.9,"Other beans, green",2011,6.0,Wholesale,National Stats Yearbook,Americas
+1428,1533,840,United States of America,1251.0,Carrots and turnips,2011,12.0,Wholesale,National Stats Yearbook,Americas
+1429,1534,840,United States of America,1251.0,Carrots and turnips,2011,3.0,Wholesale,National Stats Yearbook,Americas
+1430,1535,840,United States of America,1252.0,Green garlic,2011,19.0,Wholesale,National Stats Yearbook,Americas
+1431,1536,840,United States of America,1253.01,"Onions and shallots, green",2011,6.0,Wholesale,National Stats Yearbook,Americas
+1432,1537,840,United States of America,1270.0,Mushrooms and truffles,2011,6.0,Wholesale,National Stats Yearbook,Americas
+1433,1538,840,United States of America,1290.01,Green corn (maize),2011,8.0,Wholesale,National Stats Yearbook,Americas
+1434,1539,840,United States of America,1290.9,"Other vegetables, fresh n.e.c.",2011,7.0,Wholesale,National Stats Yearbook,Americas
+1435,1540,840,United States of America,1311.0,Avocados,2011,6.0,Wholesale,National Stats Yearbook,Americas
+1436,1541,840,United States of America,1316.0,"Mangoes, guavas and mangosteens",2011,5.0,Wholesale,National Stats Yearbook,Americas
+1437,1542,840,United States of America,1317.0,Papayas,2011,5.0,Wholesale,National Stats Yearbook,Americas
+1438,1543,840,United States of America,1318.0,Pineapples,2011,5.0,Wholesale,National Stats Yearbook,Americas
+1439,1544,840,United States of America,1321.0,Pomelos and grapefruits,2011,3.0,Wholesale,National Stats Yearbook,Americas
+1440,1545,840,United States of America,1321.0,Pomelos and grapefruits,2011,3.0,Wholesale,National Stats Yearbook,Americas
+1441,1546,840,United States of America,1322.0,Lemons and limes,2011,5.0,Wholesale,National Stats Yearbook,Americas
+1442,1547,840,United States of America,1322.0,Lemons and limes,2011,4.0,Wholesale,National Stats Yearbook,Americas
+1443,1548,840,United States of America,1324.0,"Tangerines, mandarins, clementines",2011,5.0,Wholesale,National Stats Yearbook,Americas
+1444,1549,840,United States of America,1330.0,Grapes,2011,9.0,Wholesale,National Stats Yearbook,Americas
+1445,1550,840,United States of America,1341.0,Apples,2011,4.0,Wholesale,National Stats Yearbook,Americas
+1446,1551,840,United States of America,1342.01,Pears,2011,5.0,Wholesale,National Stats Yearbook,Americas
+1447,1552,840,United States of America,1343.0,Apricots,2011,9.0,Wholesale,National Stats Yearbook,Americas
+1448,1553,840,United States of America,1345.0,Peaches and nectarines,2011,5.0,Wholesale,National Stats Yearbook,Americas
+1449,1554,840,United States of America,1346.0,Plums and sloes,2011,5.0,Wholesale,National Stats Yearbook,Americas
+1450,1555,840,United States of America,1352.0,Kiwi fruit,2011,9.0,Wholesale,National Stats Yearbook,Americas
+1451,1556,840,United States of America,1353.01,Raspberries,2011,8.0,Wholesale,National Stats Yearbook,Americas
+1452,1557,840,United States of America,1354.0,Strawberries,2011,8.0,Wholesale,National Stats Yearbook,Americas
+1453,1558,840,United States of America,1355.01,Blueberries,2011,8.0,Wholesale,National Stats Yearbook,Americas
+1454,1559,840,United States of America,1355.02,Cranberries,2011,4.0,Wholesale,National Stats Yearbook,Americas
+1455,1560,840,United States of America,21397.01,Canned mushrooms,2011,35.0,Wholesale,National Stats Yearbook,Americas
+1456,1561,840,United States of America,21431.01,Orange juice,2011,41.4,Wholesale,National Stats Yearbook,Americas
+1457,1562,840,United States of America,21432.0,Grapefruit juice,2011,39.7,Wholesale,National Stats Yearbook,Americas
+1458,1563,840,United States of America,21433.0,Pineapple juice,2011,41.3,Wholesale,National Stats Yearbook,Americas
+1459,1564,840,United States of America,21434.0,Grape juice,2011,19.1,Wholesale,National Stats Yearbook,Americas
+1460,1565,840,United States of America,21435.01,Apple juice,2011,26.7,Wholesale,National Stats Yearbook,Americas
+1461,1566,840,United States of America,1211.0,Asparagus,2010,9.0,Wholesale,National Stats Yearbook,Americas
+1462,1567,840,United States of America,1212.0,Cabbages,2010,8.0,Wholesale,National Stats Yearbook,Americas
+1463,1568,840,United States of America,1212.0,Cabbages,2010,12.0,Wholesale,National Stats Yearbook,Americas
+1464,1569,840,United States of America,1212.0,Cabbages,2010,12.0,Wholesale,National Stats Yearbook,Americas
+1465,1570,840,United States of America,1212.0,Cabbages,2010,12.0,Wholesale,National Stats Yearbook,Americas
+1466,1571,840,United States of America,1212.0,Cabbages,2010,7.0,Wholesale,National Stats Yearbook,Americas
+1467,1572,840,United States of America,1213.0,Cauliflowers and broccoli,2010,8.0,Wholesale,National Stats Yearbook,Americas
+1468,1573,840,United States of America,1213.0,Cauliflowers and broccoli,2010,8.0,Wholesale,National Stats Yearbook,Americas
+1469,1574,840,United States of America,1214.0,Lettuce and chicory,2010,10.0,Wholesale,National Stats Yearbook,Americas
+1470,1575,840,United States of America,1214.0,Lettuce and chicory,2010,7.0,Wholesale,National Stats Yearbook,Americas
+1471,1576,840,United States of America,1214.0,Lettuce and chicory,2010,7.0,Wholesale,National Stats Yearbook,Americas
+1472,1577,840,United States of America,1215.0,Spinach,2010,12.0,Wholesale,National Stats Yearbook,Americas
+1473,1578,840,United States of America,1216.0,Artichokes,2010,7.0,Wholesale,National Stats Yearbook,Americas
+1474,1579,840,United States of America,1221.0,Watermelons,2010,10.0,Wholesale,National Stats Yearbook,Americas
+1475,1580,840,United States of America,1229.0,Cantaloupes and other melons,2010,8.0,Wholesale,National Stats Yearbook,Americas
+1476,1581,840,United States of America,1229.0,Cantaloupes and other melons,2010,8.0,Wholesale,National Stats Yearbook,Americas
+1477,1582,840,United States of America,1231.0,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2010,8.0,Wholesale,National Stats Yearbook,Americas
+1478,1583,840,United States of America,1232.0,Cucumbers and gherkins,2010,8.0,Wholesale,National Stats Yearbook,Americas
+1479,1584,840,United States of America,1233.0,Eggplants (aubergines),2010,10.0,Wholesale,National Stats Yearbook,Americas
+1480,1585,840,United States of America,1234.0,Tomatoes,2010,15.0,Wholesale,National Stats Yearbook,Americas
+1481,1586,840,United States of America,1235.0,"Pumpkins, squash and gourds",2010,10.0,Wholesale,National Stats Yearbook,Americas
+1482,1587,840,United States of America,1235.0,"Pumpkins, squash and gourds",2010,10.0,Wholesale,National Stats Yearbook,Americas
+1483,1588,840,United States of America,1239.01,Okra,2010,12.0,Wholesale,National Stats Yearbook,Americas
+1484,1589,840,United States of America,1241.9,"Other beans, green",2010,8.0,Wholesale,National Stats Yearbook,Americas
+1485,1590,840,United States of America,1241.9,"Other beans, green",2010,6.0,Wholesale,National Stats Yearbook,Americas
+1486,1591,840,United States of America,1251.0,Carrots and turnips,2010,3.0,Wholesale,National Stats Yearbook,Americas
+1487,1592,840,United States of America,1251.0,Carrots and turnips,2010,12.0,Wholesale,National Stats Yearbook,Americas
+1488,1593,840,United States of America,1252.0,Green garlic,2010,19.0,Wholesale,National Stats Yearbook,Americas
+1489,1594,840,United States of America,1253.01,"Onions and shallots, green",2010,6.0,Wholesale,National Stats Yearbook,Americas
+1490,1595,840,United States of America,1270.0,Mushrooms and truffles,2010,6.0,Wholesale,National Stats Yearbook,Americas
+1491,1596,840,United States of America,1290.01,Green corn (maize),2010,8.0,Wholesale,National Stats Yearbook,Americas
+1492,1597,840,United States of America,1290.9,"Other vegetables, fresh n.e.c.",2010,7.0,Wholesale,National Stats Yearbook,Americas
+1493,1598,840,United States of America,1311.0,Avocados,2010,6.0,Wholesale,National Stats Yearbook,Americas
+1494,1599,840,United States of America,1316.0,"Mangoes, guavas and mangosteens",2010,5.0,Wholesale,National Stats Yearbook,Americas
+1495,1600,840,United States of America,1317.0,Papayas,2010,5.0,Wholesale,National Stats Yearbook,Americas
+1496,1601,840,United States of America,1318.0,Pineapples,2010,5.0,Wholesale,National Stats Yearbook,Americas
+1497,1602,840,United States of America,1321.0,Pomelos and grapefruits,2010,3.0,Wholesale,National Stats Yearbook,Americas
+1498,1603,840,United States of America,1321.0,Pomelos and grapefruits,2010,3.0,Wholesale,National Stats Yearbook,Americas
+1499,1604,840,United States of America,1322.0,Lemons and limes,2010,4.0,Wholesale,National Stats Yearbook,Americas
+1500,1605,840,United States of America,1322.0,Lemons and limes,2010,5.0,Wholesale,National Stats Yearbook,Americas
+1501,1606,840,United States of America,1324.0,"Tangerines, mandarins, clementines",2010,5.0,Wholesale,National Stats Yearbook,Americas
+1502,1607,840,United States of America,1330.0,Grapes,2010,9.0,Wholesale,National Stats Yearbook,Americas
+1503,1608,840,United States of America,1341.0,Apples,2010,4.0,Wholesale,National Stats Yearbook,Americas
+1504,1609,840,United States of America,1342.01,Pears,2010,5.0,Wholesale,National Stats Yearbook,Americas
+1505,1610,840,United States of America,1343.0,Apricots,2010,9.0,Wholesale,National Stats Yearbook,Americas
+1506,1611,840,United States of America,1345.0,Peaches and nectarines,2010,5.0,Wholesale,National Stats Yearbook,Americas
+1507,1612,840,United States of America,1346.0,Plums and sloes,2010,5.0,Wholesale,National Stats Yearbook,Americas
+1508,1613,840,United States of America,1352.0,Kiwi fruit,2010,9.0,Wholesale,National Stats Yearbook,Americas
+1509,1614,840,United States of America,1353.01,Raspberries,2010,8.0,Wholesale,National Stats Yearbook,Americas
+1510,1615,840,United States of America,1354.0,Strawberries,2010,8.0,Wholesale,National Stats Yearbook,Americas
+1511,1616,840,United States of America,1355.01,Blueberries,2010,8.0,Wholesale,National Stats Yearbook,Americas
+1512,1617,840,United States of America,1355.02,Cranberries,2010,4.0,Wholesale,National Stats Yearbook,Americas
+1513,1618,840,United States of America,21397.01,Canned mushrooms,2010,35.0,Wholesale,National Stats Yearbook,Americas
+1514,1619,840,United States of America,21431.01,Orange juice,2010,39.0,Wholesale,National Stats Yearbook,Americas
+1515,1620,840,United States of America,21432.0,Grapefruit juice,2010,40.9,Wholesale,National Stats Yearbook,Americas
+1516,1621,840,United States of America,21433.0,Pineapple juice,2010,41.3,Wholesale,National Stats Yearbook,Americas
+1517,1622,840,United States of America,21434.0,Grape juice,2010,19.1,Wholesale,National Stats Yearbook,Americas
+1518,1623,840,United States of America,21435.01,Apple juice,2010,26.7,Wholesale,National Stats Yearbook,Americas
+1519,1624,840,United States of America,1211.0,Asparagus,2009,9.0,Wholesale,National Stats Yearbook,Americas
+1520,1625,840,United States of America,1212.0,Cabbages,2009,8.0,Wholesale,National Stats Yearbook,Americas
+1521,1626,840,United States of America,1212.0,Cabbages,2009,12.0,Wholesale,National Stats Yearbook,Americas
+1522,1627,840,United States of America,1212.0,Cabbages,2009,12.0,Wholesale,National Stats Yearbook,Americas
+1523,1628,840,United States of America,1212.0,Cabbages,2009,7.0,Wholesale,National Stats Yearbook,Americas
+1524,1629,840,United States of America,1212.0,Cabbages,2009,12.0,Wholesale,National Stats Yearbook,Americas
+1525,1630,840,United States of America,1213.0,Cauliflowers and broccoli,2009,8.0,Wholesale,National Stats Yearbook,Americas
+1526,1631,840,United States of America,1213.0,Cauliflowers and broccoli,2009,8.0,Wholesale,National Stats Yearbook,Americas
+1527,1632,840,United States of America,1214.0,Lettuce and chicory,2009,10.0,Wholesale,National Stats Yearbook,Americas
+1528,1633,840,United States of America,1214.0,Lettuce and chicory,2009,7.0,Wholesale,National Stats Yearbook,Americas
+1529,1634,840,United States of America,1214.0,Lettuce and chicory,2009,7.0,Wholesale,National Stats Yearbook,Americas
+1530,1635,840,United States of America,1215.0,Spinach,2009,12.0,Wholesale,National Stats Yearbook,Americas
+1531,1636,840,United States of America,1216.0,Artichokes,2009,7.0,Wholesale,National Stats Yearbook,Americas
+1532,1637,840,United States of America,1221.0,Watermelons,2009,10.0,Wholesale,National Stats Yearbook,Americas
+1533,1638,840,United States of America,1229.0,Cantaloupes and other melons,2009,8.0,Wholesale,National Stats Yearbook,Americas
+1534,1639,840,United States of America,1229.0,Cantaloupes and other melons,2009,8.0,Wholesale,National Stats Yearbook,Americas
+1535,1640,840,United States of America,1231.0,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2009,8.0,Wholesale,National Stats Yearbook,Americas
+1536,1641,840,United States of America,1232.0,Cucumbers and gherkins,2009,8.0,Wholesale,National Stats Yearbook,Americas
+1537,1642,840,United States of America,1233.0,Eggplants (aubergines),2009,10.0,Wholesale,National Stats Yearbook,Americas
+1538,1643,840,United States of America,1234.0,Tomatoes,2009,15.0,Wholesale,National Stats Yearbook,Americas
+1539,1644,840,United States of America,1235.0,"Pumpkins, squash and gourds",2009,10.0,Wholesale,National Stats Yearbook,Americas
+1540,1645,840,United States of America,1235.0,"Pumpkins, squash and gourds",2009,10.0,Wholesale,National Stats Yearbook,Americas
+1541,1646,840,United States of America,1239.01,Okra,2009,12.0,Wholesale,National Stats Yearbook,Americas
+1542,1647,840,United States of America,1241.9,"Other beans, green",2009,6.0,Wholesale,National Stats Yearbook,Americas
+1543,1648,840,United States of America,1241.9,"Other beans, green",2009,8.0,Wholesale,National Stats Yearbook,Americas
+1544,1649,840,United States of America,1251.0,Carrots and turnips,2009,12.0,Wholesale,National Stats Yearbook,Americas
+1545,1650,840,United States of America,1251.0,Carrots and turnips,2009,3.0,Wholesale,National Stats Yearbook,Americas
+1546,1651,840,United States of America,1252.0,Green garlic,2009,19.0,Wholesale,National Stats Yearbook,Americas
+1547,1652,840,United States of America,1253.01,"Onions and shallots, green",2009,6.0,Wholesale,National Stats Yearbook,Americas
+1548,1653,840,United States of America,1270.0,Mushrooms and truffles,2009,6.0,Wholesale,National Stats Yearbook,Americas
+1549,1654,840,United States of America,1290.01,Green corn (maize),2009,8.0,Wholesale,National Stats Yearbook,Americas
+1550,1655,840,United States of America,1290.9,"Other vegetables, fresh n.e.c.",2009,7.0,Wholesale,National Stats Yearbook,Americas
+1551,1656,840,United States of America,1311.0,Avocados,2009,6.0,Wholesale,National Stats Yearbook,Americas
+1552,1657,840,United States of America,1316.0,"Mangoes, guavas and mangosteens",2009,5.0,Wholesale,National Stats Yearbook,Americas
+1553,1658,840,United States of America,1317.0,Papayas,2009,5.0,Wholesale,National Stats Yearbook,Americas
+1554,1659,840,United States of America,1318.0,Pineapples,2009,5.0,Wholesale,National Stats Yearbook,Americas
+1555,1660,840,United States of America,1321.0,Pomelos and grapefruits,2009,3.0,Wholesale,National Stats Yearbook,Americas
+1556,1661,840,United States of America,1321.0,Pomelos and grapefruits,2009,3.0,Wholesale,National Stats Yearbook,Americas
+1557,1662,840,United States of America,1322.0,Lemons and limes,2009,4.0,Wholesale,National Stats Yearbook,Americas
+1558,1663,840,United States of America,1322.0,Lemons and limes,2009,5.0,Wholesale,National Stats Yearbook,Americas
+1559,1664,840,United States of America,1324.0,"Tangerines, mandarins, clementines",2009,5.0,Wholesale,National Stats Yearbook,Americas
+1560,1665,840,United States of America,1330.0,Grapes,2009,9.0,Wholesale,National Stats Yearbook,Americas
+1561,1666,840,United States of America,1341.0,Apples,2009,4.0,Wholesale,National Stats Yearbook,Americas
+1562,1667,840,United States of America,1342.01,Pears,2009,5.0,Wholesale,National Stats Yearbook,Americas
+1563,1668,840,United States of America,1343.0,Apricots,2009,9.0,Wholesale,National Stats Yearbook,Americas
+1564,1669,840,United States of America,1345.0,Peaches and nectarines,2009,5.0,Wholesale,National Stats Yearbook,Americas
+1565,1670,840,United States of America,1346.0,Plums and sloes,2009,5.0,Wholesale,National Stats Yearbook,Americas
+1566,1671,840,United States of America,1352.0,Kiwi fruit,2009,9.0,Wholesale,National Stats Yearbook,Americas
+1567,1672,840,United States of America,1353.01,Raspberries,2009,8.0,Wholesale,National Stats Yearbook,Americas
+1568,1673,840,United States of America,1354.0,Strawberries,2009,8.0,Wholesale,National Stats Yearbook,Americas
+1569,1674,840,United States of America,1355.01,Blueberries,2009,8.0,Wholesale,National Stats Yearbook,Americas
+1570,1675,840,United States of America,1355.02,Cranberries,2009,4.0,Wholesale,National Stats Yearbook,Americas
+1571,1676,840,United States of America,21397.01,Canned mushrooms,2009,35.0,Wholesale,National Stats Yearbook,Americas
+1572,1677,840,United States of America,21431.01,Orange juice,2009,37.5,Wholesale,National Stats Yearbook,Americas
+1573,1678,840,United States of America,21432.0,Grapefruit juice,2009,39.9,Wholesale,National Stats Yearbook,Americas
+1574,1679,840,United States of America,21433.0,Pineapple juice,2009,41.3,Wholesale,National Stats Yearbook,Americas
+1575,1680,840,United States of America,21434.0,Grape juice,2009,19.1,Wholesale,National Stats Yearbook,Americas
+1576,1681,840,United States of America,21435.01,Apple juice,2009,26.7,Wholesale,National Stats Yearbook,Americas
+1577,1682,840,United States of America,1211.0,Asparagus,2008,9.0,Wholesale,National Stats Yearbook,Americas
+1578,1683,840,United States of America,1212.0,Cabbages,2008,12.0,Wholesale,National Stats Yearbook,Americas
+1579,1684,840,United States of America,1212.0,Cabbages,2008,7.0,Wholesale,National Stats Yearbook,Americas
+1580,1685,840,United States of America,1212.0,Cabbages,2008,12.0,Wholesale,National Stats Yearbook,Americas
+1581,1686,840,United States of America,1212.0,Cabbages,2008,12.0,Wholesale,National Stats Yearbook,Americas
+1582,1687,840,United States of America,1212.0,Cabbages,2008,8.0,Wholesale,National Stats Yearbook,Americas
+1583,1688,840,United States of America,1213.0,Cauliflowers and broccoli,2008,8.0,Wholesale,National Stats Yearbook,Americas
+1584,1689,840,United States of America,1213.0,Cauliflowers and broccoli,2008,8.0,Wholesale,National Stats Yearbook,Americas
+1585,1690,840,United States of America,1214.0,Lettuce and chicory,2008,10.0,Wholesale,National Stats Yearbook,Americas
+1586,1691,840,United States of America,1214.0,Lettuce and chicory,2008,7.0,Wholesale,National Stats Yearbook,Americas
+1587,1692,840,United States of America,1214.0,Lettuce and chicory,2008,7.0,Wholesale,National Stats Yearbook,Americas
+1588,1693,840,United States of America,1215.0,Spinach,2008,12.0,Wholesale,National Stats Yearbook,Americas
+1589,1694,840,United States of America,1216.0,Artichokes,2008,7.0,Wholesale,National Stats Yearbook,Americas
+1590,1695,840,United States of America,1221.0,Watermelons,2008,10.0,Wholesale,National Stats Yearbook,Americas
+1591,1696,840,United States of America,1229.0,Cantaloupes and other melons,2008,8.0,Wholesale,National Stats Yearbook,Americas
+1592,1697,840,United States of America,1229.0,Cantaloupes and other melons,2008,8.0,Wholesale,National Stats Yearbook,Americas
+1593,1698,840,United States of America,1231.0,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2008,8.0,Wholesale,National Stats Yearbook,Americas
+1594,1699,840,United States of America,1232.0,Cucumbers and gherkins,2008,8.0,Wholesale,National Stats Yearbook,Americas
+1595,1700,840,United States of America,1233.0,Eggplants (aubergines),2008,10.0,Wholesale,National Stats Yearbook,Americas
+1596,1701,840,United States of America,1234.0,Tomatoes,2008,15.0,Wholesale,National Stats Yearbook,Americas
+1597,1702,840,United States of America,1235.0,"Pumpkins, squash and gourds",2008,10.0,Wholesale,National Stats Yearbook,Americas
+1598,1703,840,United States of America,1235.0,"Pumpkins, squash and gourds",2008,10.0,Wholesale,National Stats Yearbook,Americas
+1599,1704,840,United States of America,1239.01,Okra,2008,12.0,Wholesale,National Stats Yearbook,Americas
+1600,1705,840,United States of America,1241.9,"Other beans, green",2008,6.0,Wholesale,National Stats Yearbook,Americas
+1601,1706,840,United States of America,1241.9,"Other beans, green",2008,8.0,Wholesale,National Stats Yearbook,Americas
+1602,1707,840,United States of America,1251.0,Carrots and turnips,2008,12.0,Wholesale,National Stats Yearbook,Americas
+1603,1708,840,United States of America,1251.0,Carrots and turnips,2008,3.0,Wholesale,National Stats Yearbook,Americas
+1604,1709,840,United States of America,1252.0,Green garlic,2008,19.0,Wholesale,National Stats Yearbook,Americas
+1605,1710,840,United States of America,1253.01,"Onions and shallots, green",2008,6.0,Wholesale,National Stats Yearbook,Americas
+1606,1711,840,United States of America,1270.0,Mushrooms and truffles,2008,6.0,Wholesale,National Stats Yearbook,Americas
+1607,1712,840,United States of America,1290.01,Green corn (maize),2008,8.0,Wholesale,National Stats Yearbook,Americas
+1608,1713,840,United States of America,1290.9,"Other vegetables, fresh n.e.c.",2008,7.0,Wholesale,National Stats Yearbook,Americas
+1609,1714,840,United States of America,1311.0,Avocados,2008,6.0,Wholesale,National Stats Yearbook,Americas
+1610,1715,840,United States of America,1316.0,"Mangoes, guavas and mangosteens",2008,5.0,Wholesale,National Stats Yearbook,Americas
+1611,1716,840,United States of America,1317.0,Papayas,2008,5.0,Wholesale,National Stats Yearbook,Americas
+1612,1717,840,United States of America,1318.0,Pineapples,2008,5.0,Wholesale,National Stats Yearbook,Americas
+1613,1718,840,United States of America,1321.0,Pomelos and grapefruits,2008,3.0,Wholesale,National Stats Yearbook,Americas
+1614,1719,840,United States of America,1321.0,Pomelos and grapefruits,2008,3.0,Wholesale,National Stats Yearbook,Americas
+1615,1720,840,United States of America,1322.0,Lemons and limes,2008,5.0,Wholesale,National Stats Yearbook,Americas
+1616,1721,840,United States of America,1322.0,Lemons and limes,2008,4.0,Wholesale,National Stats Yearbook,Americas
+1617,1722,840,United States of America,1324.0,"Tangerines, mandarins, clementines",2008,5.0,Wholesale,National Stats Yearbook,Americas
+1618,1723,840,United States of America,1330.0,Grapes,2008,9.0,Wholesale,National Stats Yearbook,Americas
+1619,1724,840,United States of America,1341.0,Apples,2008,4.0,Wholesale,National Stats Yearbook,Americas
+1620,1725,840,United States of America,1342.01,Pears,2008,5.0,Wholesale,National Stats Yearbook,Americas
+1621,1726,840,United States of America,1343.0,Apricots,2008,9.0,Wholesale,National Stats Yearbook,Americas
+1622,1727,840,United States of America,1345.0,Peaches and nectarines,2008,5.0,Wholesale,National Stats Yearbook,Americas
+1623,1728,840,United States of America,1346.0,Plums and sloes,2008,5.0,Wholesale,National Stats Yearbook,Americas
+1624,1729,840,United States of America,1352.0,Kiwi fruit,2008,9.0,Wholesale,National Stats Yearbook,Americas
+1625,1730,840,United States of America,1353.01,Raspberries,2008,8.0,Wholesale,National Stats Yearbook,Americas
+1626,1731,840,United States of America,1354.0,Strawberries,2008,8.0,Wholesale,National Stats Yearbook,Americas
+1627,1732,840,United States of America,1355.01,Blueberries,2008,8.0,Wholesale,National Stats Yearbook,Americas
+1628,1733,840,United States of America,1355.02,Cranberries,2008,4.0,Wholesale,National Stats Yearbook,Americas
+1629,1734,840,United States of America,21397.01,Canned mushrooms,2008,35.0,Wholesale,National Stats Yearbook,Americas
+1630,1735,840,United States of America,21431.01,Orange juice,2008,39.0,Wholesale,National Stats Yearbook,Americas
+1631,1736,840,United States of America,21432.0,Grapefruit juice,2008,38.3,Wholesale,National Stats Yearbook,Americas
+1632,1737,840,United States of America,21433.0,Pineapple juice,2008,41.3,Wholesale,National Stats Yearbook,Americas
+1633,1738,840,United States of America,21434.0,Grape juice,2008,19.1,Wholesale,National Stats Yearbook,Americas
+1634,1739,840,United States of America,21435.01,Apple juice,2008,26.7,Wholesale,National Stats Yearbook,Americas
+1635,1740,840,United States of America,1359.9,"Other fruits, n.e.c.",2008,19.0,Households,Modelled Estimates,Americas
+1636,1741,840,United States of America,1359.9,"Other fruits, n.e.c.",2008,11.0,Retail,Modelled Estimates,Americas
+1637,1742,840,United States of America,1211.0,Asparagus,2008,28.0,Households,Modelled Estimates,Americas
+1638,1743,840,United States of America,1211.0,Asparagus,2008,15.0,Households,Modelled Estimates,Americas
+1639,1744,840,United States of America,1211.0,Asparagus,2008,34.0,Households,Modelled Estimates,Americas
+1640,1745,840,United States of America,1212.0,Cabbages,2008,31.0,Households,Modelled Estimates,Americas
+1641,1746,840,United States of America,1212.0,Cabbages,2008,15.0,Households,Modelled Estimates,Americas
+1642,1747,840,United States of America,1212.0,Cabbages,2008,31.0,Households,Modelled Estimates,Americas
+1643,1748,840,United States of America,1213.0,Cauliflowers and broccoli,2008,22.0,Households,Modelled Estimates,Americas
+1644,1749,840,United States of America,1213.0,Cauliflowers and broccoli,2008,30.0,Households,Modelled Estimates,Americas
+1645,1750,840,United States of America,1213.0,Cauliflowers and broccoli,2008,31.0,Households,Modelled Estimates,Americas
+1646,1751,840,United States of America,1213.0,Cauliflowers and broccoli,2008,21.0,Households,Modelled Estimates,Americas
+1647,1752,840,United States of America,1214.0,Lettuce and chicory,2008,27.0,Households,Modelled Estimates,Americas
+1648,1753,840,United States of America,1214.0,Lettuce and chicory,2008,31.0,Households,Modelled Estimates,Americas
+1649,1754,840,United States of America,1215.0,Spinach,2008,32.0,Households,Modelled Estimates,Americas
+1650,1755,840,United States of America,1215.0,Spinach,2008,28.0,Households,Modelled Estimates,Americas
+1651,1756,840,United States of America,1216.0,Artichokes,2008,35.0,Households,Modelled Estimates,Americas
+1652,1757,840,United States of America,1221.0,Watermelons,2008,33.0,Households,Modelled Estimates,Americas
+1653,1758,840,United States of America,1229.0,Cantaloupes and other melons,2008,30.0,Households,Modelled Estimates,Americas
+1654,1759,840,United States of America,1232.0,Cucumbers and gherkins,2008,15.0,Households,Modelled Estimates,Americas
+1655,1760,840,United States of America,1232.0,Cucumbers and gherkins,2008,15.0,Households,Modelled Estimates,Americas
+1656,1761,840,United States of America,1232.0,Cucumbers and gherkins,2008,25.0,Households,Modelled Estimates,Americas
+1657,1762,840,United States of America,1233.0,Eggplants (aubergines),2008,43.0,Households,Modelled Estimates,Americas
+1658,1763,840,United States of America,1234.0,Tomatoes,2008,31.0,Households,Modelled Estimates,Americas
+1659,1764,840,United States of America,1235.0,"Pumpkins, squash and gourds",2008,29.0,Households,Modelled Estimates,Americas
+1660,1765,840,United States of America,1235.0,"Pumpkins, squash and gourds",2008,30.0,Households,Modelled Estimates,Americas
+1661,1766,840,United States of America,1239.01,Okra,2008,40.0,Households,Modelled Estimates,Americas
+1662,1767,840,United States of America,1242.0,"Peas, green",2008,22.0,Households,Modelled Estimates,Americas
+1663,1768,840,United States of America,1242.0,"Peas, green",2008,15.0,Households,Modelled Estimates,Americas
+1664,1769,840,United States of America,1242.0,"Peas, green",2008,15.0,Households,Modelled Estimates,Americas
+1665,1770,840,United States of America,1251.0,Carrots and turnips,2008,24.0,Households,Modelled Estimates,Americas
+1666,1771,840,United States of America,1251.0,Carrots and turnips,2008,15.0,Households,Modelled Estimates,Americas
+1667,1772,840,United States of America,1251.0,Carrots and turnips,2008,17.0,Households,Modelled Estimates,Americas
+1668,1773,840,United States of America,1251.0,Carrots and turnips,2008,53.0,Households,Modelled Estimates,Americas
+1669,1774,840,United States of America,1252.0,Green garlic,2008,26.0,Households,Modelled Estimates,Americas
+1670,1775,840,United States of America,1270.0,Mushrooms and truffles,2008,30.0,Households,Modelled Estimates,Americas
+1671,1776,840,United States of America,1311.0,Avocados,2008,27.0,Households,Modelled Estimates,Americas
+1672,1777,840,United States of America,1312.0,Bananas,2008,26.0,Households,Modelled Estimates,Americas
+1673,1778,840,United States of America,1314.0,Dates,2008,15.0,Households,Modelled Estimates,Americas
+1674,1779,840,United States of America,1315.0,Figs,2008,15.0,Households,Modelled Estimates,Americas
+1675,1780,840,United States of America,1317.0,Papayas,2008,64.0,Households,Modelled Estimates,Americas
+1676,1781,840,United States of America,1318.0,Pineapples,2008,15.0,Households,Modelled Estimates,Americas
+1677,1782,840,United States of America,1318.0,Pineapples,2008,32.0,Households,Modelled Estimates,Americas
+1678,1783,840,United States of America,1321.0,Pomelos and grapefruits,2008,30.0,Households,Modelled Estimates,Americas
+1679,1784,840,United States of America,1322.0,Lemons and limes,2008,26.0,Households,Modelled Estimates,Americas
+1680,1785,840,United States of America,1323.0,Oranges,2008,29.0,Households,Modelled Estimates,Americas
+1681,1786,840,United States of America,1330.0,Grapes,2008,26.0,Households,Modelled Estimates,Americas
+1682,1787,840,United States of America,1341.0,Apples,2008,15.0,Households,Modelled Estimates,Americas
+1683,1788,840,United States of America,1341.0,Apples,2008,15.0,Households,Modelled Estimates,Americas
+1684,1789,840,United States of America,1341.0,Apples,2008,15.0,Households,Modelled Estimates,Americas
+1685,1790,840,United States of America,1341.0,Apples,2008,27.0,Households,Modelled Estimates,Americas
+1686,1791,840,United States of America,1342.01,Pears,2008,15.0,Households,Modelled Estimates,Americas
+1687,1792,840,United States of America,1342.01,Pears,2008,34.0,Households,Modelled Estimates,Americas
+1688,1793,840,United States of America,1343.0,Apricots,2008,15.0,Households,Modelled Estimates,Americas
+1689,1794,840,United States of America,1343.0,Apricots,2008,15.0,Households,Modelled Estimates,Americas
+1690,1795,840,United States of America,1343.0,Apricots,2008,48.0,Households,Modelled Estimates,Americas
+1691,1796,840,United States of America,1343.0,Apricots,2008,15.0,Households,Modelled Estimates,Americas
+1692,1797,840,United States of America,1344.02,Cherries,2008,15.0,Households,Modelled Estimates,Americas
+1693,1798,840,United States of America,1344.02,Cherries,2008,15.0,Households,Modelled Estimates,Americas
+1694,1799,840,United States of America,1344.02,Cherries,2008,15.0,Households,Modelled Estimates,Americas
+1695,1800,840,United States of America,1344.02,Cherries,2008,23.0,Households,Modelled Estimates,Americas
+1696,1801,840,United States of America,1345.0,Peaches and nectarines,2008,15.0,Households,Modelled Estimates,Americas
+1697,1802,840,United States of America,1345.0,Peaches and nectarines,2008,15.0,Households,Modelled Estimates,Americas
+1698,1803,840,United States of America,1345.0,Peaches and nectarines,2008,15.0,Households,Modelled Estimates,Americas
+1699,1804,840,United States of America,1345.0,Peaches and nectarines,2008,43.0,Households,Modelled Estimates,Americas
+1700,1805,840,United States of America,1346.0,Plums and sloes,2008,15.0,Households,Modelled Estimates,Americas
+1701,1806,840,United States of America,1346.0,Plums and sloes,2008,34.0,Households,Modelled Estimates,Americas
+1702,1807,840,United States of America,1346.0,Plums and sloes,2008,15.0,Households,Modelled Estimates,Americas
+1703,1808,840,United States of America,1346.0,Plums and sloes,2008,15.0,Households,Modelled Estimates,Americas
+1704,1809,840,United States of America,1352.0,Kiwi fruit,2008,30.0,Households,Modelled Estimates,Americas
+1705,1810,840,United States of America,1353.01,Raspberries,2008,28.0,Households,Modelled Estimates,Americas
+1706,1811,840,United States of America,1353.01,Raspberries,2008,15.0,Households,Modelled Estimates,Americas
+1707,1812,840,United States of America,1354.0,Strawberries,2008,15.0,Households,Modelled Estimates,Americas
+1708,1813,840,United States of America,1354.0,Strawberries,2008,28.0,Households,Modelled Estimates,Americas
+1709,1814,840,United States of America,1355.01,Blueberries,2008,24.0,Households,Modelled Estimates,Americas
+1710,1815,840,United States of America,1355.01,Blueberries,2008,15.0,Households,Modelled Estimates,Americas
+1711,1816,840,United States of America,1355.02,Cranberries,2008,25.0,Households,Modelled Estimates,Americas
+1712,1817,840,United States of America,1359.9,"Other fruits, n.e.c.",2008,12.0,Retail,Modelled Estimates,Americas
+1713,1818,840,United States of America,1359.9,"Other fruits, n.e.c.",2008,9.0,Households,Modelled Estimates,Americas
+1714,1819,840,United States of America,1359.9,"Other fruits, n.e.c.",2008,9.0,Retail,Modelled Estimates,Americas
+1715,1820,840,United States of America,1359.9,"Other fruits, n.e.c.",2008,6.0,Retail,Modelled Estimates,Americas
+1716,1821,840,United States of America,1359.9,"Other fruits, n.e.c.",2008,38.0,Households,Modelled Estimates,Americas
+1717,1822,840,United States of America,1359.9,"Other fruits, n.e.c.",2008,15.0,Households,Modelled Estimates,Americas
+1718,1823,840,United States of America,1359.9,"Other fruits, n.e.c.",2008,18.0,Households,Modelled Estimates,Americas
+1719,1824,840,United States of America,21319.01,"Sweet corn, frozen",2008,15.0,Households,Modelled Estimates,Americas
+1720,1825,840,United States of America,21397.01,Canned mushrooms,2008,15.0,Households,Modelled Estimates,Americas
+1721,1826,840,United States of America,21399.03,"Sweet corn, prepared or preserved",2008,19.0,Households,Modelled Estimates,Americas
+1722,1827,840,United States of America,21399.03,"Sweet corn, prepared or preserved",2008,32.0,Households,Modelled Estimates,Americas
+1723,1828,840,United States of America,21411.0,Raisins,2008,15.0,Households,Modelled Estimates,Americas
+1724,1829,840,United States of America,21431.01,Orange juice,2008,15.0,Households,Modelled Estimates,Americas
+1725,1830,840,United States of America,21432.0,Grapefruit juice,2008,15.0,Households,Modelled Estimates,Americas
+1726,1831,840,United States of America,21433.0,Pineapple juice,2008,15.0,Households,Modelled Estimates,Americas
+1727,1832,840,United States of America,21434.0,Grape juice,2008,15.0,Households,Modelled Estimates,Americas
+1728,1833,840,United States of America,21439.02,Juice of lemon,2008,15.0,Households,Modelled Estimates,Americas
+1729,1834,840,United States of America,21439.04,Juice of citrus fruit n.e.c.,2008,15.0,Households,Modelled Estimates,Americas
+1730,1835,840,United States of America,1211.0,Asparagus,2007,9.0,Wholesale,National Stats Yearbook,Americas
+1731,1836,840,United States of America,1212.0,Cabbages,2007,12.0,Wholesale,National Stats Yearbook,Americas
+1732,1837,840,United States of America,1212.0,Cabbages,2007,12.0,Wholesale,National Stats Yearbook,Americas
+1733,1838,840,United States of America,1212.0,Cabbages,2007,8.0,Wholesale,National Stats Yearbook,Americas
+1734,1839,840,United States of America,1212.0,Cabbages,2007,12.0,Wholesale,National Stats Yearbook,Americas
+1735,1840,840,United States of America,1212.0,Cabbages,2007,7.0,Wholesale,National Stats Yearbook,Americas
+1736,1841,840,United States of America,1213.0,Cauliflowers and broccoli,2007,8.0,Wholesale,National Stats Yearbook,Americas
+1737,1842,840,United States of America,1213.0,Cauliflowers and broccoli,2007,8.0,Wholesale,National Stats Yearbook,Americas
+1738,1843,840,United States of America,1214.0,Lettuce and chicory,2007,10.0,Wholesale,National Stats Yearbook,Americas
+1739,1844,840,United States of America,1214.0,Lettuce and chicory,2007,7.0,Wholesale,National Stats Yearbook,Americas
+1740,1845,840,United States of America,1214.0,Lettuce and chicory,2007,7.0,Wholesale,National Stats Yearbook,Americas
+1741,1846,840,United States of America,1215.0,Spinach,2007,12.0,Wholesale,National Stats Yearbook,Americas
+1742,1847,840,United States of America,1216.0,Artichokes,2007,7.0,Wholesale,National Stats Yearbook,Americas
+1743,1848,840,United States of America,1221.0,Watermelons,2007,10.0,Wholesale,National Stats Yearbook,Americas
+1744,1849,840,United States of America,1229.0,Cantaloupes and other melons,2007,8.0,Wholesale,National Stats Yearbook,Americas
+1745,1850,840,United States of America,1229.0,Cantaloupes and other melons,2007,8.0,Wholesale,National Stats Yearbook,Americas
+1746,1851,840,United States of America,1231.0,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2007,8.0,Wholesale,National Stats Yearbook,Americas
+1747,1852,840,United States of America,1232.0,Cucumbers and gherkins,2007,8.0,Wholesale,National Stats Yearbook,Americas
+1748,1853,840,United States of America,1233.0,Eggplants (aubergines),2007,10.0,Wholesale,National Stats Yearbook,Americas
+1749,1854,840,United States of America,1234.0,Tomatoes,2007,15.0,Wholesale,National Stats Yearbook,Americas
+1750,1855,840,United States of America,1235.0,"Pumpkins, squash and gourds",2007,10.0,Wholesale,National Stats Yearbook,Americas
+1751,1856,840,United States of America,1235.0,"Pumpkins, squash and gourds",2007,10.0,Wholesale,National Stats Yearbook,Americas
+1752,1857,840,United States of America,1239.01,Okra,2007,12.0,Wholesale,National Stats Yearbook,Americas
+1753,1858,840,United States of America,1241.9,"Other beans, green",2007,8.0,Wholesale,National Stats Yearbook,Americas
+1754,1859,840,United States of America,1241.9,"Other beans, green",2007,6.0,Wholesale,National Stats Yearbook,Americas
+1755,1860,840,United States of America,1251.0,Carrots and turnips,2007,3.0,Wholesale,National Stats Yearbook,Americas
+1756,1861,840,United States of America,1251.0,Carrots and turnips,2007,12.0,Wholesale,National Stats Yearbook,Americas
+1757,1862,840,United States of America,1252.0,Green garlic,2007,19.0,Wholesale,National Stats Yearbook,Americas
+1758,1863,840,United States of America,1253.01,"Onions and shallots, green",2007,6.0,Wholesale,National Stats Yearbook,Americas
+1759,1864,840,United States of America,1270.0,Mushrooms and truffles,2007,6.0,Wholesale,National Stats Yearbook,Americas
+1760,1865,840,United States of America,1290.01,Green corn (maize),2007,8.0,Wholesale,National Stats Yearbook,Americas
+1761,1866,840,United States of America,1290.9,"Other vegetables, fresh n.e.c.",2007,7.0,Wholesale,National Stats Yearbook,Americas
+1762,1867,840,United States of America,1311.0,Avocados,2007,6.0,Wholesale,National Stats Yearbook,Americas
+1763,1868,840,United States of America,1316.0,"Mangoes, guavas and mangosteens",2007,5.0,Wholesale,National Stats Yearbook,Americas
+1764,1869,840,United States of America,1317.0,Papayas,2007,5.0,Wholesale,National Stats Yearbook,Americas
+1765,1870,840,United States of America,1318.0,Pineapples,2007,5.0,Wholesale,National Stats Yearbook,Americas
+1766,1871,840,United States of America,1321.0,Pomelos and grapefruits,2007,3.0,Wholesale,National Stats Yearbook,Americas
+1767,1872,840,United States of America,1321.0,Pomelos and grapefruits,2007,3.0,Wholesale,National Stats Yearbook,Americas
+1768,1873,840,United States of America,1322.0,Lemons and limes,2007,4.0,Wholesale,National Stats Yearbook,Americas
+1769,1874,840,United States of America,1322.0,Lemons and limes,2007,5.0,Wholesale,National Stats Yearbook,Americas
+1770,1875,840,United States of America,1324.0,"Tangerines, mandarins, clementines",2007,5.0,Wholesale,National Stats Yearbook,Americas
+1771,1876,840,United States of America,1330.0,Grapes,2007,9.0,Wholesale,National Stats Yearbook,Americas
+1772,1877,840,United States of America,1341.0,Apples,2007,4.0,Wholesale,National Stats Yearbook,Americas
+1773,1878,840,United States of America,1342.01,Pears,2007,5.0,Wholesale,National Stats Yearbook,Americas
+1774,1879,840,United States of America,1343.0,Apricots,2007,9.0,Wholesale,National Stats Yearbook,Americas
+1775,1880,840,United States of America,1345.0,Peaches and nectarines,2007,5.0,Wholesale,National Stats Yearbook,Americas
+1776,1881,840,United States of America,1346.0,Plums and sloes,2007,5.0,Wholesale,National Stats Yearbook,Americas
+1777,1882,840,United States of America,1352.0,Kiwi fruit,2007,9.0,Wholesale,National Stats Yearbook,Americas
+1778,1883,840,United States of America,1353.01,Raspberries,2007,8.0,Wholesale,National Stats Yearbook,Americas
+1779,1884,840,United States of America,1354.0,Strawberries,2007,8.0,Wholesale,National Stats Yearbook,Americas
+1780,1885,840,United States of America,1355.01,Blueberries,2007,8.0,Wholesale,National Stats Yearbook,Americas
+1781,1886,840,United States of America,1355.02,Cranberries,2007,4.0,Wholesale,National Stats Yearbook,Americas
+1782,1887,840,United States of America,21397.01,Canned mushrooms,2007,35.0,Wholesale,National Stats Yearbook,Americas
+1783,1888,840,United States of America,21431.01,Orange juice,2007,39.0,Wholesale,National Stats Yearbook,Americas
+1784,1889,840,United States of America,21432.0,Grapefruit juice,2007,42.4,Wholesale,National Stats Yearbook,Americas
+1785,1890,840,United States of America,21433.0,Pineapple juice,2007,41.3,Wholesale,National Stats Yearbook,Americas
+1786,1891,840,United States of America,21434.0,Grape juice,2007,19.1,Wholesale,National Stats Yearbook,Americas
+1787,1892,840,United States of America,21435.01,Apple juice,2007,26.7,Wholesale,National Stats Yearbook,Americas
+1788,1893,862,Venezuela (Bolivarian Republic of),1213.0,Cauliflowers and broccoli,2013,49.0,Post-harvest,Literature Review,Americas
+1789,1894,862,Venezuela (Bolivarian Republic of),1213.0,Cauliflowers and broccoli,2013,33.0,Post-harvest,Literature Review,Americas
+1790,1895,862,Venezuela (Bolivarian Republic of),1214.0,Lettuce and chicory,2013,35.0,Post-harvest,Literature Review,Americas
+1791,1896,862,Venezuela (Bolivarian Republic of),1290.9,"Other vegetables, fresh n.e.c.",2013,20.0,Farm,Literature Review,Americas
+1792,1897,862,Venezuela (Bolivarian Republic of),1290.9,"Other vegetables, fresh n.e.c.",2013,48.0,Post-harvest,Literature Review,Americas

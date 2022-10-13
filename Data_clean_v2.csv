@@ -1,0 +1,1899 @@
+country,commodity,year,loss_percentage,food_supply_stage
+Cambodia,Tomatoes,2013,3.5,Trader
+Cambodia,Tomatoes,2013,12.5,Farm
+Cambodia,Tomatoes,2013,3.5,Retail
+Cambodia,Tomatoes,2013,3.5,Wholesale
+Cambodia,Cauliflowers and broccoli,2008,16.4,Whole supply chain
+Cambodia,Cucumbers and gherkins,2008,19.7,Whole supply chain
+Cambodia,Tomatoes,2008,24.6,Whole supply chain
+Cambodia,"Other beans, green",2008,21.8,Whole supply chain
+Cameroon,Plantains and cooking bananas,2013,35.0,Whole supply chain
+Central Asia,"Other fruits, n.e.c.",2011,17.0,Farm
+Central Asia,"Other fruits, n.e.c.",2011,20.0,Processing
+Central Asia,"Other fruits, n.e.c.",2011,10.0,Farm
+Central Asia,"Other fruits, n.e.c.",2011,15.0,Wholesale
+Central Asia,"Other fruits, n.e.c.",2011,12.0,Households
+Western Asia,"Other fruits, n.e.c.",2011,12.0,Households
+Western Asia,"Other fruits, n.e.c.",2011,17.0,Farm
+Western Asia,"Other fruits, n.e.c.",2011,20.0,Processing
+Western Asia,"Other fruits, n.e.c.",2011,10.0,Farm
+Western Asia,"Other fruits, n.e.c.",2011,15.0,Wholesale
+Northern Africa,"Other fruits, n.e.c.",2011,10.0,Farm
+Northern Africa,"Other fruits, n.e.c.",2011,12.0,Households
+Northern Africa,"Other fruits, n.e.c.",2011,15.0,Wholesale
+Northern Africa,"Other fruits, n.e.c.",2011,20.0,Processing
+Northern Africa,"Other fruits, n.e.c.",2011,17.0,Farm
+Chile,Pears,2013,13.0,Farm
+China,"Other fruits, n.e.c.",2014,10.0,Wholesale
+China,"Other fruits, n.e.c.",2014,15.0,Storage
+China,"Other fruits, n.e.c.",2012,12.5,Storage
+China,"Other fruits, n.e.c.",2007,12.5,Storage
+Colombia,Papayas,2016,17.7,Harvest
+Colombia,Papayas,2016,3.0,Retail
+Colombia,Papayas,2016,3.1,Storage
+Costa Rica,Tomatoes,2015,2.0,Wholesale
+Costa Rica,Tomatoes,2015,10.0,Farm
+Costa Rica,Tomatoes,2015,7.5,Retail
+Cuba,Cabbages,2011,1.6,Processing
+Cuba,Cabbages,2011,0.5,Processing
+Cuba,Spinach,2011,1.0,Processing
+Cuba,Cantaloupes and other melons,2011,0.2,Processing
+Cuba,Cucumbers and gherkins,2011,1.0,Processing
+Cuba,Tomatoes,2011,0.9,Processing
+Cuba,Tomatoes,2011,7.7,Processing
+Cuba,Carrots and turnips,2011,5.6,Processing
+Cuba,"Other vegetables, fresh n.e.c.",2011,1.4,Processing
+Cuba,Avocados,2011,1.9,Processing
+Cuba,Bananas,2011,8.7,Processing
+Cuba,"Mangoes, guavas and mangosteens",2011,2.9,Processing
+Cuba,Papayas,2011,2.6,Processing
+Cuba,Pineapples,2011,3.2,Processing
+Sub-Saharan Africa,"Other fruits, n.e.c.",2011,25.0,Processing
+Sub-Saharan Africa,"Other fruits, n.e.c.",2011,17.0,Wholesale
+Sub-Saharan Africa,"Other fruits, n.e.c.",2011,5.0,Households
+Sub-Saharan Africa,"Other fruits, n.e.c.",2011,9.0,Farm
+Sub-Saharan Africa,"Other fruits, n.e.c.",2011,10.0,Farm
+Benin,Pineapples,2014,50.0,Export
+Benin,Tomatoes,2010,27.2,Retail
+Benin,Tomatoes,2010,26.0,Farm
+Benin,"Onions and shallots, green",2010,43.8,Wholesale
+Benin,"Onions and shallots, green",2010,28.0,Retail
+Benin,"Mangoes, guavas and mangosteens",2010,45.4,Wholesale
+Benin,"Mangoes, guavas and mangosteens",2010,49.5,Retail
+Benin,Pineapples,2010,13.9,Wholesale
+Benin,Pineapples,2010,22.0,Retail
+Benin,Oranges,2010,31.0,Retail
+Benin,Tomatoes,2010,53.0,Farm
+Benin,Tomatoes,2010,26.2,Wholesale
+Benin,Oranges,2010,26.3,Wholesale
+Benin,Oranges,2010,10.0,Farm
+Benin,Tomatoes,2009,16.4,Farm
+Benin,Oranges,2009,36.0,Retail
+Benin,Oranges,2009,19.3,Wholesale
+Benin,Tomatoes,2009,24.0,Farm
+Benin,Tomatoes,2009,29.0,Farm
+Benin,Tomatoes,2009,31.2,Wholesale
+Benin,Tomatoes,2009,27.5,Wholesale
+Benin,Tomatoes,2009,26.4,Retail
+Benin,Tomatoes,2009,28.0,Retail
+Benin,Tomatoes,2009,27.5,Retail
+Benin,Tomatoes,2009,21.2,Wholesale
+Benin,Tomatoes,2009,23.0,Farm
+Benin,"Mangoes, guavas and mangosteens",2009,43.5,Whole supply chain
+Benin,Oranges,2009,5.0,Farm
+Benin,Oranges,2009,11.6,Wholesale
+Benin,Oranges,2009,51.0,Retail
+Benin,Oranges,2009,10.0,Farm
+Benin,Oranges,2009,41.0,Wholesale
+Benin,Oranges,2009,15.0,Farm
+Benin,Oranges,2009,16.4,Wholesale
+Benin,Oranges,2009,10.9,Retail
+Benin,Oranges,2009,33.0,Retail
+Denmark,"Peas, green",2017,5.0,Harvest
+Denmark,"Peas, green",2017,14.0,Pre-harvest
+Denmark,"Peas, green",2017,5.0,Processing
+Denmark,"Peas, green",2017,17.0,Wholesale
+Denmark,"Peas, green",2017,18.0,Farm
+Denmark,Carrots and turnips,2017,25.0,Farm
+Denmark,Carrots and turnips,2017,10.0,Harvest
+Denmark,"Onions and shallots, green",2017,5.5,Harvest
+Denmark,"Onions and shallots, green",2017,43.0,Pre-harvest
+Denmark,"Onions and shallots, green",2017,8.5,Storage
+Denmark,"Onions and shallots, green",2017,9.0,Transport
+Denmark,"Onions and shallots, green",2017,21.0,Farm
+Denmark,"Onions and shallots, green",2017,5.0,Retail
+Denmark,"Onions and shallots, green",2013,21.0,Whole supply chain
+Denmark,"Onions and shallots, green",2012,21.0,Whole supply chain
+Denmark,"Onions and shallots, green",2011,21.0,Whole supply chain
+Ethiopia,Tomatoes,2015,17.0,Whole supply chain
+Ethiopia,Bananas,2015,24.6,Whole supply chain
+Ethiopia,Oranges,2015,20.0,Whole supply chain
+Ethiopia,Bananas,2012,7.1,Wholesale
+Ethiopia,Bananas,2012,14.9,Retail
+Ethiopia,Bananas,2012,4.5,Farm
+Fiji,Tomatoes,2012,13.4,Households
+Fiji,Tomatoes,2012,8.8,Farm
+Fiji,Tomatoes,2012,6.4,Wholesale
+Fiji,Tomatoes,2012,8.3,Households
+Fiji,Tomatoes,2012,0.1,Transport
+Fiji,Tomatoes,2012,6.2,Households
+Finland,"Peas, green",2017,17.6,Farm
+Finland,Carrots and turnips,2017,6.2,Harvest
+Finland,Carrots and turnips,2017,15.0,Farm
+Finland,"Onions and shallots, green",2017,11.0,Farm
+Finland,Strawberries,2014,14.0,Farm
+Finland,Lettuce and chicory,2013,17.0,Farm
+Finland,"Peas, green",2013,17.0,Harvest
+Finland,Carrots and turnips,2013,26.0,Farm
+Finland,"Onions and shallots, green",2013,11.0,Farm
+Finland,Lettuce and chicory,2012,17.0,Farm
+Finland,"Peas, green",2012,17.0,Harvest
+Finland,Carrots and turnips,2012,26.0,Farm
+Finland,"Onions and shallots, green",2012,11.0,Farm
+Finland,Lettuce and chicory,2011,17.0,Farm
+Finland,"Peas, green",2011,17.0,Harvest
+Finland,Carrots and turnips,2011,26.0,Farm
+Finland,"Onions and shallots, green",2011,11.0,Farm
+Finland,"Other fruits, n.e.c.",2010,13.0,Households
+Gabon,Plantains and cooking bananas,2013,35.0,Whole supply chain
+Ghana,Tomatoes,2014,28.6,Farm
+Ghana,Tomatoes,2014,32.1,Distribution
+Ghana,Tomatoes,2014,5.7,Harvest
+Ghana,Okra,2014,30.0,Farm
+Ghana,Okra,2014,16.6,Harvest
+Ghana,Okra,2014,4.7,Distribution
+Ghana,Oranges,2014,2.2,Farm
+Ghana,Oranges,2014,1.1,Harvest
+Ghana,Oranges,2014,2.8,Distribution
+Ghana,Okra,2013,25.0,Post-harvest
+Ghana,Tomatoes,2011,50.0,Farm
+Ghana,Tomatoes,2011,35.0,Farm
+Ghana,"Mangoes, guavas and mangosteens",2010,5.4,Wholesale
+Ghana,"Mangoes, guavas and mangosteens",2010,9.0,Retail
+Ghana,"Mangoes, guavas and mangosteens",2010,4.8,Farm
+Ghana,Cabbages,2010,19.3,Wholesale
+Ghana,Cabbages,2010,25.0,Retail
+Ghana,Cabbages,2010,38.0,Farm
+Ghana,Eggplants (aubergines),2010,12.4,Farm
+Ghana,Eggplants (aubergines),2010,10.5,Wholesale
+Ghana,Eggplants (aubergines),2010,8.1,Retail
+Ghana,Tomatoes,2010,16.8,Retail
+Ghana,Tomatoes,2010,17.8,Wholesale
+Ghana,Okra,2010,2.3,Wholesale
+Ghana,Okra,2010,10.7,Retail
+Ghana,"Onions and shallots, green",2010,11.8,Retail
+Ghana,"Onions and shallots, green",2010,3.3,Wholesale
+Ghana,Plantains and cooking bananas,2010,26.0,Wholesale
+Ghana,Plantains and cooking bananas,2010,21.0,Retail
+Ghana,"Mangoes, guavas and mangosteens",2010,4.2,Farm
+Ghana,"Mangoes, guavas and mangosteens",2010,5.4,Wholesale
+Ghana,"Mangoes, guavas and mangosteens",2010,4.5,Retail
+Ghana,Pineapples,2010,20.0,Farm
+Ghana,Pineapples,2010,20.7,Retail
+Ghana,Pineapples,2010,9.6,Farm
+Ghana,Pineapples,2010,27.2,Wholesale
+Ghana,Tomatoes,2010,25.0,Farm
+Ghana,Tomatoes,2010,21.5,Wholesale
+Ghana,Tomatoes,2010,23.0,Retail
+Ghana,Okra,2010,6.3,Retail
+Ghana,Okra,2010,16.6,Farm
+Ghana,Okra,2010,2.3,Wholesale
+Ghana,Tomatoes,2010,22.5,Retail
+Ghana,Tomatoes,2010,50.5,Farm
+Ghana,Tomatoes,2010,35.5,Wholesale
+Ghana,Okra,2010,6.3,Retail
+Ghana,Okra,2010,4.5,Wholesale
+Ghana,Okra,2010,17.0,Farm
+Ghana,Okra,2010,0.3,Farm
+Ghana,"Mangoes, guavas and mangosteens",2010,1.5,Farm
+Ghana,"Mangoes, guavas and mangosteens",2010,3.0,Harvest
+Ghana,"Mangoes, guavas and mangosteens",2010,10.0,Wholesale
+Ghana,"Mangoes, guavas and mangosteens",2010,2.5,Storage
+Ghana,"Mangoes, guavas and mangosteens",2010,3.5,Processing
+Ghana,"Mangoes, guavas and mangosteens",2010,5.0,Processing
+Ghana,"Mangoes, guavas and mangosteens",2010,6.0,Farm
+Ghana,Cabbages,2009,37.6,Farm
+Ghana,Cabbages,2009,28.9,Wholesale
+Ghana,Cabbages,2009,36.3,Retail
+Ghana,Tomatoes,2009,13.1,Farm
+Ghana,Cabbages,2009,8.0,Wholesale
+Ghana,Cabbages,2009,45.0,Retail
+Ghana,Cabbages,2009,13.0,Farm
+Ghana,Cabbages,2009,32.0,Wholesale
+Ghana,Cabbages,2009,5.0,Retail
+Ghana,Cabbages,2009,28.1,Retail
+Ghana,Cabbages,2009,54.0,Farm
+Ghana,Cabbages,2009,6.5,Wholesale
+Ghana,Eggplants (aubergines),2009,2.8,Farm
+Ghana,Eggplants (aubergines),2009,16.2,Retail
+Ghana,Eggplants (aubergines),2009,2.0,Wholesale
+Ghana,Eggplants (aubergines),2009,13.9,Farm
+Ghana,Eggplants (aubergines),2009,11.3,Wholesale
+Ghana,Eggplants (aubergines),2009,19.0,Wholesale
+Ghana,Eggplants (aubergines),2009,22.0,Farm
+Ghana,Eggplants (aubergines),2009,9.5,Retail
+Ghana,Tomatoes,2009,33.5,Farm
+Ghana,Tomatoes,2009,21.5,Wholesale
+Ghana,Tomatoes,2009,10.5,Retail
+Ghana,Tomatoes,2009,14.0,Wholesale
+Ghana,Tomatoes,2009,25.1,Farm
+Ghana,Tomatoes,2009,23.0,Retail
+Ghana,Tomatoes,2009,11.5,Retail
+Ghana,Tomatoes,2009,17.0,Farm
+Ghana,Tomatoes,2009,21.5,Wholesale
+Ghana,Okra,2009,8.5,Retail
+Ghana,Okra,2009,6.3,Retail
+Ghana,Okra,2009,28.0,Farm
+Ghana,Okra,2009,2.3,Wholesale
+Ghana,Okra,2009,15.0,Retail
+Ghana,Okra,2009,16.6,Farm
+Ghana,Okra,2009,4.5,Wholesale
+Ghana,Okra,2009,6.0,Farm
+Ghana,"Mangoes, guavas and mangosteens",2009,5.0,Wholesale
+Ghana,"Mangoes, guavas and mangosteens",2009,0.4,Wholesale
+Ghana,"Mangoes, guavas and mangosteens",2009,8.0,Retail
+Ghana,"Mangoes, guavas and mangosteens",2009,2.5,Farm
+Ghana,"Mangoes, guavas and mangosteens",2009,2.3,Farm
+Ghana,"Mangoes, guavas and mangosteens",2009,1.0,Retail
+Ghana,"Mangoes, guavas and mangosteens",2009,6.0,Farm
+Ghana,Tomatoes,2008,25.0,Whole supply chain
+Ghana,"Mangoes, guavas and mangosteens",2008,48.5,Whole supply chain
+Ghana,Pineapples,2008,28.5,Whole supply chain
+Ghana,Tomatoes,2008,2.1,Transport
+Ghana,Tomatoes,2008,3.6,Storage
+Ghana,Tomatoes,2008,2.3,Wholesale
+Ghana,Tomatoes,2008,2.2,Storage
+Ghana,Tomatoes,2008,4.2,Transport
+Ghana,Tomatoes,2008,3.4,Transport
+Ghana,Tomatoes,2008,20.0,Transport
+Ghana,Tomatoes,2008,1.7,Farm
+Ghana,Tomatoes,2008,4.1,Processing
+Ghana,Tomatoes,2008,3.9,Harvest
+Ghana,"Mangoes, guavas and mangosteens",2008,11.8,Transport
+Ghana,"Mangoes, guavas and mangosteens",2008,1.5,Farm
+Ghana,"Mangoes, guavas and mangosteens",2008,3.0,Harvest
+Ghana,"Mangoes, guavas and mangosteens",2008,0.3,Transport
+Ghana,"Mangoes, guavas and mangosteens",2008,0.5,Transport
+Ghana,"Mangoes, guavas and mangosteens",2008,3.5,Processing
+Ghana,"Mangoes, guavas and mangosteens",2008,0.8,Transport
+Ghana,"Mangoes, guavas and mangosteens",2008,19.1,Market
+Ghana,"Mangoes, guavas and mangosteens",2008,2.7,Storage
+Ghana,"Mangoes, guavas and mangosteens",2008,5.1,Processing
+Ghana,Oranges,2008,0.5,Wholesale
+Ghana,Oranges,2008,0.3,Transport
+Ghana,Oranges,2008,1.1,Harvest
+Ghana,Oranges,2008,1.0,Transport
+Ghana,Oranges,2008,2.1,Processing
+Guinea,Plantains and cooking bananas,2013,35.0,Whole supply chain
+Guyana,Tomatoes,2015,5.0,Retail
+Guyana,Tomatoes,2015,8.0,Processing
+Guyana,Tomatoes,2015,7.0,Harvest
+Guyana,"Mangoes, guavas and mangosteens",2015,15.0,Harvest
+Guyana,"Mangoes, guavas and mangosteens",2015,17.0,Processing
+Haiti,"Mangoes, guavas and mangosteens",2011,20.0,Processing
+Haiti,"Mangoes, guavas and mangosteens",2011,50.0,Export
+Haiti,"Mangoes, guavas and mangosteens",2010,50.0,Farm
+Haiti,"Mangoes, guavas and mangosteens",2010,50.0,Farm
+Southern Asia,"Other fruits, n.e.c.",2011,25.0,Processing
+Southern Asia,"Other fruits, n.e.c.",2011,9.0,Farm
+Southern Asia,"Other fruits, n.e.c.",2011,10.0,Wholesale
+Southern Asia,"Other fruits, n.e.c.",2011,7.0,Households
+Southern Asia,"Other fruits, n.e.c.",2011,15.0,Farm
+South-Eastern Asia,"Other fruits, n.e.c.",2011,15.0,Farm
+South-Eastern Asia,"Other fruits, n.e.c.",2011,25.0,Processing
+South-Eastern Asia,"Other fruits, n.e.c.",2011,10.0,Wholesale
+South-Eastern Asia,"Other fruits, n.e.c.",2011,7.0,Households
+South-Eastern Asia,"Other fruits, n.e.c.",2011,9.0,Farm
+India,Cabbages,2016,1.7,Harvest
+India,Cabbages,2016,12.8,Whole supply chain
+India,Cabbages,2016,6.8,Farm
+India,Cabbages,2016,2.6,Storage
+India,Cabbages,2016,9.4,Whole supply chain
+India,Cabbages,2016,4.4,Whole supply chain
+India,Cabbages,2016,4.4,Whole supply chain
+India,Cabbages,2016,12.8,Whole supply chain
+India,Cauliflowers and broccoli,2016,2.0,Storage
+India,Cauliflowers and broccoli,2016,2.2,Harvest
+India,Cauliflowers and broccoli,2016,2.0,Storage
+India,Cauliflowers and broccoli,2016,9.6,Whole supply chain
+India,Cauliflowers and broccoli,2016,7.6,Farm
+India,Cauliflowers and broccoli,2016,2.2,Harvest
+India,Tomatoes,2016,9.4,Farm
+India,Tomatoes,2016,12.4,Whole supply chain
+India,Tomatoes,2016,3.0,Storage
+India,Tomatoes,2016,3.2,Harvest
+India,"Peas, green",2016,5.7,Farm
+India,"Peas, green",2016,1.7,Storage
+India,"Peas, green",2016,2.3,Harvest
+India,"Peas, green",2016,7.5,Whole supply chain
+India,"Onions and shallots, green",2016,2.2,Storage
+India,"Onions and shallots, green",2016,8.2,Whole supply chain
+India,"Onions and shallots, green",2016,2.6,Harvest
+India,"Onions and shallots, green",2016,12.7,Whole supply chain
+India,"Onions and shallots, green",2016,6.1,Farm
+India,"Onions and shallots, green",2016,5.5,Whole supply chain
+India,Mushrooms and truffles,2016,2.2,Storage
+India,Mushrooms and truffles,2016,7.3,Farm
+India,Mushrooms and truffles,2016,9.5,Whole supply chain
+India,Mushrooms and truffles,2016,1.0,Harvest
+India,Bananas,2016,6.0,Farm
+India,Bananas,2016,4.4,Whole supply chain
+India,Bananas,2016,1.6,Harvest
+India,Bananas,2016,4.4,Whole supply chain
+India,Bananas,2016,10.6,Whole supply chain
+India,Bananas,2016,4.4,Whole supply chain
+India,Bananas,2016,1.7,Storage
+India,Bananas,2016,7.8,Whole supply chain
+India,"Mangoes, guavas and mangosteens",2016,10.0,Whole supply chain
+India,"Mangoes, guavas and mangosteens",2016,4.0,Storage
+India,"Mangoes, guavas and mangosteens",2016,11.9,Farm
+India,"Mangoes, guavas and mangosteens",2016,15.5,Whole supply chain
+India,"Mangoes, guavas and mangosteens",2016,6.9,Farm
+India,"Mangoes, guavas and mangosteens",2016,4.9,Whole supply chain
+India,"Mangoes, guavas and mangosteens",2016,5.3,Harvest
+India,"Mangoes, guavas and mangosteens",2016,10.0,Whole supply chain
+India,"Mangoes, guavas and mangosteens",2016,19.5,Whole supply chain
+India,"Mangoes, guavas and mangosteens",2016,9.2,Whole supply chain
+India,"Mangoes, guavas and mangosteens",2016,6.6,Whole supply chain
+India,"Mangoes, guavas and mangosteens",2016,15.9,Whole supply chain
+India,"Mangoes, guavas and mangosteens",2016,15.5,Whole supply chain
+India,"Mangoes, guavas and mangosteens",2016,2.1,Harvest
+India,Papayas,2016,2.6,Storage
+India,Papayas,2016,4.1,Farm
+India,Papayas,2016,12.3,Whole supply chain
+India,Papayas,2016,1.0,Harvest
+India,Papayas,2016,6.7,Whole supply chain
+India,Papayas,2016,3.2,Whole supply chain
+India,"Other tropical and subtropical fruits, n.e.c.",2016,2.5,Harvest
+India,"Other tropical and subtropical fruits, n.e.c.",2016,12.0,Whole supply chain
+India,"Other citrus fruit, n.e.c.",2016,9.7,Whole supply chain
+India,"Other citrus fruit, n.e.c.",2016,2.4,Storage
+India,"Other citrus fruit, n.e.c.",2016,6.1,Whole supply chain
+India,"Other citrus fruit, n.e.c.",2016,13.0,Whole supply chain
+India,"Other citrus fruit, n.e.c.",2016,7.6,Farm
+India,"Other citrus fruit, n.e.c.",2016,1.7,Harvest
+India,Grapes,2016,1.8,Harvest
+India,Grapes,2016,8.6,Whole supply chain
+India,Grapes,2016,6.5,Farm
+India,Grapes,2016,2.1,Storage
+India,Apples,2016,1.3,Storage
+India,Apples,2016,10.4,Whole supply chain
+India,Apples,2016,4.3,Harvest
+India,Apples,2016,9.1,Whole supply chain
+India,"Other fruits, n.e.c.",2016,7.4,Farm
+India,"Other fruits, n.e.c.",2016,2.3,Storage
+India,"Other fruits, n.e.c.",2016,9.7,Whole supply chain
+India,Cabbages,2014,0.2,Storage
+India,Cabbages,2014,9.4,Whole supply chain
+India,Cabbages,2014,0.0,Storage
+India,Cabbages,2014,1.7,Harvest
+India,Cabbages,2014,3.3,Farm
+India,Cabbages,2014,0.4,Farm
+India,Cabbages,2014,0.9,Storage
+India,Cabbages,2014,0.1,Storage
+India,Cabbages,2014,0.4,Farm
+India,Cabbages,2014,1.0,Transport
+India,Cabbages,2014,1.4,Storage
+India,Cauliflowers and broccoli,2014,0.9,Transport
+India,Cauliflowers and broccoli,2014,9.6,Whole supply chain
+India,Cauliflowers and broccoli,2014,0.3,Farm
+India,Cauliflowers and broccoli,2014,2.2,Harvest
+India,Cauliflowers and broccoli,2014,0.4,Farm
+India,Cauliflowers and broccoli,2014,0.1,Storage
+India,Cauliflowers and broccoli,2014,0.8,Storage
+India,Cauliflowers and broccoli,2014,1.0,Storage
+India,Cauliflowers and broccoli,2014,3.8,Farm
+India,Cauliflowers and broccoli,2014,0.1,Storage
+India,Tomatoes,2014,0.2,Farm
+India,Tomatoes,2014,1.6,Storage
+India,Tomatoes,2014,0.1,Storage
+India,Tomatoes,2014,3.2,Harvest
+India,Tomatoes,2014,0.5,Farm
+India,Tomatoes,2014,3.7,Farm
+India,Tomatoes,2014,1.8,Farm
+India,Tomatoes,2014,0.0,Storage
+India,Tomatoes,2014,12.4,Whole supply chain
+India,Tomatoes,2014,1.3,Storage
+India,"Peas, green",2014,0.6,Transport
+India,"Peas, green",2014,0.1,Farm
+India,"Peas, green",2014,0.3,Farm
+India,"Peas, green",2014,0.1,Storage
+India,"Peas, green",2014,1.1,Storage
+India,"Peas, green",2014,7.5,Whole supply chain
+India,"Peas, green",2014,0.6,Storage
+India,"Peas, green",2014,2.4,Farm
+India,"Peas, green",2014,0.0,Storage
+India,"Peas, green",2014,2.3,Harvest
+India,"Onions and shallots, green",2014,0.3,Storage
+India,"Onions and shallots, green",2014,0.4,Farm
+India,"Onions and shallots, green",2014,0.7,Storage
+India,"Onions and shallots, green",2014,2.4,Farm
+India,"Onions and shallots, green",2014,0.1,Farm
+India,"Onions and shallots, green",2014,2.6,Harvest
+India,"Onions and shallots, green",2014,0.5,Transport
+India,"Onions and shallots, green",2014,0.0,Storage
+India,"Onions and shallots, green",2014,8.2,Whole supply chain
+India,"Onions and shallots, green",2014,0.8,Storage
+India,"Onions and shallots, green",2014,0.4,Storage
+India,Mushrooms and truffles,2014,1.0,Harvest
+India,Mushrooms and truffles,2014,5.3,Farm
+India,Mushrooms and truffles,2014,9.5,Whole supply chain
+India,Mushrooms and truffles,2014,0.0,Farm
+India,Mushrooms and truffles,2014,0.8,Transport
+India,Mushrooms and truffles,2014,1.5,Storage
+India,Mushrooms and truffles,2014,0.2,Farm
+India,Mushrooms and truffles,2014,0.7,Storage
+India,Bananas,2014,0.3,Farm
+India,Bananas,2014,1.2,Storage
+India,Bananas,2014,7.8,Whole supply chain
+India,Bananas,2014,1.6,Harvest
+India,Bananas,2014,1.9,Transport
+India,Bananas,2014,0.2,Farm
+India,Bananas,2014,0.5,Storage
+India,Bananas,2014,2.1,Farm
+India,Bananas,2014,0.1,Storage
+India,Bananas,2014,0.0,Storage
+India,"Mangoes, guavas and mangosteens",2014,3.3,Farm
+India,"Mangoes, guavas and mangosteens",2014,2.1,Storage
+India,"Mangoes, guavas and mangosteens",2014,5.0,Farm
+India,"Mangoes, guavas and mangosteens",2014,0.0,Storage
+India,"Mangoes, guavas and mangosteens",2014,0.2,Farm
+India,"Mangoes, guavas and mangosteens",2014,0.3,Farm
+India,"Mangoes, guavas and mangosteens",2014,0.2,Storage
+India,"Mangoes, guavas and mangosteens",2014,1.6,Storage
+India,"Mangoes, guavas and mangosteens",2014,1.2,Transport
+India,"Mangoes, guavas and mangosteens",2014,0.0,Storage
+India,"Mangoes, guavas and mangosteens",2014,0.1,Farm
+India,"Mangoes, guavas and mangosteens",2014,0.1,Storage
+India,"Mangoes, guavas and mangosteens",2014,2.1,Harvest
+India,"Mangoes, guavas and mangosteens",2014,9.2,Whole supply chain
+India,"Mangoes, guavas and mangosteens",2014,1.0,Transport
+India,"Mangoes, guavas and mangosteens",2014,0.7,Storage
+India,"Mangoes, guavas and mangosteens",2014,1.2,Storage
+India,"Mangoes, guavas and mangosteens",2014,15.9,Whole supply chain
+India,"Mangoes, guavas and mangosteens",2014,0.3,Farm
+India,"Mangoes, guavas and mangosteens",2014,5.3,Harvest
+India,"Mangoes, guavas and mangosteens",2014,0.3,Storage
+India,Papayas,2014,0.3,Farm
+India,Papayas,2014,0.8,Storage
+India,Papayas,2014,0.0,Storage
+India,Papayas,2014,0.9,Transport
+India,Papayas,2014,0.4,Farm
+India,Papayas,2014,1.0,Harvest
+India,Papayas,2014,6.7,Whole supply chain
+India,Papayas,2014,1.5,Farm
+India,Papayas,2014,1.7,Storage
+India,Papayas,2014,0.1,Storage
+India,Papayas,2014,0.0,Storage
+India,"Other tropical and subtropical fruits, n.e.c.",2014,1.7,Farm
+India,"Other tropical and subtropical fruits, n.e.c.",2014,0.3,Farm
+India,"Other tropical and subtropical fruits, n.e.c.",2014,0.0,Storage
+India,"Other tropical and subtropical fruits, n.e.c.",2014,0.3,Storage
+India,"Other tropical and subtropical fruits, n.e.c.",2014,2.5,Harvest
+India,"Other tropical and subtropical fruits, n.e.c.",2014,0.0,Storage
+India,"Other tropical and subtropical fruits, n.e.c.",2014,0.9,Storage
+India,"Other tropical and subtropical fruits, n.e.c.",2014,0.4,Farm
+India,"Other tropical and subtropical fruits, n.e.c.",2014,1.1,Storage
+India,"Other tropical and subtropical fruits, n.e.c.",2014,9.7,Whole supply chain
+India,"Other tropical and subtropical fruits, n.e.c.",2014,2.6,Farm
+India,"Other citrus fruit, n.e.c.",2014,0.9,Storage
+India,"Other citrus fruit, n.e.c.",2014,1.7,Transport
+India,"Other citrus fruit, n.e.c.",2014,1.7,Harvest
+India,"Other citrus fruit, n.e.c.",2014,0.1,Storage
+India,"Other citrus fruit, n.e.c.",2014,0.3,Farm
+India,"Other citrus fruit, n.e.c.",2014,1.1,Storage
+India,"Other citrus fruit, n.e.c.",2014,0.0,Storage
+India,"Other citrus fruit, n.e.c.",2014,0.2,Farm
+India,"Other citrus fruit, n.e.c.",2014,3.7,Farm
+India,"Other citrus fruit, n.e.c.",2014,9.7,Whole supply chain
+India,"Other citrus fruit, n.e.c.",2014,0.0,Storage
+India,Grapes,2014,3.4,Farm
+India,Grapes,2014,0.1,Storage
+India,Grapes,2014,1.8,Harvest
+India,Grapes,2014,0.8,Storage
+India,Grapes,2014,1.0,Transport
+India,Grapes,2014,8.6,Whole supply chain
+India,Grapes,2014,0.0,Storage
+India,Grapes,2014,1.2,Storage
+India,Grapes,2014,0.1,Farm
+India,Grapes,2014,0.3,Farm
+India,Apples,2014,0.1,Farm
+India,Apples,2014,0.3,Storage
+India,Apples,2014,0.1,Storage
+India,Apples,2014,10.4,Whole supply chain
+India,Apples,2014,0.3,Storage
+India,Apples,2014,0.6,Storage
+India,Apples,2014,4.3,Harvest
+India,Apples,2014,3.9,Farm
+India,Apples,2014,0.0,Storage
+India,Apples,2014,0.4,Transport
+India,Apples,2014,0.3,Farm
+India,Cabbages,2013,9.4,Whole supply chain
+India,Cauliflowers and broccoli,2013,9.6,Whole supply chain
+India,Tomatoes,2013,12.4,Whole supply chain
+India,Bananas,2013,7.8,Whole supply chain
+India,Papayas,2013,6.7,Whole supply chain
+India,Apples,2013,10.4,Whole supply chain
+India,Cauliflowers and broccoli,2010,35.5,Harvest
+India,Cucumbers and gherkins,2010,15.0,Harvest
+India,Cucumbers and gherkins,2010,5.4,Wholesale
+India,Cucumbers and gherkins,2010,8.6,Farm
+India,Cucumbers and gherkins,2010,7.1,Retail
+India,Eggplants (aubergines),2010,10.8,Farm
+India,Eggplants (aubergines),2010,62.5,Harvest
+India,Eggplants (aubergines),2010,12.8,Wholesale
+India,Eggplants (aubergines),2010,7.1,Retail
+India,Tomatoes,2010,12.5,Retail
+India,Tomatoes,2010,11.9,Transport
+India,Tomatoes,2010,9.4,Storage
+India,Tomatoes,2010,17.5,Farm
+India,Tomatoes,2010,7.5,Farm
+India,Tomatoes,2010,4.2,Harvest
+India,Tomatoes,2010,11.1,Wholesale
+India,Tomatoes,2010,4.7,Farm
+India,Okra,2010,10.6,Farm
+India,Okra,2010,4.5,Farm
+India,Okra,2010,3.5,Retail
+India,Okra,2010,19.8,Harvest
+India,Okra,2010,4.0,Storage
+India,Okra,2010,8.3,Retail
+India,Okra,2010,4.3,Transport
+India,Okra,2010,5.0,Wholesale
+India,Okra,2010,3.5,Harvest
+India,"Onions and shallots, green",2010,27.5,Harvest
+India,Bananas,2010,28.5,Harvest
+India,"Mangoes, guavas and mangosteens",2010,24.8,Harvest
+India,"Mangoes, guavas and mangosteens",2010,27.5,Harvest
+India,"Mangoes, guavas and mangosteens",2010,5.8,Farm
+India,"Mangoes, guavas and mangosteens",2010,8.3,Retail
+India,"Mangoes, guavas and mangosteens",2010,7.0,Wholesale
+India,"Mangoes, guavas and mangosteens",2010,7.5,Transport
+India,"Other tropical and subtropical fruits, n.e.c.",2010,9.4,Retail
+India,"Other tropical and subtropical fruits, n.e.c.",2010,11.3,Farm
+India,"Other tropical and subtropical fruits, n.e.c.",2010,8.2,Wholesale
+India,"Other tropical and subtropical fruits, n.e.c.",2010,40.0,Harvest
+India,Okra,2009,13.0,Farm
+India,Tomatoes,2009,9.4,Storage
+India,Tomatoes,2009,11.9,Transport
+India,Tomatoes,2009,8.4,Storage
+India,Tomatoes,2009,1.8,Storage
+India,Tomatoes,2009,4.2,Harvest
+India,Okra,2009,3.5,Retail
+India,Okra,2009,4.0,Storage
+India,Okra,2009,3.5,Harvest
+India,Okra,2009,4.5,Farm
+India,Okra,2009,4.3,Transport
+India,"Mangoes, guavas and mangosteens",2009,4.5,Farm
+India,"Mangoes, guavas and mangosteens",2009,5.8,Storage
+India,"Mangoes, guavas and mangosteens",2009,4.0,Retail
+India,"Mangoes, guavas and mangosteens",2009,3.0,Harvest
+India,"Mangoes, guavas and mangosteens",2009,7.5,Transport
+India,Cabbages,2008,17.5,Farm
+India,Cauliflowers and broccoli,2008,17.5,Farm
+India,Tomatoes,2008,35.0,Post-harvest
+Australia,Tomatoes,2017,2.4,Retail
+Australia,Tomatoes,2017,10.8,Farm
+Australia,Tomatoes,2017,28.7,Farm
+Australia,Tomatoes,2017,47.0,Farm
+Australia,Tomatoes,2017,5.4,Retail
+Australia,Cabbages,2015,12.0,Households
+Australia,Cabbages,2015,27.0,Households
+Australia,Cauliflowers and broccoli,2015,37.0,Households
+Australia,Cauliflowers and broccoli,2015,31.0,Households
+Australia,Lettuce and chicory,2015,14.0,Households
+Australia,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2015,26.0,Households
+Australia,Carrots and turnips,2015,31.0,Households
+Australia,"Sweet corn, frozen",2015,27.0,Households
+Australia,Cabbages,2013,20.0,Processing
+Australia,Cabbages,2013,32.5,Market
+Australia,Cauliflowers and broccoli,2013,3.0,Processing
+Australia,Cauliflowers and broccoli,2013,10.0,Farm
+Australia,Cauliflowers and broccoli,2013,28.0,Market
+Australia,Cauliflowers and broccoli,2013,65.0,Processing
+Australia,Cauliflowers and broccoli,2013,11.0,Farm
+Australia,Cauliflowers and broccoli,2013,24.0,Whole supply chain
+Australia,Cauliflowers and broccoli,2013,3.0,Processing
+Australia,Lettuce and chicory,2013,6.0,Farm
+Australia,Lettuce and chicory,2013,4.0,Farm
+Australia,Lettuce and chicory,2013,16.0,Processing
+Australia,Lettuce and chicory,2013,17.0,Whole supply chain
+Australia,Lettuce and chicory,2013,50.0,Whole supply chain
+Australia,Lettuce and chicory,2013,15.0,Whole supply chain
+Australia,Lettuce and chicory,2013,9.0,Processing
+Australia,Lettuce and chicory,2013,10.0,Processing
+Australia,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2013,8.0,Farm
+Australia,Carrots and turnips,2013,1.0,Processing
+Australia,Carrots and turnips,2013,1.0,Farm
+Australia,Carrots and turnips,2013,5.0,Processing
+Australia,"Other vegetables, fresh n.e.c.",2013,15.0,Whole supply chain
+Australia,"Other vegetables, fresh n.e.c.",2013,10.0,Whole supply chain
+Australia,"Other vegetables, fresh n.e.c.",2013,1.0,Processing
+Australia,"Other vegetables, fresh n.e.c.",2013,10.0,Farm
+Australia,"Sweet corn, frozen",2013,20.0,Whole supply chain
+Australia,"Sweet corn, frozen",2013,38.5,Processing
+Indonesia,Strawberries,2010,30.0,Post-harvest
+Côte d'Ivoire,Plantains and cooking bananas,2013,35.0,Whole supply chain
+Kenya,"Mangoes, guavas and mangosteens",2015,13.0,Whole supply chain
+Kenya,"Mangoes, guavas and mangosteens",2013,1.5,Export
+Kenya,"Mangoes, guavas and mangosteens",2013,20.5,Processing
+Kenya,"Mangoes, guavas and mangosteens",2013,12.0,Processing
+Kenya,"Mangoes, guavas and mangosteens",2013,40.0,Farm
+Kenya,Bananas,2012,9.0,Retail
+Kenya,Bananas,2012,20.0,Processing
+Kenya,Bananas,2012,0.0,Wholesale
+Kenya,Bananas,2012,50.0,Farm
+Kenya,Bananas,2012,2.5,Trader
+Kenya,Bananas,2012,10.0,Transport
+Kenya,Bananas,2012,25.0,Farm
+Kenya,Bananas,2012,31.5,Farm
+Kenya,Bananas,2012,1.3,Retail
+Kenya,Bananas,2012,3.0,Wholesale
+Kenya,Bananas,2012,1.8,Retail
+Kenya,Tomatoes,2012,5.5,Farm
+Kenya,Bananas,2012,32.0,Transport
+Kenya,Bananas,2012,4.0,Processing
+Kenya,"Mangoes, guavas and mangosteens",2012,25.0,Whole supply chain
+Kenya,"Mangoes, guavas and mangosteens",2010,35.0,Farm
+Kenya,Bananas,2010,40.0,Post-harvest
+Kenya,"Mangoes, guavas and mangosteens",2010,25.0,Whole supply chain
+Lao People's Democratic Republic,Cucumbers and gherkins,2008,8.7,Whole supply chain
+Lao People's Democratic Republic,Tomatoes,2008,16.9,Whole supply chain
+Lao People's Democratic Republic,"Other beans, green",2008,12.2,Whole supply chain
+Latin America and the Caribbean,"Other fruits, n.e.c.",2011,10.0,Households
+Latin America and the Caribbean,"Other fruits, n.e.c.",2011,12.0,Wholesale
+Latin America and the Caribbean,"Other fruits, n.e.c.",2011,20.0,Farm
+Latin America and the Caribbean,"Other fruits, n.e.c.",2011,10.0,Farm
+Latin America and the Caribbean,"Other fruits, n.e.c.",2011,20.0,Processing
+Mexico,Tomatoes,2016,7.6,Wholesale
+Mexico,Tomatoes,2016,10.3,Harvest
+Mexico,Tomatoes,2016,13.9,
+Mexico,Cucumbers and gherkins,2015,45.5,Whole supply chain
+Mexico,Cantaloupes and other melons,2013,41.2,Whole supply chain
+Mexico,Eggplants (aubergines),2013,49.1,Whole supply chain
+Mexico,Tomatoes,2013,17.8,Whole supply chain
+Mexico,Tomatoes,2013,28.9,Whole supply chain
+Mexico,"Pumpkins, squash and gourds",2013,14.7,Whole supply chain
+Mexico,Carrots and turnips,2013,19.0,Whole supply chain
+Mexico,Green garlic,2013,21.4,Whole supply chain
+Mexico,"Onions and shallots, green",2013,32.1,Whole supply chain
+Mexico,Papayas,2013,22.8,Whole supply chain
+Mexico,Pineapples,2013,32.8,Whole supply chain
+Mexico,Lemons and limes,2013,33.4,Whole supply chain
+Mexico,Oranges,2013,23.2,Whole supply chain
+Mexico,Grapes,2013,45.5,Whole supply chain
+Mexico,Watermelons,2011,0.4,Whole supply chain
+Mexico,Avocados,2011,3.9,Whole supply chain
+Mexico,Bananas,2011,0.5,Whole supply chain
+Mexico,"Mangoes, guavas and mangosteens",2011,0.2,Whole supply chain
+Mexico,Papayas,2011,0.0,Whole supply chain
+Mexico,Pineapples,2011,9.9,Whole supply chain
+Mexico,Lemons and limes,2011,0.7,Whole supply chain
+Mexico,Oranges,2011,0.8,Whole supply chain
+Bangladesh,Tomatoes,2016,2.6,Wholesale
+Bangladesh,Tomatoes,2014,10.0,Trader
+Bangladesh,Tomatoes,2014,15.0,Transport
+Bangladesh,Tomatoes,2014,15.4,Farm
+Bangladesh,Tomatoes,2014,35.0,Farm
+Bangladesh,Tomatoes,2010,13.0,Wholesale
+Bangladesh,Tomatoes,2010,10.8,Wholesale
+Bangladesh,Tomatoes,2010,8.1,Retail
+Bangladesh,Tomatoes,2010,4.5,Trader
+Bangladesh,Tomatoes,2010,1.4,Processing
+Bangladesh,Tomatoes,2010,13.3,Farm
+Bangladesh,Cauliflowers and broccoli,2010,10.3,Wholesale
+Bangladesh,Cauliflowers and broccoli,2010,4.2,Farm
+Bangladesh,Cauliflowers and broccoli,2010,9.2,Trader
+Bangladesh,Cauliflowers and broccoli,2010,10.7,Retail
+Bangladesh,Cauliflowers and broccoli,2010,34.4,Whole supply chain
+Bangladesh,Cauliflowers and broccoli,2010,9.2,Trader
+Bangladesh,Cauliflowers and broccoli,2010,10.3,Wholesale
+Bangladesh,Cauliflowers and broccoli,2010,10.7,Retail
+Bangladesh,Cauliflowers and broccoli,2010,4.2,Farm
+Bangladesh,Cucumbers and gherkins,2010,4.7,Retail
+Bangladesh,Cucumbers and gherkins,2010,10.7,Wholesale
+Bangladesh,Cucumbers and gherkins,2010,4.5,Trader
+Bangladesh,Cucumbers and gherkins,2010,7.2,Farm
+Bangladesh,Cucumbers and gherkins,2010,27.1,Whole supply chain
+Bangladesh,Cucumbers and gherkins,2010,4.5,Trader
+Bangladesh,Cucumbers and gherkins,2010,10.7,Wholesale
+Bangladesh,Cucumbers and gherkins,2010,7.2,Farm
+Bangladesh,Eggplants (aubergines),2010,7.4,Trader
+Bangladesh,Eggplants (aubergines),2010,7.4,Trader
+Bangladesh,Eggplants (aubergines),2010,6.6,Retail
+Bangladesh,Eggplants (aubergines),2010,6.9,Farm
+Bangladesh,Eggplants (aubergines),2010,6.9,Farm
+Bangladesh,Eggplants (aubergines),2010,6.4,Retail
+Bangladesh,Eggplants (aubergines),2010,29.4,Whole supply chain
+Bangladesh,Eggplants (aubergines),2010,8.4,Wholesale
+Bangladesh,Eggplants (aubergines),2010,8.4,Wholesale
+Bangladesh,Tomatoes,2010,6.9,Farm
+Bangladesh,Tomatoes,2010,8.9,Retail
+Bangladesh,Tomatoes,2010,8.0,Wholesale
+Bangladesh,Tomatoes,2010,9.1,Trader
+Bangladesh,Tomatoes,2010,9.1,Trader
+Bangladesh,Tomatoes,2010,8.0,Wholesale
+Bangladesh,Tomatoes,2010,6.9,Farm
+Bangladesh,Tomatoes,2010,8.9,Retail
+Bangladesh,Tomatoes,2010,32.9,Whole supply chain
+Bangladesh,Okra,2010,8.3,Retail
+Bangladesh,Okra,2010,10.7,Retail
+Bangladesh,Okra,2010,4.2,Farm
+Bangladesh,Okra,2010,4.9,Wholesale
+Bangladesh,Okra,2010,10.3,Wholesale
+Bangladesh,Okra,2010,9.8,Trader
+Bangladesh,Okra,2010,9.8,Trader
+Bangladesh,Okra,2010,32.3,Whole supply chain
+Bangladesh,Okra,2010,4.9,Wholesale
+Bangladesh,Okra,2010,9.4,Farm
+Bangladesh,Okra,2010,9.4,Farm
+Bangladesh,Okra,2010,8.3,Retail
+Bangladesh,Okra,2010,9.2,Trader
+Bangladesh,Bananas,2010,8.6,Wholesale
+Bangladesh,Bananas,2010,3.2,Retail
+Bangladesh,Bananas,2010,7.7,Farm
+Bangladesh,Bananas,2010,3.2,Retail
+Bangladesh,Bananas,2010,5.1,Trader
+Bangladesh,Bananas,2010,3.2,Retail
+Bangladesh,Bananas,2010,7.7,Farm
+Bangladesh,Bananas,2010,5.1,Trader
+Bangladesh,Bananas,2010,8.6,Wholesale
+Bangladesh,Bananas,2010,4.7,Retail
+Bangladesh,Bananas,2010,24.6,Whole supply chain
+Bangladesh,Bananas,2010,8.6,Wholesale
+Bangladesh,Bananas,2010,7.7,Farm
+Bangladesh,Bananas,2010,5.1,Trader
+Bangladesh,"Mangoes, guavas and mangosteens",2010,4.1,Farm
+Bangladesh,"Mangoes, guavas and mangosteens",2010,27.4,Whole supply chain
+Bangladesh,"Mangoes, guavas and mangosteens",2010,8.0,Trader
+Bangladesh,"Mangoes, guavas and mangosteens",2010,9.3,Wholesale
+Bangladesh,"Mangoes, guavas and mangosteens",2010,8.4,Trader
+Bangladesh,"Mangoes, guavas and mangosteens",2010,7.0,Retail
+Bangladesh,"Mangoes, guavas and mangosteens",2010,4.0,Farm
+Bangladesh,"Mangoes, guavas and mangosteens",2010,7.0,Retail
+Bangladesh,"Mangoes, guavas and mangosteens",2010,8.0,Wholesale
+Bangladesh,"Mangoes, guavas and mangosteens",2010,8.0,Trader
+Bangladesh,"Mangoes, guavas and mangosteens",2010,8.0,Wholesale
+Bangladesh,"Mangoes, guavas and mangosteens",2010,6.7,Retail
+Bangladesh,"Mangoes, guavas and mangosteens",2010,4.0,Farm
+Bangladesh,Papayas,2010,12.2,Wholesale
+Bangladesh,Papayas,2010,12.2,Wholesale
+Bangladesh,Papayas,2010,6.1,Farm
+Bangladesh,Papayas,2010,7.9,Retail
+Bangladesh,Papayas,2010,7.9,Retail
+Bangladesh,Papayas,2010,6.1,Farm
+Bangladesh,Papayas,2010,13.7,Trader
+Bangladesh,Papayas,2010,39.9,Whole supply chain
+Bangladesh,Papayas,2010,13.7,Trader
+Bangladesh,Pineapples,2010,14.1,Wholesale
+Bangladesh,Pineapples,2010,10.4,Farm
+Bangladesh,Pineapples,2010,10.4,Farm
+Bangladesh,Pineapples,2010,11.6,Trader
+Bangladesh,Pineapples,2010,11.6,Trader
+Bangladesh,Pineapples,2010,7.0,Retail
+Bangladesh,Pineapples,2010,43.0,Whole supply chain
+Bangladesh,Pineapples,2010,14.1,Wholesale
+Bangladesh,Pineapples,2010,7.0,Retail
+Bangladesh,"Other tropical and subtropical fruits, n.e.c.",2010,5.1,Retail
+Bangladesh,"Other tropical and subtropical fruits, n.e.c.",2010,6.1,Wholesale
+Bangladesh,"Other tropical and subtropical fruits, n.e.c.",2010,8.5,Farm
+Bangladesh,"Other tropical and subtropical fruits, n.e.c.",2010,6.1,Wholesale
+Bangladesh,"Other tropical and subtropical fruits, n.e.c.",2010,5.1,Trader
+Bangladesh,"Other tropical and subtropical fruits, n.e.c.",2010,5.1,Trader
+Bangladesh,"Other tropical and subtropical fruits, n.e.c.",2010,6.1,Wholesale
+Bangladesh,"Other tropical and subtropical fruits, n.e.c.",2010,24.9,Whole supply chain
+Bangladesh,"Other tropical and subtropical fruits, n.e.c.",2010,8.5,Farm
+Bangladesh,"Other tropical and subtropical fruits, n.e.c.",2010,5.1,Retail
+Bangladesh,"Other tropical and subtropical fruits, n.e.c.",2010,5.1,Trader
+Bangladesh,"Other tropical and subtropical fruits, n.e.c.",2010,5.1,Retail
+Bangladesh,"Other tropical and subtropical fruits, n.e.c.",2010,8.5,Farm
+Bangladesh,Oranges,2010,8.7,Retail
+Bangladesh,Oranges,2010,5.2,Farm
+Bangladesh,Oranges,2010,5.2,Farm
+Bangladesh,Oranges,2010,23.6,Whole supply chain
+Bangladesh,Oranges,2010,4.0,Wholesale
+Bangladesh,Oranges,2010,8.7,Retail
+Bangladesh,Oranges,2010,5.7,Trader
+Bangladesh,Oranges,2010,5.7,Trader
+Bangladesh,Oranges,2010,4.0,Wholesale
+Bangladesh,Oranges,2010,5.2,Farm
+Bangladesh,Oranges,2010,8.7,Retail
+Bangladesh,Oranges,2010,4.0,Wholesale
+Bangladesh,Oranges,2010,5.7,Trader
+Bangladesh,Papayas,2008,39.9,Whole supply chain
+Bangladesh,Pineapples,2008,43.0,Whole supply chain
+Armenia,Tomatoes,2013,3.0,Farm
+Armenia,Tomatoes,2013,1.0,Households
+Armenia,Tomatoes,2013,2.0,Farm
+Armenia,Tomatoes,2013,3.0,Processing
+Armenia,Tomatoes,2013,2.0,Wholesale
+Armenia,Apples,2013,6.0,Processing
+Armenia,Apples,2013,2.0,Wholesale
+Armenia,Apples,2013,5.0,Farm
+Armenia,Apples,2013,4.0,Farm
+Armenia,Apples,2013,1.0,Households
+Armenia,Tomatoes,2009,26.0,Processing
+Armenia,Tomatoes,2009,11.0,Households
+Armenia,Tomatoes,2009,18.0,Wholesale
+Armenia,Tomatoes,2009,18.0,Storage
+Armenia,Tomatoes,2009,27.0,Farm
+Armenia,Apples,2009,4.0,Households
+Armenia,Apples,2009,47.0,Farm
+Armenia,Apples,2009,24.0,Processing
+Armenia,Apples,2009,17.0,Storage
+Armenia,Apples,2009,8.0,Wholesale
+Oman,Cucumbers and gherkins,2011,35.0,Harvest
+Nepal,Oranges,2013,5.0,Storage
+Nepal,"Tangerines, mandarins, clementines",2013,5.0,Storage
+Nepal,"Tangerines, mandarins, clementines",2011,1.5,Harvest
+Nepal,"Tangerines, mandarins, clementines",2011,1.0,Retail
+Nepal,"Tangerines, mandarins, clementines",2011,7.0,Harvest
+Nepal,"Tangerines, mandarins, clementines",2011,1.8,Wholesale
+Nepal,"Tangerines, mandarins, clementines",2011,0.6,Processing
+Nepal,"Tangerines, mandarins, clementines",2011,5.0,Wholesale
+Nepal,"Tangerines, mandarins, clementines",2011,2.5,Harvest
+Nepal,"Tangerines, mandarins, clementines",2011,4.5,Harvest
+Nepal,"Tangerines, mandarins, clementines",2011,5.5,Harvest
+Nepal,"Tangerines, mandarins, clementines",2011,2.5,Harvest
+Nepal,"Tangerines, mandarins, clementines",2011,25.0,Transport
+Nepal,"Tangerines, mandarins, clementines",2011,5.5,Harvest
+Nepal,"Tangerines, mandarins, clementines",2011,40.1,Storage
+Nigeria,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2010,12.0,Harvest
+Nigeria,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2010,15.0,Transport
+Nigeria,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2010,10.0,Transport
+Nigeria,Tomatoes,2010,28.0,Transport
+Nigeria,Tomatoes,2010,20.0,Farm
+Nigeria,Tomatoes,2010,20.0,Harvest
+Nigeria,Tomatoes,2010,28.0,Transport
+Nigeria,Plantains and cooking bananas,2010,26.0,Farm
+Norway,"Peas, green",2017,2.0,Harvest
+Norway,"Peas, green",2017,1.0,Pre-harvest
+Norway,"Peas, green",2017,5.5,Processing
+Norway,Carrots and turnips,2017,6.8,Farm
+Norway,Carrots and turnips,2017,17.7,Harvest
+Norway,Carrots and turnips,2017,1.6,Storage
+Norway,Carrots and turnips,2017,4.6,Harvest
+Norway,"Onions and shallots, green",2017,8.4,Farm
+Norway,"Onions and shallots, green",2017,7.5,Processing
+Norway,"Onions and shallots, green",2017,0.9,Harvest
+Norway,Carrots and turnips,2013,1.6,Farm
+Norway,Carrots and turnips,2013,18.0,Whole supply chain
+Norway,"Onions and shallots, green",2013,13.3,Storage
+Norway,"Onions and shallots, green",2013,8.0,Whole supply chain
+Norway,Carrots and turnips,2012,1.6,Farm
+Norway,Carrots and turnips,2012,18.0,Whole supply chain
+Norway,"Onions and shallots, green",2012,8.0,Whole supply chain
+Norway,"Onions and shallots, green",2012,13.3,Storage
+Norway,Carrots and turnips,2011,18.0,Whole supply chain
+Norway,Carrots and turnips,2011,1.6,Farm
+Norway,"Onions and shallots, green",2011,8.0,Whole supply chain
+Norway,"Onions and shallots, green",2011,13.3,Storage
+Pakistan,"Tangerines, mandarins, clementines",2015,11.2,Wholesale
+Pakistan,"Tangerines, mandarins, clementines",2015,32.4,Harvest
+Pakistan,"Tangerines, mandarins, clementines",2015,1.4,Retail
+Pakistan,Plums and sloes,2013,21.5,Retail
+Pakistan,"Mangoes, guavas and mangosteens",2012,35.0,Whole supply chain
+Pakistan,"Mangoes, guavas and mangosteens",2012,5.0,Farm
+Pakistan,"Mangoes, guavas and mangosteens",2012,5.0,Farm
+Pakistan,Grapes,2011,2.0,Farm
+Pakistan,Grapes,2011,6.5,Retail
+Pakistan,Grapes,2011,4.8,Harvest
+Pakistan,Grapes,2011,5.2,Transport
+Pakistan,"Mangoes, guavas and mangosteens",2010,1.8,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,4.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,4.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,3.3,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,3.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,5.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,3.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,4.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,3.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,4.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,5.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,2.7,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,1.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,3.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,4.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,4.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,3.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2010,2.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,5.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,4.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,1.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,4.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,3.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,2.7,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,3.3,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,3.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,2.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,4.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,4.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,5.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,3.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,3.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,1.8,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,4.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,3.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2009,4.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,4.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,1.8,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,4.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,1.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,4.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,3.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,3.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,3.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,5.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,2.7,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,2.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,3.3,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,4.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,3.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,3.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,4.5,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,4.0,Storage
+Pakistan,"Mangoes, guavas and mangosteens",2008,5.0,Storage
+Pakistan,Tomatoes,2007,20.0,
+Panama,Cabbages,2013,24.0,
+Panama,Lettuce and chicory,2013,24.0,
+Panama,Tomatoes,2013,24.0,
+Panama,"Onions and shallots, green",2013,24.0,
+Paraguay,Strawberries,2013,11.5,Storage
+Paraguay,Strawberries,2013,12.0,Storage
+Philippines,Papayas,2012,9.2,Wholesale
+Philippines,Lettuce and chicory,2011,11.5,Wholesale
+Philippines,Tomatoes,2011,10.8,Wholesale
+Philippines,Papayas,2011,15.3,Wholesale
+Philippines,Papayas,2011,13.0,Transport
+Philippines,Papayas,2011,8.9,Transport
+Philippines,Papayas,2011,2.5,Transport
+Philippines,Papayas,2011,15.7,Transport
+Guinea-Bissau,Plantains and cooking bananas,2013,35.0,Whole supply chain
+Rwanda,Tomatoes,2010,4.9,Farm
+Rwanda,Tomatoes,2010,10.6,Wholesale
+Rwanda,Tomatoes,2010,10.6,Retail
+Rwanda,Bananas,2010,7.4,Farm
+Rwanda,Bananas,2010,15.1,Retail
+Rwanda,Bananas,2010,15.1,Wholesale
+Rwanda,Pineapples,2010,11.5,Wholesale
+Rwanda,Pineapples,2010,5.9,Farm
+Rwanda,Pineapples,2010,11.5,Retail
+Rwanda,Bananas,2009,7.4,Retail
+Rwanda,Bananas,2009,34.1,Wholesale
+Rwanda,Bananas,2009,17.9,Farm
+Rwanda,Bananas,2009,27.3,Retail
+Rwanda,Pineapples,2009,2.9,Retail
+Rwanda,Tomatoes,2009,10.7,Wholesale
+Rwanda,Tomatoes,2009,2.0,Farm
+Rwanda,Tomatoes,2009,14.7,Retail
+Rwanda,Tomatoes,2009,11.0,Wholesale
+Rwanda,Tomatoes,2009,6.5,Retail
+Rwanda,Tomatoes,2009,6.0,Farm
+Rwanda,Tomatoes,2009,12.5,Retail
+Rwanda,Tomatoes,2009,7.0,Wholesale
+Rwanda,Tomatoes,2009,7.8,Farm
+Rwanda,Bananas,2009,9.5,Wholesale
+Rwanda,Bananas,2009,7.5,Farm
+Rwanda,Bananas,2009,14.8,Farm
+Rwanda,Bananas,2009,35.1,Wholesale
+Rwanda,Bananas,2009,30.1,Retail
+Rwanda,Bananas,2009,35.1,Wholesale
+Rwanda,Bananas,2009,19.0,Wholesale
+Rwanda,Bananas,2009,14.8,Farm
+Rwanda,Bananas,2009,25.0,Retail
+Rwanda,Bananas,2009,30.1,Retail
+Rwanda,Pineapples,2009,15.9,Retail
+Rwanda,Pineapples,2009,17.0,Wholesale
+Rwanda,Pineapples,2009,15.9,Retail
+Rwanda,Pineapples,2009,17.0,Wholesale
+Rwanda,Pineapples,2009,20.0,Wholesale
+Rwanda,Pineapples,2009,11.8,Farm
+Rwanda,Pineapples,2009,2.0,Retail
+Rwanda,Pineapples,2009,2.9,Wholesale
+Rwanda,Pineapples,2009,10.4,Farm
+Rwanda,Pineapples,2009,21.0,Retail
+Rwanda,Pineapples,2009,10.4,Farm
+Saint Kitts and Nevis,"Broad beans and horse beans, green",2016,30.0,Post-harvest
+Saint Lucia,Tomatoes,2015,5.0,Retail
+Saint Lucia,Tomatoes,2015,7.0,Harvest
+Saint Lucia,Tomatoes,2015,8.0,Processing
+Saint Lucia,"Mangoes, guavas and mangosteens",2015,13.0,Processing
+Saint Lucia,"Mangoes, guavas and mangosteens",2015,8.0,Harvest
+Saint Lucia,"Mangoes, guavas and mangosteens",2015,2.0,Retail
+Saint Lucia,Bananas,2013,30.0,
+Saint Lucia,Pineapples,2013,30.0,
+Viet Nam,Tomatoes,2008,19.1,Whole supply chain
+Sweden,"Peas, green",2017,21.4,Farm
+Sweden,"Peas, green",2017,8.2,Processing
+Sweden,"Peas, green",2017,3.3,Pre-harvest
+Sweden,"Peas, green",2017,1.0,Harvest
+Sweden,Carrots and turnips,2017,20.0,Harvest
+Sweden,Carrots and turnips,2017,12.0,Storage
+Sweden,Carrots and turnips,2017,33.5,Farm
+Sweden,Carrots and turnips,2017,16.5,Processing
+Sweden,Carrots and turnips,2017,0.2,Wholesale
+Sweden,"Onions and shallots, green",2017,2.4,Farm
+Sweden,"Onions and shallots, green",2017,18.0,Farm
+Sweden,"Onions and shallots, green",2017,17.0,Storage
+Sweden,"Onions and shallots, green",2017,33.0,Processing
+Sweden,"Peas, green",2013,17.0,Farm
+Sweden,"Peas, green",2013,4.0,Harvest
+Sweden,Carrots and turnips,2013,22.0,Whole supply chain
+Sweden,"Onions and shallots, green",2013,25.0,Whole supply chain
+Sweden,Strawberries,2013,17.5,Harvest
+Sweden,"Peas, green",2012,4.0,Harvest
+Sweden,"Peas, green",2012,17.0,Farm
+Sweden,Carrots and turnips,2012,22.0,Whole supply chain
+Sweden,"Onions and shallots, green",2012,25.0,Whole supply chain
+Sweden,Strawberries,2012,17.5,Harvest
+Sweden,"Peas, green",2011,17.0,Farm
+Sweden,"Peas, green",2011,4.0,Harvest
+Sweden,Carrots and turnips,2011,22.0,Whole supply chain
+Sweden,"Onions and shallots, green",2011,25.0,Whole supply chain
+Sweden,Strawberries,2011,17.5,Harvest
+Trinidad and Tobago,Tomatoes,2015,7.0,Harvest
+Trinidad and Tobago,Tomatoes,2015,8.0,Processing
+Trinidad and Tobago,Tomatoes,2015,12.0,Retail
+Trinidad and Tobago,"Mangoes, guavas and mangosteens",2015,5.0,Harvest
+Trinidad and Tobago,"Mangoes, guavas and mangosteens",2015,17.0,Processing
+Trinidad and Tobago,Tomatoes,2013,29.5,
+Trinidad and Tobago,"Pumpkins, squash and gourds",2013,55.0,Transport
+Turkey,"Other fruits, n.e.c.",2013,5.0,Households
+Turkey,"Other fruits, n.e.c.",2013,20.0,Farm
+Turkey,"Other fruits, n.e.c.",2013,10.0,Wholesale
+Turkey,"Other fruits, n.e.c.",2013,10.0,Processing
+Turkey,"Other fruits, n.e.c.",2013,8.0,Farm
+Uganda,Plantains and cooking bananas,2013,6.5,Farm
+Ukraine,Apples,2013,15.0,Wholesale
+Ukraine,Apples,2013,12.5,Wholesale
+Ukraine,Apples,2013,10.0,Farm
+Ukraine,Apples,2013,35.0,Post-harvest
+Ukraine,Apples,2013,3.0,Wholesale
+Ukraine,Apples,2013,7.5,Households
+Ukraine,Apples,2013,10.0,Farm
+Ukraine,Apples,2013,15.0,Farm
+Ukraine,Apples,2013,5.0,Processing
+Ukraine,Apples,2013,5.0,Processing
+Ukraine,Apples,2013,7.5,Farm
+Ukraine,Apples,2013,18.5,Processing
+Ukraine,Apples,2013,5.0,Households
+Ukraine,Apples,2013,5.0,Wholesale
+Ukraine,Apples,2013,7.5,Households
+Ukraine,Apples,2013,5.0,Processing
+Ukraine,Apples,2013,7.5,Households
+Ukraine,Apples,2013,35.0,Post-harvest
+Egypt,Tomatoes,2013,43.0,Post-harvest
+Egypt,Grapes,2013,28.0,Post-harvest
+United Kingdom of Great Britain and Northern Ireland,Cabbages,2016,25.0,Harvest
+United Kingdom of Great Britain and Northern Ireland,Cauliflowers and broccoli,2016,20.0,Harvest
+United Kingdom of Great Britain and Northern Ireland,Lettuce and chicory,2016,45.0,Harvest
+United Kingdom of Great Britain and Northern Ireland,Carrots and turnips,2016,40.0,Harvest
+United Kingdom of Great Britain and Northern Ireland,Raspberries,2016,5.0,Harvest
+United Kingdom of Great Britain and Northern Ireland,Strawberries,2016,1.0,Harvest
+United Kingdom of Great Britain and Northern Ireland,Strawberries,2016,5.0,Harvest
+United Kingdom of Great Britain and Northern Ireland,Strawberries,2016,10.0,Harvest
+United Kingdom of Great Britain and Northern Ireland,Blueberries,2016,5.0,Harvest
+United Kingdom of Great Britain and Northern Ireland,Cauliflowers and broccoli,2014,2.3,Retail
+United Kingdom of Great Britain and Northern Ireland,Cauliflowers and broccoli,2014,3.0,Grading
+United Kingdom of Great Britain and Northern Ireland,Lettuce and chicory,2014,1.0,Packing
+United Kingdom of Great Britain and Northern Ireland,Lettuce and chicory,2014,2.0,Retail
+United Kingdom of Great Britain and Northern Ireland,Lettuce and chicory,2014,1.3,Storage
+United Kingdom of Great Britain and Northern Ireland,Tomatoes,2014,2.8,Retail
+United Kingdom of Great Britain and Northern Ireland,Tomatoes,2014,7.0,Grading
+United Kingdom of Great Britain and Northern Ireland,Tomatoes,2014,4.0,Packing
+United Kingdom of Great Britain and Northern Ireland,"Onions and shallots, green",2014,0.8,Retail
+United Kingdom of Great Britain and Northern Ireland,"Onions and shallots, green",2014,2.5,Packing
+United Kingdom of Great Britain and Northern Ireland,"Onions and shallots, green",2014,6.5,Storage
+United Kingdom of Great Britain and Northern Ireland,"Onions and shallots, green",2014,14.5,Grading
+United Kingdom of Great Britain and Northern Ireland,Avocados,2014,3.8,Retail
+United Kingdom of Great Britain and Northern Ireland,Avocados,2014,3.0,Packing
+United Kingdom of Great Britain and Northern Ireland,Avocados,2014,30.0,Grading
+United Kingdom of Great Britain and Northern Ireland,Avocados,2014,5.0,Storage
+United Kingdom of Great Britain and Northern Ireland,Bananas,2014,3.0,Grading
+United Kingdom of Great Britain and Northern Ireland,Bananas,2014,2.0,Retail
+United Kingdom of Great Britain and Northern Ireland,Bananas,2014,1.5,Packing
+United Kingdom of Great Britain and Northern Ireland,Apples,2014,15.0,Grading
+United Kingdom of Great Britain and Northern Ireland,Apples,2014,2.5,Retail
+United Kingdom of Great Britain and Northern Ireland,Apples,2014,5.5,Packing
+United Kingdom of Great Britain and Northern Ireland,Apples,2014,3.5,Storage
+United Kingdom of Great Britain and Northern Ireland,Raspberries,2014,2.5,Retail
+United Kingdom of Great Britain and Northern Ireland,Raspberries,2014,1.0,Grading
+United Kingdom of Great Britain and Northern Ireland,Raspberries,2014,2.5,Packing
+United Kingdom of Great Britain and Northern Ireland,Strawberries,2014,3.0,Retail
+United Kingdom of Great Britain and Northern Ireland,Strawberries,2014,0.5,Storage
+United Kingdom of Great Britain and Northern Ireland,Strawberries,2014,1.0,Grading
+United Kingdom of Great Britain and Northern Ireland,Strawberries,2014,2.5,Packing
+United Kingdom of Great Britain and Northern Ireland,"Onions and shallots, green",2011,0.8,
+United Kingdom of Great Britain and Northern Ireland,"Onions and shallots, green",2011,0.8,
+United Kingdom of Great Britain and Northern Ireland,Avocados,2011,3.8,
+United Kingdom of Great Britain and Northern Ireland,Avocados,2011,3.8,
+United Kingdom of Great Britain and Northern Ireland,Cauliflowers and broccoli,2011,2.3,Retail
+United Kingdom of Great Britain and Northern Ireland,Cauliflowers and broccoli,2011,10.0,Farm
+United Kingdom of Great Britain and Northern Ireland,Cauliflowers and broccoli,2011,3.0,Farm
+United Kingdom of Great Britain and Northern Ireland,Lettuce and chicory,2011,1.3,Storage
+United Kingdom of Great Britain and Northern Ireland,Lettuce and chicory,2011,7.5,Farm
+United Kingdom of Great Britain and Northern Ireland,Lettuce and chicory,2011,2.0,Retail
+United Kingdom of Great Britain and Northern Ireland,Lettuce and chicory,2011,1.0,Packing
+United Kingdom of Great Britain and Northern Ireland,Tomatoes,2011,4.0,Packing
+United Kingdom of Great Britain and Northern Ireland,Tomatoes,2011,2.8,Retail
+United Kingdom of Great Britain and Northern Ireland,Tomatoes,2011,7.0,Grading
+United Kingdom of Great Britain and Northern Ireland,Tomatoes,2011,5.0,Farm
+United Kingdom of Great Britain and Northern Ireland,"Onions and shallots, green",2011,4.0,Farm
+United Kingdom of Great Britain and Northern Ireland,"Onions and shallots, green",2011,14.5,Farm
+United Kingdom of Great Britain and Northern Ireland,"Onions and shallots, green",2011,0.8,Retail
+United Kingdom of Great Britain and Northern Ireland,"Onions and shallots, green",2011,6.5,Storage
+United Kingdom of Great Britain and Northern Ireland,"Onions and shallots, green",2011,2.5,Packing
+United Kingdom of Great Britain and Northern Ireland,Avocados,2011,3.8,Retail
+United Kingdom of Great Britain and Northern Ireland,Avocados,2011,30.0,Farm
+United Kingdom of Great Britain and Northern Ireland,Avocados,2011,5.0,Storage
+United Kingdom of Great Britain and Northern Ireland,Avocados,2011,3.0,Packing
+United Kingdom of Great Britain and Northern Ireland,Bananas,2011,1.5,Packing
+United Kingdom of Great Britain and Northern Ireland,Bananas,2011,2.0,Retail
+United Kingdom of Great Britain and Northern Ireland,Bananas,2011,3.0,Farm
+United Kingdom of Great Britain and Northern Ireland,"Other citrus fruit, n.e.c.",2011,3.0,Farm
+United Kingdom of Great Britain and Northern Ireland,"Other citrus fruit, n.e.c.",2011,0.3,Packing
+United Kingdom of Great Britain and Northern Ireland,"Other citrus fruit, n.e.c.",2011,3.8,Retail
+United Kingdom of Great Britain and Northern Ireland,Apples,2011,15.0,Farm
+United Kingdom of Great Britain and Northern Ireland,Apples,2011,3.5,Storage
+United Kingdom of Great Britain and Northern Ireland,Apples,2011,5.5,Packing
+United Kingdom of Great Britain and Northern Ireland,Apples,2011,2.5,Retail
+United Kingdom of Great Britain and Northern Ireland,Raspberries,2011,2.0,Farm
+United Kingdom of Great Britain and Northern Ireland,Raspberries,2011,2.5,Retail
+United Kingdom of Great Britain and Northern Ireland,Strawberries,2011,2.5,Farm
+United Kingdom of Great Britain and Northern Ireland,Strawberries,2011,0.5,Storage
+United Kingdom of Great Britain and Northern Ireland,Strawberries,2011,3.0,Retail
+United Kingdom of Great Britain and Northern Ireland,Strawberries,2011,1.0,Grading
+United Kingdom of Great Britain and Northern Ireland,Apples,2011,39.0,Whole supply chain
+United Republic of Tanzania,"Mangoes, guavas and mangosteens",2015,15.1,Wholesale
+United Republic of Tanzania,"Mangoes, guavas and mangosteens",2015,2.6,Harvest
+United Republic of Tanzania,"Mangoes, guavas and mangosteens",2015,30.6,Wholesale
+United Republic of Tanzania,"Mangoes, guavas and mangosteens",2015,10.6,Transport
+United Republic of Tanzania,"Mangoes, guavas and mangosteens",2013,20.0,Trader
+United Republic of Tanzania,"Mangoes, guavas and mangosteens",2013,63.0,Trader
+United Republic of Tanzania,"Mangoes, guavas and mangosteens",2013,17.0,Trader
+United Republic of Tanzania,"Mangoes, guavas and mangosteens",2013,40.0,Farm
+United Republic of Tanzania,"Mangoes, guavas and mangosteens",2011,7.1,Wholesale
+United Republic of Tanzania,"Mangoes, guavas and mangosteens",2011,9.3,Wholesale
+United States of America,Asparagus,2017,9.0,Wholesale
+United States of America,Cabbages,2017,12.0,Wholesale
+United States of America,Cabbages,2017,12.0,Wholesale
+United States of America,Cabbages,2017,7.0,Wholesale
+United States of America,Cabbages,2017,8.0,Wholesale
+United States of America,Cabbages,2017,12.0,Wholesale
+United States of America,Cauliflowers and broccoli,2017,8.0,Wholesale
+United States of America,Cauliflowers and broccoli,2017,8.0,Wholesale
+United States of America,Lettuce and chicory,2017,7.0,Wholesale
+United States of America,Lettuce and chicory,2017,10.0,Wholesale
+United States of America,Lettuce and chicory,2017,7.0,Wholesale
+United States of America,Spinach,2017,12.0,Wholesale
+United States of America,Artichokes,2017,7.0,Wholesale
+United States of America,Watermelons,2017,10.0,Wholesale
+United States of America,Cantaloupes and other melons,2017,8.0,Wholesale
+United States of America,Cantaloupes and other melons,2017,8.0,Wholesale
+United States of America,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2017,8.0,Wholesale
+United States of America,Cucumbers and gherkins,2017,8.0,Wholesale
+United States of America,Eggplants (aubergines),2017,10.0,Wholesale
+United States of America,Tomatoes,2017,15.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2017,10.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2017,10.0,Wholesale
+United States of America,Okra,2017,12.0,Wholesale
+United States of America,"Other beans, green",2017,6.0,Wholesale
+United States of America,"Other beans, green",2017,8.0,Wholesale
+United States of America,Carrots and turnips,2017,12.0,Wholesale
+United States of America,Carrots and turnips,2017,3.0,Wholesale
+United States of America,Green garlic,2017,19.0,Wholesale
+United States of America,"Onions and shallots, green",2017,6.0,Wholesale
+United States of America,Mushrooms and truffles,2017,6.0,Wholesale
+United States of America,Green corn (maize),2017,8.0,Wholesale
+United States of America,"Other vegetables, fresh n.e.c.",2017,7.0,Wholesale
+United States of America,Avocados,2017,6.0,Wholesale
+United States of America,"Mangoes, guavas and mangosteens",2017,5.0,Wholesale
+United States of America,Papayas,2017,5.0,Wholesale
+United States of America,Pineapples,2017,5.0,Wholesale
+United States of America,Pomelos and grapefruits,2017,3.0,Wholesale
+United States of America,Pomelos and grapefruits,2017,3.0,Wholesale
+United States of America,Lemons and limes,2017,5.0,Wholesale
+United States of America,Lemons and limes,2017,4.0,Wholesale
+United States of America,"Tangerines, mandarins, clementines",2017,5.0,Wholesale
+United States of America,Grapes,2017,9.0,Wholesale
+United States of America,Apples,2017,4.0,Wholesale
+United States of America,Pears,2017,5.0,Wholesale
+United States of America,Apricots,2017,9.0,Wholesale
+United States of America,Peaches and nectarines,2017,5.0,Wholesale
+United States of America,Plums and sloes,2017,5.0,Wholesale
+United States of America,Kiwi fruit,2017,9.0,Wholesale
+United States of America,Raspberries,2017,8.0,Wholesale
+United States of America,Strawberries,2017,8.0,Wholesale
+United States of America,Blueberries,2017,8.0,Wholesale
+United States of America,Cranberries,2017,4.0,Wholesale
+United States of America,Canned mushrooms,2017,35.0,Wholesale
+United States of America,Orange juice,2017,47.8,Wholesale
+United States of America,Grapefruit juice,2017,47.6,Wholesale
+United States of America,Pineapple juice,2017,41.3,Wholesale
+United States of America,Grape juice,2017,19.1,Wholesale
+United States of America,Apple juice,2017,26.7,Wholesale
+United States of America,Asparagus,2016,9.0,Wholesale
+United States of America,Cabbages,2016,7.0,Wholesale
+United States of America,Cabbages,2016,12.0,Wholesale
+United States of America,Cabbages,2016,12.0,Wholesale
+United States of America,Cabbages,2016,8.0,Wholesale
+United States of America,Cabbages,2016,12.0,Wholesale
+United States of America,Cauliflowers and broccoli,2016,8.0,Wholesale
+United States of America,Cauliflowers and broccoli,2016,8.0,Wholesale
+United States of America,Lettuce and chicory,2016,7.0,Wholesale
+United States of America,Lettuce and chicory,2016,7.0,Wholesale
+United States of America,Lettuce and chicory,2016,10.0,Wholesale
+United States of America,Spinach,2016,12.0,Wholesale
+United States of America,Artichokes,2016,7.0,Wholesale
+United States of America,Watermelons,2016,10.0,Wholesale
+United States of America,Cantaloupes and other melons,2016,8.0,Wholesale
+United States of America,Cantaloupes and other melons,2016,8.0,Wholesale
+United States of America,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2016,8.0,Wholesale
+United States of America,Cucumbers and gherkins,2016,8.0,Wholesale
+United States of America,Eggplants (aubergines),2016,10.0,Wholesale
+United States of America,Tomatoes,2016,15.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2016,10.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2016,10.0,Wholesale
+United States of America,Okra,2016,12.0,Wholesale
+United States of America,"Other beans, green",2016,8.0,Wholesale
+United States of America,"Other beans, green",2016,6.0,Wholesale
+United States of America,Carrots and turnips,2016,3.0,Wholesale
+United States of America,Carrots and turnips,2016,12.0,Wholesale
+United States of America,Green garlic,2016,19.0,Wholesale
+United States of America,"Onions and shallots, green",2016,6.0,Wholesale
+United States of America,Mushrooms and truffles,2016,6.0,Wholesale
+United States of America,Green corn (maize),2016,8.0,Wholesale
+United States of America,"Other vegetables, fresh n.e.c.",2016,7.0,Wholesale
+United States of America,Avocados,2016,6.0,Wholesale
+United States of America,"Mangoes, guavas and mangosteens",2016,5.0,Wholesale
+United States of America,Papayas,2016,5.0,Wholesale
+United States of America,Pineapples,2016,5.0,Wholesale
+United States of America,Pomelos and grapefruits,2016,3.0,Wholesale
+United States of America,Pomelos and grapefruits,2016,3.0,Wholesale
+United States of America,Lemons and limes,2016,4.0,Wholesale
+United States of America,Lemons and limes,2016,5.0,Wholesale
+United States of America,"Tangerines, mandarins, clementines",2016,5.0,Wholesale
+United States of America,Grapes,2016,9.0,Wholesale
+United States of America,Apples,2016,4.0,Wholesale
+United States of America,Pears,2016,5.0,Wholesale
+United States of America,Apricots,2016,9.0,Wholesale
+United States of America,Peaches and nectarines,2016,5.0,Wholesale
+United States of America,Plums and sloes,2016,5.0,Wholesale
+United States of America,Kiwi fruit,2016,9.0,Wholesale
+United States of America,Raspberries,2016,8.0,Wholesale
+United States of America,Strawberries,2016,8.0,Wholesale
+United States of America,Blueberries,2016,8.0,Wholesale
+United States of America,Cranberries,2016,4.0,Wholesale
+United States of America,Canned mushrooms,2016,35.0,Wholesale
+United States of America,Orange juice,2016,46.4,Wholesale
+United States of America,Grapefruit juice,2016,46.6,Wholesale
+United States of America,Pineapple juice,2016,41.3,Wholesale
+United States of America,Grape juice,2016,19.1,Wholesale
+United States of America,Apple juice,2016,26.7,Wholesale
+United States of America,Asparagus,2015,9.0,Wholesale
+United States of America,Cabbages,2015,12.0,Wholesale
+United States of America,Cabbages,2015,7.0,Wholesale
+United States of America,Cabbages,2015,12.0,Wholesale
+United States of America,Cabbages,2015,8.0,Wholesale
+United States of America,Cabbages,2015,12.0,Wholesale
+United States of America,Cauliflowers and broccoli,2015,8.0,Wholesale
+United States of America,Cauliflowers and broccoli,2015,8.0,Wholesale
+United States of America,Lettuce and chicory,2015,7.0,Wholesale
+United States of America,Lettuce and chicory,2015,10.0,Wholesale
+United States of America,Lettuce and chicory,2015,7.0,Wholesale
+United States of America,Spinach,2015,12.0,Wholesale
+United States of America,Artichokes,2015,7.0,Wholesale
+United States of America,Watermelons,2015,10.0,Wholesale
+United States of America,Cantaloupes and other melons,2015,8.0,Wholesale
+United States of America,Cantaloupes and other melons,2015,8.0,Wholesale
+United States of America,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2015,8.0,Wholesale
+United States of America,Cucumbers and gherkins,2015,8.0,Wholesale
+United States of America,Eggplants (aubergines),2015,10.0,Wholesale
+United States of America,Tomatoes,2015,15.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2015,10.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2015,10.0,Wholesale
+United States of America,Okra,2015,12.0,Wholesale
+United States of America,"Other beans, green",2015,8.0,Wholesale
+United States of America,"Other beans, green",2015,6.0,Wholesale
+United States of America,Carrots and turnips,2015,3.0,Wholesale
+United States of America,Carrots and turnips,2015,12.0,Wholesale
+United States of America,Green garlic,2015,19.0,Wholesale
+United States of America,"Onions and shallots, green",2015,6.0,Wholesale
+United States of America,Mushrooms and truffles,2015,6.0,Wholesale
+United States of America,Green corn (maize),2015,8.0,Wholesale
+United States of America,"Other vegetables, fresh n.e.c.",2015,7.0,Wholesale
+United States of America,Avocados,2015,6.0,Wholesale
+United States of America,"Mangoes, guavas and mangosteens",2015,5.0,Wholesale
+United States of America,Papayas,2015,5.0,Wholesale
+United States of America,Pineapples,2015,5.0,Wholesale
+United States of America,Pomelos and grapefruits,2015,3.0,Wholesale
+United States of America,Pomelos and grapefruits,2015,3.0,Wholesale
+United States of America,Lemons and limes,2015,4.0,Wholesale
+United States of America,Lemons and limes,2015,5.0,Wholesale
+United States of America,"Tangerines, mandarins, clementines",2015,5.0,Wholesale
+United States of America,Grapes,2015,9.0,Wholesale
+United States of America,Apples,2015,4.0,Wholesale
+United States of America,Pears,2015,5.0,Wholesale
+United States of America,Apricots,2015,9.0,Wholesale
+United States of America,Peaches and nectarines,2015,5.0,Wholesale
+United States of America,Plums and sloes,2015,5.0,Wholesale
+United States of America,Kiwi fruit,2015,9.0,Wholesale
+United States of America,Raspberries,2015,8.0,Wholesale
+United States of America,Strawberries,2015,8.0,Wholesale
+United States of America,Blueberries,2015,8.0,Wholesale
+United States of America,Cranberries,2015,4.0,Wholesale
+United States of America,Canned mushrooms,2015,35.0,Wholesale
+United States of America,Orange juice,2015,43.7,Wholesale
+United States of America,Grapefruit juice,2015,46.8,Wholesale
+United States of America,Pineapple juice,2015,41.3,Wholesale
+United States of America,Grape juice,2015,19.1,Wholesale
+United States of America,Apple juice,2015,26.7,Wholesale
+United States of America,Asparagus,2014,9.0,Wholesale
+United States of America,Cabbages,2014,12.0,Wholesale
+United States of America,Cabbages,2014,12.0,Wholesale
+United States of America,Cabbages,2014,12.0,Wholesale
+United States of America,Cabbages,2014,8.0,Wholesale
+United States of America,Cabbages,2014,7.0,Wholesale
+United States of America,Cauliflowers and broccoli,2014,8.0,Wholesale
+United States of America,Cauliflowers and broccoli,2014,8.0,Wholesale
+United States of America,Lettuce and chicory,2014,7.0,Wholesale
+United States of America,Lettuce and chicory,2014,10.0,Wholesale
+United States of America,Lettuce and chicory,2014,7.0,Wholesale
+United States of America,Spinach,2014,12.0,Wholesale
+United States of America,Artichokes,2014,7.0,Wholesale
+United States of America,Watermelons,2014,10.0,Wholesale
+United States of America,Cantaloupes and other melons,2014,8.0,Wholesale
+United States of America,Cantaloupes and other melons,2014,8.0,Wholesale
+United States of America,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2014,8.0,Wholesale
+United States of America,Cucumbers and gherkins,2014,8.0,Wholesale
+United States of America,Eggplants (aubergines),2014,10.0,Wholesale
+United States of America,Tomatoes,2014,15.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2014,10.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2014,10.0,Wholesale
+United States of America,Okra,2014,12.0,Wholesale
+United States of America,"Other beans, green",2014,8.0,Wholesale
+United States of America,"Other beans, green",2014,6.0,Wholesale
+United States of America,Carrots and turnips,2014,3.0,Wholesale
+United States of America,Carrots and turnips,2014,12.0,Wholesale
+United States of America,Green garlic,2014,19.0,Wholesale
+United States of America,"Onions and shallots, green",2014,6.0,Wholesale
+United States of America,Mushrooms and truffles,2014,6.0,Wholesale
+United States of America,Green corn (maize),2014,8.0,Wholesale
+United States of America,"Other vegetables, fresh n.e.c.",2014,7.0,Wholesale
+United States of America,Avocados,2014,6.0,Wholesale
+United States of America,"Mangoes, guavas and mangosteens",2014,5.0,Wholesale
+United States of America,Papayas,2014,5.0,Wholesale
+United States of America,Pineapples,2014,5.0,Wholesale
+United States of America,Pomelos and grapefruits,2014,3.0,Wholesale
+United States of America,Pomelos and grapefruits,2014,3.0,Wholesale
+United States of America,Lemons and limes,2014,5.0,Wholesale
+United States of America,Lemons and limes,2014,4.0,Wholesale
+United States of America,"Tangerines, mandarins, clementines",2014,5.0,Wholesale
+United States of America,Grapes,2014,9.0,Wholesale
+United States of America,Apples,2014,4.0,Wholesale
+United States of America,Pears,2014,5.0,Wholesale
+United States of America,Apricots,2014,9.0,Wholesale
+United States of America,Peaches and nectarines,2014,5.0,Wholesale
+United States of America,Plums and sloes,2014,5.0,Wholesale
+United States of America,Kiwi fruit,2014,9.0,Wholesale
+United States of America,Raspberries,2014,8.0,Wholesale
+United States of America,Strawberries,2014,8.0,Wholesale
+United States of America,Blueberries,2014,8.0,Wholesale
+United States of America,Cranberries,2014,4.0,Wholesale
+United States of America,Canned mushrooms,2014,35.0,Wholesale
+United States of America,Orange juice,2014,41.3,Wholesale
+United States of America,Grapefruit juice,2014,44.4,Wholesale
+United States of America,Pineapple juice,2014,41.3,Wholesale
+United States of America,Grape juice,2014,19.1,Wholesale
+United States of America,Apple juice,2014,26.7,Wholesale
+United States of America,Carrots and turnips,2014,63.0,Retail
+United States of America,Green corn (maize),2014,2.0,Retail
+United States of America,Bananas,2014,4.0,Retail
+United States of America,Papayas,2014,43.0,Retail
+United States of America,"Other fruits, n.e.c.",2014,9.0,Whole supply chain
+United States of America,"Other fruits, n.e.c.",2014,12.3,Retail
+United States of America,Asparagus,2013,9.0,Wholesale
+United States of America,Cabbages,2013,7.0,Wholesale
+United States of America,Cabbages,2013,8.0,Wholesale
+United States of America,Cabbages,2013,12.0,Wholesale
+United States of America,Cabbages,2013,12.0,Wholesale
+United States of America,Cabbages,2013,12.0,Wholesale
+United States of America,Cauliflowers and broccoli,2013,8.0,Wholesale
+United States of America,Cauliflowers and broccoli,2013,8.0,Wholesale
+United States of America,Lettuce and chicory,2013,7.0,Wholesale
+United States of America,Lettuce and chicory,2013,10.0,Wholesale
+United States of America,Lettuce and chicory,2013,7.0,Wholesale
+United States of America,Spinach,2013,12.0,Wholesale
+United States of America,Artichokes,2013,7.0,Wholesale
+United States of America,Watermelons,2013,10.0,Wholesale
+United States of America,Cantaloupes and other melons,2013,8.0,Wholesale
+United States of America,Cantaloupes and other melons,2013,8.0,Wholesale
+United States of America,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2013,8.0,Wholesale
+United States of America,Cucumbers and gherkins,2013,8.0,Wholesale
+United States of America,Eggplants (aubergines),2013,10.0,Wholesale
+United States of America,Tomatoes,2013,15.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2013,10.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2013,10.0,Wholesale
+United States of America,Okra,2013,12.0,Wholesale
+United States of America,"Other beans, green",2013,8.0,Wholesale
+United States of America,"Other beans, green",2013,6.0,Wholesale
+United States of America,Carrots and turnips,2013,12.0,Wholesale
+United States of America,Carrots and turnips,2013,3.0,Wholesale
+United States of America,Green garlic,2013,19.0,Wholesale
+United States of America,"Onions and shallots, green",2013,6.0,Wholesale
+United States of America,Mushrooms and truffles,2013,6.0,Wholesale
+United States of America,Green corn (maize),2013,8.0,Wholesale
+United States of America,"Other vegetables, fresh n.e.c.",2013,7.0,Wholesale
+United States of America,Avocados,2013,6.0,Wholesale
+United States of America,"Mangoes, guavas and mangosteens",2013,5.0,Wholesale
+United States of America,Papayas,2013,5.0,Wholesale
+United States of America,Pineapples,2013,5.0,Wholesale
+United States of America,Pomelos and grapefruits,2013,3.0,Wholesale
+United States of America,Pomelos and grapefruits,2013,3.0,Wholesale
+United States of America,Lemons and limes,2013,5.0,Wholesale
+United States of America,Lemons and limes,2013,4.0,Wholesale
+United States of America,"Tangerines, mandarins, clementines",2013,5.0,Wholesale
+United States of America,Grapes,2013,9.0,Wholesale
+United States of America,Apples,2013,4.0,Wholesale
+United States of America,Pears,2013,5.0,Wholesale
+United States of America,Apricots,2013,9.0,Wholesale
+United States of America,Peaches and nectarines,2013,5.0,Wholesale
+United States of America,Plums and sloes,2013,5.0,Wholesale
+United States of America,Kiwi fruit,2013,9.0,Wholesale
+United States of America,Raspberries,2013,8.0,Wholesale
+United States of America,Strawberries,2013,8.0,Wholesale
+United States of America,Blueberries,2013,8.0,Wholesale
+United States of America,Cranberries,2013,4.0,Wholesale
+United States of America,Canned mushrooms,2013,35.0,Wholesale
+United States of America,Orange juice,2013,39.5,Wholesale
+United States of America,Grapefruit juice,2013,41.6,Wholesale
+United States of America,Pineapple juice,2013,41.3,Wholesale
+United States of America,Grape juice,2013,19.1,Wholesale
+United States of America,Apple juice,2013,26.7,Wholesale
+United States of America,Asparagus,2012,9.0,Wholesale
+United States of America,Cabbages,2012,12.0,Wholesale
+United States of America,Cabbages,2012,8.0,Wholesale
+United States of America,Cabbages,2012,12.0,Wholesale
+United States of America,Cabbages,2012,7.0,Wholesale
+United States of America,Cabbages,2012,12.0,Wholesale
+United States of America,Cauliflowers and broccoli,2012,8.0,Wholesale
+United States of America,Cauliflowers and broccoli,2012,8.0,Wholesale
+United States of America,Lettuce and chicory,2012,7.0,Wholesale
+United States of America,Lettuce and chicory,2012,7.0,Wholesale
+United States of America,Lettuce and chicory,2012,10.0,Wholesale
+United States of America,Spinach,2012,12.0,Wholesale
+United States of America,Artichokes,2012,7.0,Wholesale
+United States of America,Watermelons,2012,10.0,Wholesale
+United States of America,Cantaloupes and other melons,2012,8.0,Wholesale
+United States of America,Cantaloupes and other melons,2012,8.0,Wholesale
+United States of America,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2012,8.0,Wholesale
+United States of America,Cucumbers and gherkins,2012,8.0,Wholesale
+United States of America,Eggplants (aubergines),2012,10.0,Wholesale
+United States of America,Tomatoes,2012,15.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2012,10.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2012,10.0,Wholesale
+United States of America,Okra,2012,12.0,Wholesale
+United States of America,"Other beans, green",2012,6.0,Wholesale
+United States of America,"Other beans, green",2012,8.0,Wholesale
+United States of America,Carrots and turnips,2012,3.0,Wholesale
+United States of America,Carrots and turnips,2012,12.0,Wholesale
+United States of America,Green garlic,2012,19.0,Wholesale
+United States of America,"Onions and shallots, green",2012,6.0,Wholesale
+United States of America,Mushrooms and truffles,2012,6.0,Wholesale
+United States of America,Green corn (maize),2012,8.0,Wholesale
+United States of America,"Other vegetables, fresh n.e.c.",2012,7.0,Wholesale
+United States of America,Avocados,2012,6.0,Wholesale
+United States of America,"Mangoes, guavas and mangosteens",2012,5.0,Wholesale
+United States of America,Papayas,2012,5.0,Wholesale
+United States of America,Pineapples,2012,5.0,Wholesale
+United States of America,Pomelos and grapefruits,2012,3.0,Wholesale
+United States of America,Pomelos and grapefruits,2012,3.0,Wholesale
+United States of America,Lemons and limes,2012,5.0,Wholesale
+United States of America,Lemons and limes,2012,4.0,Wholesale
+United States of America,"Tangerines, mandarins, clementines",2012,5.0,Wholesale
+United States of America,Grapes,2012,9.0,Wholesale
+United States of America,Apples,2012,4.0,Wholesale
+United States of America,Pears,2012,5.0,Wholesale
+United States of America,Apricots,2012,9.0,Wholesale
+United States of America,Peaches and nectarines,2012,5.0,Wholesale
+United States of America,Plums and sloes,2012,5.0,Wholesale
+United States of America,Kiwi fruit,2012,9.0,Wholesale
+United States of America,Raspberries,2012,8.0,Wholesale
+United States of America,Strawberries,2012,8.0,Wholesale
+United States of America,Blueberries,2012,8.0,Wholesale
+United States of America,Cranberries,2012,4.0,Wholesale
+United States of America,Canned mushrooms,2012,35.0,Wholesale
+United States of America,Orange juice,2012,40.1,Wholesale
+United States of America,Grapefruit juice,2012,39.2,Wholesale
+United States of America,Pineapple juice,2012,41.3,Wholesale
+United States of America,Grape juice,2012,19.1,Wholesale
+United States of America,Apple juice,2012,26.7,Wholesale
+United States of America,Asparagus,2011,9.0,Wholesale
+United States of America,Cabbages,2011,12.0,Wholesale
+United States of America,Cabbages,2011,8.0,Wholesale
+United States of America,Cabbages,2011,7.0,Wholesale
+United States of America,Cabbages,2011,12.0,Wholesale
+United States of America,Cabbages,2011,12.0,Wholesale
+United States of America,Cauliflowers and broccoli,2011,8.0,Wholesale
+United States of America,Cauliflowers and broccoli,2011,8.0,Wholesale
+United States of America,Lettuce and chicory,2011,7.0,Wholesale
+United States of America,Lettuce and chicory,2011,10.0,Wholesale
+United States of America,Lettuce and chicory,2011,7.0,Wholesale
+United States of America,Spinach,2011,12.0,Wholesale
+United States of America,Artichokes,2011,7.0,Wholesale
+United States of America,Watermelons,2011,10.0,Wholesale
+United States of America,Cantaloupes and other melons,2011,8.0,Wholesale
+United States of America,Cantaloupes and other melons,2011,8.0,Wholesale
+United States of America,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2011,8.0,Wholesale
+United States of America,Cucumbers and gherkins,2011,8.0,Wholesale
+United States of America,Eggplants (aubergines),2011,10.0,Wholesale
+United States of America,Tomatoes,2011,15.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2011,10.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2011,10.0,Wholesale
+United States of America,Okra,2011,12.0,Wholesale
+United States of America,"Other beans, green",2011,8.0,Wholesale
+United States of America,"Other beans, green",2011,6.0,Wholesale
+United States of America,Carrots and turnips,2011,12.0,Wholesale
+United States of America,Carrots and turnips,2011,3.0,Wholesale
+United States of America,Green garlic,2011,19.0,Wholesale
+United States of America,"Onions and shallots, green",2011,6.0,Wholesale
+United States of America,Mushrooms and truffles,2011,6.0,Wholesale
+United States of America,Green corn (maize),2011,8.0,Wholesale
+United States of America,"Other vegetables, fresh n.e.c.",2011,7.0,Wholesale
+United States of America,Avocados,2011,6.0,Wholesale
+United States of America,"Mangoes, guavas and mangosteens",2011,5.0,Wholesale
+United States of America,Papayas,2011,5.0,Wholesale
+United States of America,Pineapples,2011,5.0,Wholesale
+United States of America,Pomelos and grapefruits,2011,3.0,Wholesale
+United States of America,Pomelos and grapefruits,2011,3.0,Wholesale
+United States of America,Lemons and limes,2011,5.0,Wholesale
+United States of America,Lemons and limes,2011,4.0,Wholesale
+United States of America,"Tangerines, mandarins, clementines",2011,5.0,Wholesale
+United States of America,Grapes,2011,9.0,Wholesale
+United States of America,Apples,2011,4.0,Wholesale
+United States of America,Pears,2011,5.0,Wholesale
+United States of America,Apricots,2011,9.0,Wholesale
+United States of America,Peaches and nectarines,2011,5.0,Wholesale
+United States of America,Plums and sloes,2011,5.0,Wholesale
+United States of America,Kiwi fruit,2011,9.0,Wholesale
+United States of America,Raspberries,2011,8.0,Wholesale
+United States of America,Strawberries,2011,8.0,Wholesale
+United States of America,Blueberries,2011,8.0,Wholesale
+United States of America,Cranberries,2011,4.0,Wholesale
+United States of America,Canned mushrooms,2011,35.0,Wholesale
+United States of America,Orange juice,2011,41.4,Wholesale
+United States of America,Grapefruit juice,2011,39.7,Wholesale
+United States of America,Pineapple juice,2011,41.3,Wholesale
+United States of America,Grape juice,2011,19.1,Wholesale
+United States of America,Apple juice,2011,26.7,Wholesale
+United States of America,Asparagus,2010,9.0,Wholesale
+United States of America,Cabbages,2010,8.0,Wholesale
+United States of America,Cabbages,2010,12.0,Wholesale
+United States of America,Cabbages,2010,12.0,Wholesale
+United States of America,Cabbages,2010,12.0,Wholesale
+United States of America,Cabbages,2010,7.0,Wholesale
+United States of America,Cauliflowers and broccoli,2010,8.0,Wholesale
+United States of America,Cauliflowers and broccoli,2010,8.0,Wholesale
+United States of America,Lettuce and chicory,2010,10.0,Wholesale
+United States of America,Lettuce and chicory,2010,7.0,Wholesale
+United States of America,Lettuce and chicory,2010,7.0,Wholesale
+United States of America,Spinach,2010,12.0,Wholesale
+United States of America,Artichokes,2010,7.0,Wholesale
+United States of America,Watermelons,2010,10.0,Wholesale
+United States of America,Cantaloupes and other melons,2010,8.0,Wholesale
+United States of America,Cantaloupes and other melons,2010,8.0,Wholesale
+United States of America,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2010,8.0,Wholesale
+United States of America,Cucumbers and gherkins,2010,8.0,Wholesale
+United States of America,Eggplants (aubergines),2010,10.0,Wholesale
+United States of America,Tomatoes,2010,15.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2010,10.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2010,10.0,Wholesale
+United States of America,Okra,2010,12.0,Wholesale
+United States of America,"Other beans, green",2010,8.0,Wholesale
+United States of America,"Other beans, green",2010,6.0,Wholesale
+United States of America,Carrots and turnips,2010,3.0,Wholesale
+United States of America,Carrots and turnips,2010,12.0,Wholesale
+United States of America,Green garlic,2010,19.0,Wholesale
+United States of America,"Onions and shallots, green",2010,6.0,Wholesale
+United States of America,Mushrooms and truffles,2010,6.0,Wholesale
+United States of America,Green corn (maize),2010,8.0,Wholesale
+United States of America,"Other vegetables, fresh n.e.c.",2010,7.0,Wholesale
+United States of America,Avocados,2010,6.0,Wholesale
+United States of America,"Mangoes, guavas and mangosteens",2010,5.0,Wholesale
+United States of America,Papayas,2010,5.0,Wholesale
+United States of America,Pineapples,2010,5.0,Wholesale
+United States of America,Pomelos and grapefruits,2010,3.0,Wholesale
+United States of America,Pomelos and grapefruits,2010,3.0,Wholesale
+United States of America,Lemons and limes,2010,4.0,Wholesale
+United States of America,Lemons and limes,2010,5.0,Wholesale
+United States of America,"Tangerines, mandarins, clementines",2010,5.0,Wholesale
+United States of America,Grapes,2010,9.0,Wholesale
+United States of America,Apples,2010,4.0,Wholesale
+United States of America,Pears,2010,5.0,Wholesale
+United States of America,Apricots,2010,9.0,Wholesale
+United States of America,Peaches and nectarines,2010,5.0,Wholesale
+United States of America,Plums and sloes,2010,5.0,Wholesale
+United States of America,Kiwi fruit,2010,9.0,Wholesale
+United States of America,Raspberries,2010,8.0,Wholesale
+United States of America,Strawberries,2010,8.0,Wholesale
+United States of America,Blueberries,2010,8.0,Wholesale
+United States of America,Cranberries,2010,4.0,Wholesale
+United States of America,Canned mushrooms,2010,35.0,Wholesale
+United States of America,Orange juice,2010,39.0,Wholesale
+United States of America,Grapefruit juice,2010,40.9,Wholesale
+United States of America,Pineapple juice,2010,41.3,Wholesale
+United States of America,Grape juice,2010,19.1,Wholesale
+United States of America,Apple juice,2010,26.7,Wholesale
+United States of America,Asparagus,2009,9.0,Wholesale
+United States of America,Cabbages,2009,8.0,Wholesale
+United States of America,Cabbages,2009,12.0,Wholesale
+United States of America,Cabbages,2009,12.0,Wholesale
+United States of America,Cabbages,2009,7.0,Wholesale
+United States of America,Cabbages,2009,12.0,Wholesale
+United States of America,Cauliflowers and broccoli,2009,8.0,Wholesale
+United States of America,Cauliflowers and broccoli,2009,8.0,Wholesale
+United States of America,Lettuce and chicory,2009,10.0,Wholesale
+United States of America,Lettuce and chicory,2009,7.0,Wholesale
+United States of America,Lettuce and chicory,2009,7.0,Wholesale
+United States of America,Spinach,2009,12.0,Wholesale
+United States of America,Artichokes,2009,7.0,Wholesale
+United States of America,Watermelons,2009,10.0,Wholesale
+United States of America,Cantaloupes and other melons,2009,8.0,Wholesale
+United States of America,Cantaloupes and other melons,2009,8.0,Wholesale
+United States of America,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2009,8.0,Wholesale
+United States of America,Cucumbers and gherkins,2009,8.0,Wholesale
+United States of America,Eggplants (aubergines),2009,10.0,Wholesale
+United States of America,Tomatoes,2009,15.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2009,10.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2009,10.0,Wholesale
+United States of America,Okra,2009,12.0,Wholesale
+United States of America,"Other beans, green",2009,6.0,Wholesale
+United States of America,"Other beans, green",2009,8.0,Wholesale
+United States of America,Carrots and turnips,2009,12.0,Wholesale
+United States of America,Carrots and turnips,2009,3.0,Wholesale
+United States of America,Green garlic,2009,19.0,Wholesale
+United States of America,"Onions and shallots, green",2009,6.0,Wholesale
+United States of America,Mushrooms and truffles,2009,6.0,Wholesale
+United States of America,Green corn (maize),2009,8.0,Wholesale
+United States of America,"Other vegetables, fresh n.e.c.",2009,7.0,Wholesale
+United States of America,Avocados,2009,6.0,Wholesale
+United States of America,"Mangoes, guavas and mangosteens",2009,5.0,Wholesale
+United States of America,Papayas,2009,5.0,Wholesale
+United States of America,Pineapples,2009,5.0,Wholesale
+United States of America,Pomelos and grapefruits,2009,3.0,Wholesale
+United States of America,Pomelos and grapefruits,2009,3.0,Wholesale
+United States of America,Lemons and limes,2009,4.0,Wholesale
+United States of America,Lemons and limes,2009,5.0,Wholesale
+United States of America,"Tangerines, mandarins, clementines",2009,5.0,Wholesale
+United States of America,Grapes,2009,9.0,Wholesale
+United States of America,Apples,2009,4.0,Wholesale
+United States of America,Pears,2009,5.0,Wholesale
+United States of America,Apricots,2009,9.0,Wholesale
+United States of America,Peaches and nectarines,2009,5.0,Wholesale
+United States of America,Plums and sloes,2009,5.0,Wholesale
+United States of America,Kiwi fruit,2009,9.0,Wholesale
+United States of America,Raspberries,2009,8.0,Wholesale
+United States of America,Strawberries,2009,8.0,Wholesale
+United States of America,Blueberries,2009,8.0,Wholesale
+United States of America,Cranberries,2009,4.0,Wholesale
+United States of America,Canned mushrooms,2009,35.0,Wholesale
+United States of America,Orange juice,2009,37.5,Wholesale
+United States of America,Grapefruit juice,2009,39.9,Wholesale
+United States of America,Pineapple juice,2009,41.3,Wholesale
+United States of America,Grape juice,2009,19.1,Wholesale
+United States of America,Apple juice,2009,26.7,Wholesale
+United States of America,Asparagus,2008,9.0,Wholesale
+United States of America,Cabbages,2008,12.0,Wholesale
+United States of America,Cabbages,2008,7.0,Wholesale
+United States of America,Cabbages,2008,12.0,Wholesale
+United States of America,Cabbages,2008,12.0,Wholesale
+United States of America,Cabbages,2008,8.0,Wholesale
+United States of America,Cauliflowers and broccoli,2008,8.0,Wholesale
+United States of America,Cauliflowers and broccoli,2008,8.0,Wholesale
+United States of America,Lettuce and chicory,2008,10.0,Wholesale
+United States of America,Lettuce and chicory,2008,7.0,Wholesale
+United States of America,Lettuce and chicory,2008,7.0,Wholesale
+United States of America,Spinach,2008,12.0,Wholesale
+United States of America,Artichokes,2008,7.0,Wholesale
+United States of America,Watermelons,2008,10.0,Wholesale
+United States of America,Cantaloupes and other melons,2008,8.0,Wholesale
+United States of America,Cantaloupes and other melons,2008,8.0,Wholesale
+United States of America,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2008,8.0,Wholesale
+United States of America,Cucumbers and gherkins,2008,8.0,Wholesale
+United States of America,Eggplants (aubergines),2008,10.0,Wholesale
+United States of America,Tomatoes,2008,15.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2008,10.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2008,10.0,Wholesale
+United States of America,Okra,2008,12.0,Wholesale
+United States of America,"Other beans, green",2008,6.0,Wholesale
+United States of America,"Other beans, green",2008,8.0,Wholesale
+United States of America,Carrots and turnips,2008,12.0,Wholesale
+United States of America,Carrots and turnips,2008,3.0,Wholesale
+United States of America,Green garlic,2008,19.0,Wholesale
+United States of America,"Onions and shallots, green",2008,6.0,Wholesale
+United States of America,Mushrooms and truffles,2008,6.0,Wholesale
+United States of America,Green corn (maize),2008,8.0,Wholesale
+United States of America,"Other vegetables, fresh n.e.c.",2008,7.0,Wholesale
+United States of America,Avocados,2008,6.0,Wholesale
+United States of America,"Mangoes, guavas and mangosteens",2008,5.0,Wholesale
+United States of America,Papayas,2008,5.0,Wholesale
+United States of America,Pineapples,2008,5.0,Wholesale
+United States of America,Pomelos and grapefruits,2008,3.0,Wholesale
+United States of America,Pomelos and grapefruits,2008,3.0,Wholesale
+United States of America,Lemons and limes,2008,5.0,Wholesale
+United States of America,Lemons and limes,2008,4.0,Wholesale
+United States of America,"Tangerines, mandarins, clementines",2008,5.0,Wholesale
+United States of America,Grapes,2008,9.0,Wholesale
+United States of America,Apples,2008,4.0,Wholesale
+United States of America,Pears,2008,5.0,Wholesale
+United States of America,Apricots,2008,9.0,Wholesale
+United States of America,Peaches and nectarines,2008,5.0,Wholesale
+United States of America,Plums and sloes,2008,5.0,Wholesale
+United States of America,Kiwi fruit,2008,9.0,Wholesale
+United States of America,Raspberries,2008,8.0,Wholesale
+United States of America,Strawberries,2008,8.0,Wholesale
+United States of America,Blueberries,2008,8.0,Wholesale
+United States of America,Cranberries,2008,4.0,Wholesale
+United States of America,Canned mushrooms,2008,35.0,Wholesale
+United States of America,Orange juice,2008,39.0,Wholesale
+United States of America,Grapefruit juice,2008,38.3,Wholesale
+United States of America,Pineapple juice,2008,41.3,Wholesale
+United States of America,Grape juice,2008,19.1,Wholesale
+United States of America,Apple juice,2008,26.7,Wholesale
+United States of America,"Other fruits, n.e.c.",2008,19.0,Households
+United States of America,"Other fruits, n.e.c.",2008,11.0,Retail
+United States of America,Asparagus,2008,28.0,Households
+United States of America,Asparagus,2008,15.0,Households
+United States of America,Asparagus,2008,34.0,Households
+United States of America,Cabbages,2008,31.0,Households
+United States of America,Cabbages,2008,15.0,Households
+United States of America,Cabbages,2008,31.0,Households
+United States of America,Cauliflowers and broccoli,2008,22.0,Households
+United States of America,Cauliflowers and broccoli,2008,30.0,Households
+United States of America,Cauliflowers and broccoli,2008,31.0,Households
+United States of America,Cauliflowers and broccoli,2008,21.0,Households
+United States of America,Lettuce and chicory,2008,27.0,Households
+United States of America,Lettuce and chicory,2008,31.0,Households
+United States of America,Spinach,2008,32.0,Households
+United States of America,Spinach,2008,28.0,Households
+United States of America,Artichokes,2008,35.0,Households
+United States of America,Watermelons,2008,33.0,Households
+United States of America,Cantaloupes and other melons,2008,30.0,Households
+United States of America,Cucumbers and gherkins,2008,15.0,Households
+United States of America,Cucumbers and gherkins,2008,15.0,Households
+United States of America,Cucumbers and gherkins,2008,25.0,Households
+United States of America,Eggplants (aubergines),2008,43.0,Households
+United States of America,Tomatoes,2008,31.0,Households
+United States of America,"Pumpkins, squash and gourds",2008,29.0,Households
+United States of America,"Pumpkins, squash and gourds",2008,30.0,Households
+United States of America,Okra,2008,40.0,Households
+United States of America,"Peas, green",2008,22.0,Households
+United States of America,"Peas, green",2008,15.0,Households
+United States of America,"Peas, green",2008,15.0,Households
+United States of America,Carrots and turnips,2008,24.0,Households
+United States of America,Carrots and turnips,2008,15.0,Households
+United States of America,Carrots and turnips,2008,17.0,Households
+United States of America,Carrots and turnips,2008,53.0,Households
+United States of America,Green garlic,2008,26.0,Households
+United States of America,Mushrooms and truffles,2008,30.0,Households
+United States of America,Avocados,2008,27.0,Households
+United States of America,Bananas,2008,26.0,Households
+United States of America,Dates,2008,15.0,Households
+United States of America,Figs,2008,15.0,Households
+United States of America,Papayas,2008,64.0,Households
+United States of America,Pineapples,2008,15.0,Households
+United States of America,Pineapples,2008,32.0,Households
+United States of America,Pomelos and grapefruits,2008,30.0,Households
+United States of America,Lemons and limes,2008,26.0,Households
+United States of America,Oranges,2008,29.0,Households
+United States of America,Grapes,2008,26.0,Households
+United States of America,Apples,2008,15.0,Households
+United States of America,Apples,2008,15.0,Households
+United States of America,Apples,2008,15.0,Households
+United States of America,Apples,2008,27.0,Households
+United States of America,Pears,2008,15.0,Households
+United States of America,Pears,2008,34.0,Households
+United States of America,Apricots,2008,15.0,Households
+United States of America,Apricots,2008,15.0,Households
+United States of America,Apricots,2008,48.0,Households
+United States of America,Apricots,2008,15.0,Households
+United States of America,Cherries,2008,15.0,Households
+United States of America,Cherries,2008,15.0,Households
+United States of America,Cherries,2008,15.0,Households
+United States of America,Cherries,2008,23.0,Households
+United States of America,Peaches and nectarines,2008,15.0,Households
+United States of America,Peaches and nectarines,2008,15.0,Households
+United States of America,Peaches and nectarines,2008,15.0,Households
+United States of America,Peaches and nectarines,2008,43.0,Households
+United States of America,Plums and sloes,2008,15.0,Households
+United States of America,Plums and sloes,2008,34.0,Households
+United States of America,Plums and sloes,2008,15.0,Households
+United States of America,Plums and sloes,2008,15.0,Households
+United States of America,Kiwi fruit,2008,30.0,Households
+United States of America,Raspberries,2008,28.0,Households
+United States of America,Raspberries,2008,15.0,Households
+United States of America,Strawberries,2008,15.0,Households
+United States of America,Strawberries,2008,28.0,Households
+United States of America,Blueberries,2008,24.0,Households
+United States of America,Blueberries,2008,15.0,Households
+United States of America,Cranberries,2008,25.0,Households
+United States of America,"Other fruits, n.e.c.",2008,12.0,Retail
+United States of America,"Other fruits, n.e.c.",2008,9.0,Households
+United States of America,"Other fruits, n.e.c.",2008,9.0,Retail
+United States of America,"Other fruits, n.e.c.",2008,6.0,Retail
+United States of America,"Other fruits, n.e.c.",2008,38.0,Households
+United States of America,"Other fruits, n.e.c.",2008,15.0,Households
+United States of America,"Other fruits, n.e.c.",2008,18.0,Households
+United States of America,"Sweet corn, frozen",2008,15.0,Households
+United States of America,Canned mushrooms,2008,15.0,Households
+United States of America,"Sweet corn, prepared or preserved",2008,19.0,Households
+United States of America,"Sweet corn, prepared or preserved",2008,32.0,Households
+United States of America,Raisins,2008,15.0,Households
+United States of America,Orange juice,2008,15.0,Households
+United States of America,Grapefruit juice,2008,15.0,Households
+United States of America,Pineapple juice,2008,15.0,Households
+United States of America,Grape juice,2008,15.0,Households
+United States of America,Juice of lemon,2008,15.0,Households
+United States of America,Juice of citrus fruit n.e.c.,2008,15.0,Households
+United States of America,Asparagus,2007,9.0,Wholesale
+United States of America,Cabbages,2007,12.0,Wholesale
+United States of America,Cabbages,2007,12.0,Wholesale
+United States of America,Cabbages,2007,8.0,Wholesale
+United States of America,Cabbages,2007,12.0,Wholesale
+United States of America,Cabbages,2007,7.0,Wholesale
+United States of America,Cauliflowers and broccoli,2007,8.0,Wholesale
+United States of America,Cauliflowers and broccoli,2007,8.0,Wholesale
+United States of America,Lettuce and chicory,2007,10.0,Wholesale
+United States of America,Lettuce and chicory,2007,7.0,Wholesale
+United States of America,Lettuce and chicory,2007,7.0,Wholesale
+United States of America,Spinach,2007,12.0,Wholesale
+United States of America,Artichokes,2007,7.0,Wholesale
+United States of America,Watermelons,2007,10.0,Wholesale
+United States of America,Cantaloupes and other melons,2007,8.0,Wholesale
+United States of America,Cantaloupes and other melons,2007,8.0,Wholesale
+United States of America,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",2007,8.0,Wholesale
+United States of America,Cucumbers and gherkins,2007,8.0,Wholesale
+United States of America,Eggplants (aubergines),2007,10.0,Wholesale
+United States of America,Tomatoes,2007,15.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2007,10.0,Wholesale
+United States of America,"Pumpkins, squash and gourds",2007,10.0,Wholesale
+United States of America,Okra,2007,12.0,Wholesale
+United States of America,"Other beans, green",2007,8.0,Wholesale
+United States of America,"Other beans, green",2007,6.0,Wholesale
+United States of America,Carrots and turnips,2007,3.0,Wholesale
+United States of America,Carrots and turnips,2007,12.0,Wholesale
+United States of America,Green garlic,2007,19.0,Wholesale
+United States of America,"Onions and shallots, green",2007,6.0,Wholesale
+United States of America,Mushrooms and truffles,2007,6.0,Wholesale
+United States of America,Green corn (maize),2007,8.0,Wholesale
+United States of America,"Other vegetables, fresh n.e.c.",2007,7.0,Wholesale
+United States of America,Avocados,2007,6.0,Wholesale
+United States of America,"Mangoes, guavas and mangosteens",2007,5.0,Wholesale
+United States of America,Papayas,2007,5.0,Wholesale
+United States of America,Pineapples,2007,5.0,Wholesale
+United States of America,Pomelos and grapefruits,2007,3.0,Wholesale
+United States of America,Pomelos and grapefruits,2007,3.0,Wholesale
+United States of America,Lemons and limes,2007,4.0,Wholesale
+United States of America,Lemons and limes,2007,5.0,Wholesale
+United States of America,"Tangerines, mandarins, clementines",2007,5.0,Wholesale
+United States of America,Grapes,2007,9.0,Wholesale
+United States of America,Apples,2007,4.0,Wholesale
+United States of America,Pears,2007,5.0,Wholesale
+United States of America,Apricots,2007,9.0,Wholesale
+United States of America,Peaches and nectarines,2007,5.0,Wholesale
+United States of America,Plums and sloes,2007,5.0,Wholesale
+United States of America,Kiwi fruit,2007,9.0,Wholesale
+United States of America,Raspberries,2007,8.0,Wholesale
+United States of America,Strawberries,2007,8.0,Wholesale
+United States of America,Blueberries,2007,8.0,Wholesale
+United States of America,Cranberries,2007,4.0,Wholesale
+United States of America,Canned mushrooms,2007,35.0,Wholesale
+United States of America,Orange juice,2007,39.0,Wholesale
+United States of America,Grapefruit juice,2007,42.4,Wholesale
+United States of America,Pineapple juice,2007,41.3,Wholesale
+United States of America,Grape juice,2007,19.1,Wholesale
+United States of America,Apple juice,2007,26.7,Wholesale
+Venezuela (Bolivarian Republic of),Cauliflowers and broccoli,2013,49.0,Post-harvest
+Venezuela (Bolivarian Republic of),Cauliflowers and broccoli,2013,33.0,Post-harvest
+Venezuela (Bolivarian Republic of),Lettuce and chicory,2013,35.0,Post-harvest
+Venezuela (Bolivarian Republic of),"Other vegetables, fresh n.e.c.",2013,20.0,Farm
+Venezuela (Bolivarian Republic of),"Other vegetables, fresh n.e.c.",2013,48.0,Post-harvest
